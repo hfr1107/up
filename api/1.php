@@ -1,5 +1,5 @@
 <?php
-$handle = fopen ("http://lige.unaux.com/?url=http://%E9%A5%AD%E5%A4%AA%E7%A1%AC.top/tv&i=1", "rb");
+$handle = fopen ("https://t4vod.hz.cz/api/pz?url=http://饭太硬.top/tv", "rb");
 $contents = "";
 do {
 $data = fread($handle, 1024);
