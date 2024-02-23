@@ -1,3 +1,3 @@
 <?php 
-header("location: https://xn--sss604efuw.top/"); 
+header("location: https://饭太硬.top/"); 
 ?> 
