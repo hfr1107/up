@@ -1,5 +1,5 @@
 <?php
-$t_url=$_GET['url'];
+$url='http://饭太硬.top/tv';
 if(!empty($t_url)) {
 preg_match('/(http|https):\/\//',$t_url,$matches);
 if($matches){
