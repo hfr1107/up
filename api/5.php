@@ -5,9 +5,16 @@
 //exit;
 //?>
 
+//<?php  
+//$url = "http://肥猫.live";  
+//echo "<script language= 'javascript' type='text/javascript'>";  
+//echo "window.location.href='$url'";  
+//echo "</script>";  
+//?> 
+
 <?php  
 $url = "http://肥猫.live";  
-echo "<script language= 'javascript' type='text/javascript'>";  
-echo "window.location.href='$url'";  
+echo "<script type='text/javascript'>";  
+echo "window.location.replace='$url'";  
 echo "</script>";  
 ?> 
