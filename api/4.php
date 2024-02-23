@@ -1,5 +1,5 @@
 <?php
-$url = "http://lige.unaux.com/?url=http://%E9%A5%AD%E5%A4%AA%E7%A1%AC.top/tv&i=1";
+$url = "https://www.xn--sss604efuw.top/jm/jiemi.php?url=https://agit.ai/leevi/PiG/raw/branch/master/jsm.json";
 $ch = curl_init();
 $timeout = 5;
 curl_setopt($ch, CURLOPT_URL, $url);
