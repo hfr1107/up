@@ -1,4 +1,3 @@
-
 <?php
 header("Content-Type:text/html;charset=utf-8");
 $keyworld="https://pastebin.com/raw/5NHaxyGR"; 
