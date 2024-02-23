@@ -1,3 +1,3 @@
 <?php 
-header("location: https://饭太硬.top/"); 
+header("location: http://肥猫.live"); 
 ?> 
