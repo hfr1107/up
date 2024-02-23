@@ -6,7 +6,7 @@ exit;
 ?>
 
 //<?php  
-//$url = "http://饭太硬.top/tv";  
+//$url = "https://www.xn--sss604efuw.top/";  
 //echo "<script language= 'javascript' type='text/javascript'>";  
 //echo "window.location.href='$url'";  
 //echo "</script>";  
