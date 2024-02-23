@@ -1,4 +1,9 @@
-<?php 
-$txt="这是输出内容@”;
-  echo $txt;
+
+<?php
+
+Header("Location: http://www.饭太硬.top/tv/"); 
+
+# URL也可以使用变量
+ ## Header("Location: $url"); 
+ 
 ?>
