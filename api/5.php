@@ -1,4 +1,4 @@
 <?php  
-$url = "http://肥猫.live";  
+$url = "https://pastebin.com/raw/5NHaxyGR";  
 echo "";  
 ?> 
