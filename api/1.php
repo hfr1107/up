@@ -1,5 +1,5 @@
 <?php
-$handle = fopen ("http://饭太硬.top/tv", "rb");
+$handle = fopen ("http://肥猫.live", "rb");
 $contents = "";
 do {
 $data = fread($handle, 1024);
