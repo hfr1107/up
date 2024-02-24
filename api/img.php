@@ -1,8 +1,8 @@
 <?php
-
 //存有链接的文件名，这里是存放图片链接的txt文件
 $filename = "/img.txt";
-if(!file_exists($filename)){
+if(!file_exists($filename))
+{
 die('文件不存在');
 }
 
