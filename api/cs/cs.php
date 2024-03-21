@@ -1,7 +1,7 @@
 <?php 
 //JSRUN引擎2.0，支持多达30种语言在线运行，全仿真在线交互输入输出。 
 // 假设JSON文件名为"data.json"
-$jsonFile = "http://饭太硬.top/tv";
+$jsonFile = "https://hfr1107.github.io/gao/9918.json";
  
 
 // 读取文件内容
@@ -19,3 +19,14 @@ $dataObject = json_decode($jsonData);
  
 // 使用对象中的数据
 print_r($dataObject);
+ 
+// 使用正则表达式匹配隐藏的JSON数据
+preg_match_all('/<!--([^{}]*?)-->/', "https://hfr1107.github.io/gao/9918.json", $matches);
+ 
+// 提取并解码JSON数据
+$jsonData = array_map(function($match) {
+    return json_decode($match, true);
+}, $matches[1]);
+ 
+// 输出结果
+print_r($jsonData);
