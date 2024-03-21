@@ -13,6 +13,7 @@ $dataArray = json_decode($jsonData, true);
 // 使用数组中的数据
 print_r($dataArray);
 
+$jsonFile = "https://hfr1107.github.io/gao/9918.json";
 
 // 将JSON字符串转换为PHP对象
 $dataObject = json_decode($jsonData);
