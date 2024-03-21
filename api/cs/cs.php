@@ -12,3 +12,10 @@ $dataObject = json_decode($jsonData);
  
 // 使用对象中的数据
 print_r($dataObject);
+
+
+// 将JSON字符串转换为PHP对象
+$dataObject = json_decode($jsonData);
+ 
+// 使用对象中的数据
+print_r($dataObject);
