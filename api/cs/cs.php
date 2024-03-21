@@ -7,11 +7,11 @@ $jsonFile = "http://饭太硬.top/tv";
 // 读取文件内容
 $jsonData = file_get_contents($jsonFile);
  
-// 将JSON字符串转换为PHP对象
-$dataObject = json_decode($jsonData);
+// 将JSON字符串转换为PHP数组
+$dataArray = json_decode($jsonData, true);
  
-// 使用对象中的数据
-print_r($dataObject);
+// 使用数组中的数据
+print_r($dataArray);
 
 
 // 将JSON字符串转换为PHP对象
