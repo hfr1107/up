@@ -1,7 +1,7 @@
 <?php 
 //JSRUN引擎2.0，支持多达30种语言在线运行，全仿真在线交互输入输出。 
 // 假设JSON文件名为"data.json"
-$jsonFile = "https://hfr1107.github.io/gao/9918.json";
+$jsonFile = "http://饭太硬.top/tv";
  
 
 // 读取文件内容
