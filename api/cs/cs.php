@@ -1,10 +1,3 @@
-//https://hfr1107.top/api/cs/cs.php?p=live&v=1   //https://hfr1107.github.io/up/tv/tv.txt   
-//https://hfr1107.top/api/cs/cs.php?p=live&v=2   //https://hfr1107.github.io/up/tv/tv1.txt   
-//https://hfr1107.top/api/cs/cs.php?p=live&v=3   //https://hfr1107.github.io/up/tv/tv2.txt  
-//https://hfr1107.top/api/cs/cs.php?p=app&v=1   //https://hfr1107.github.io/up/appmarket/ads.php   
-//https://hfr1107.top/api/cs/cs.php?p=app&v=2   //https://hfr1107.github.io/up/appmarket/index.php   
-//https://hfr1107.top/api/cs/cs.php?p=tv&v=0   //https://hfr1107.github.io/up/dc.json 
-//https://hfr1107.top/api/cs/cs.php?p=tv&v=1   //https://t4vod.hz.cz/api/pz?url=http://饭太硬.top/tv   
 <?php
 header("Content-Type: text/html;charset=utf-8");
 $p = isset($_GET['p']) ? $_GET['p'] : '';
