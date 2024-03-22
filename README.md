@@ -18,6 +18,20 @@ http://shh.xn--sqr74w.xn--fiqs8s/api/index.php
 http://120.53.102.254/mysc/api/index.php
 
 http://120.53.102.254/mysc/api/ads.php
+https://hfr1107.top/api/cs/cs.php?p=live&v=1
+ 
+https://hfr1107.top/api/cs/cs.php?p=live&v=2
+
+https://hfr1107.top/api/cs/cs.php?p=live&v=3
+
+https://hfr1107.top/api/cs/cs.php?p=app&v=1
+
+https://hfr1107.top/api/cs/cs.php?p=app&v=2
+
+https://hfr1107.top/api/cs/cs.php?p=tv&v=0
+
+https://hfr1107.top/api/cs/cs.php?p=tv&v=1
+
 
 ===============================================================
 
