@@ -31,3 +31,10 @@ $jsonData = array_map(function($match) {
  
 // 输出结果
 print_r($jsonData);
+
+// 读取文件内容
+$jsonData = file_get_contents($jsonFile);
+
+echo $jsonData;
+
+
