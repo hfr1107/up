@@ -1,5 +1,5 @@
 <?php
-header("Content-Type: text/html;charset=utf-8");
+
 $p = isset($_GET['p']) ? $_GET['p'] : '';
 $v = isset($_GET['v']) ? $_GET['v'] : '';
  
