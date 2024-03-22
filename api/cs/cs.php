@@ -38,11 +38,13 @@ $url = '未知参数';
 $url = 'https://hfr1107.github.io/up/appmarket/ads.php';
 $str = file_get_contents($url);//获取网页，此时输出$str为解析版网页
 //$str = iconv("gb2312", "utf-8//IGNORE",$str);
+         echo $str;
                 break;
             case '2':
 $url = 'https://hfr1107.github.io/up/appmarket/index.php';
 $str = file_get_contents($url);//获取网页，此时输出$str为解析版网页
 //$str = iconv("gb2312", "utf-8//IGNORE",$str);
+         echo $str;
                 break;
             default:
 $url = '未知参数';
@@ -55,16 +57,16 @@ $url = '未知参数';
         switch ($v) {
             case '0':
 $handle = fopen ("https://hfr1107.github.io/up/dc.json", "rb");
-$url = "";
+$contents = "";
 do {
 $data = fread($handle, 1024);
 if (strlen($data) == 0) {
 break;
 }
-$url .= $data;
+$contents .= $data;
 } while(true);
 fclose ($handle);
-echo $str;
+echo $contents;
                 break;
             case '1':
 $url = 'https://t4vod.hz.cz/api/pz?url=http://饭太硬.top/tv';
