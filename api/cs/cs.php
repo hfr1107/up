@@ -56,7 +56,7 @@ $url = '未知参数';
         // 根据$v的值返回对应数据
         switch ($v) {
             case '0':
-$handle = fopen ("https://hfr1107.github.io/up/dc.json", "rb");
+$handle = fopen ("https://pastebin.com/raw/2HgsFKtT", "rb");
 $contents = "";
 do {
 $data = fread($handle, 1024);
@@ -69,7 +69,7 @@ fclose ($handle);
 echo $contents;
                 break;
             case '1':
-$url = 'https://t4vod.hz.cz/api/pz?url=http://饭太硬.top/tv';
+$url = 'https://t4vod.hz.cz/api/pz?url=https://pastebin.com/raw/2HgsFKtT';
 //$url = iconv("gb2312", "utf-8//IGNORE",$url);
 $str = file_get_contents($url);//获取网页，此时输出$str为解析版网页
 //$str = iconv("gb2312", "utf-8//IGNORE",$str);
