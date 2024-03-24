@@ -18,19 +18,20 @@ http://shh.xn--sqr74w.xn--fiqs8s/api/index.php
 http://120.53.102.254/mysc/api/index.php
 
 http://120.53.102.254/mysc/api/ads.php
-https://hfr1107.top/api/cs/cs.php?p=live&v=1
+
+[TV主线：https://hfr1107.top/api/cs/cs.php?p=live&v=1 ] &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/api/cs/cs.php)]
+
+[TV备线1：https://hfr1107.top/api/cs/cs.php?p=live&v=2 ] &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/api/cs/cs.php)]
  
-https://hfr1107.top/api/cs/cs.php?p=live&v=2
+[TV备线2：https://hfr1107.top/api/cs/cs.php?p=live&v=3 ]&&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/api/cs/cs.php)]
 
-https://hfr1107.top/api/cs/cs.php?p=live&v=3
+[app公告：https://hfr1107.top/api/cs/cs.php?p=app&v=1 ]&&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/api/cs/cs.php)]
 
-https://hfr1107.top/api/cs/cs.php?p=app&v=1
+[app列表：https://hfr1107.top/api/cs/cs.php?p=app&v=2 ]&&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/api/cs/cs.php)]
 
-https://hfr1107.top/api/cs/cs.php?p=app&v=2
+[TV多线：https://hfr1107.top/api/cs/cs.php?p=tv&v=0 ]&&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/api/cs/cs.php)]
 
-https://hfr1107.top/api/cs/cs.php?p=tv&v=0
-
-https://hfr1107.top/api/cs/cs.php?p=tv&v=1
+[TV主接口：https://hfr1107.top/api/cs/cs.php?p=tv&v=1 ]&&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/api/cs/cs.php)]
 
 
 ===============================================================
