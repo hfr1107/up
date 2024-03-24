@@ -2,87 +2,35 @@
 
 $p = isset($_GET['p']) ? $_GET['p'] : '';
 $v = isset($_GET['v']) ? $_GET['v'] : '';
- 
-switch ($p) {
-    case 'live':
-        // 根据$v的值返回对应数据
-        switch ($v) {
-            case '1':
-$url = 'https://hfr1107.github.io/up/tv/tv.txt';
-$str = file_get_contents($url);//获取网页，此时输出$str为解析版网页
-//$str = iconv("gb2312", "utf-8//IGNORE",$str);
-echo $str;
-                break;
-            case '2':
-$url = 'https://hfr1107.github.io/up/tv/tv1.txt';
-$str = file_get_contents($url);//获取网页，此时输出$str为解析版网页
-//$str = iconv("gb2312", "utf-8//IGNORE",$str);
-echo $str;
-                break;
-            case '3':
-$url = 'https://hfr1107.github.io/up/tv/tv2.txt';
-$str = file_get_contents($url);//获取网页，此时输出$str为解析版网页
-//$str = iconv("gb2312", "utf-8//IGNORE",$str);
-echo $str;
-                break;
-            default:
-$url = '未知参数';
-                break;
-        }
-        break;
 
-    case 'app':
-        // 根据$v的值返回对应数据
-        switch ($v) {
-            case '1':
-$url = 'https://hfr1107.github.io/up/appmarket/ads.php';
-$str = file_get_contents($url);//获取网页，此时输出$str为解析版网页
-//$str = iconv("gb2312", "utf-8//IGNORE",$str);
-         echo $str;
-                break;
-            case '2':
-$url = 'https://hfr1107.github.io/up/appmarket/index.php';
-$str = file_get_contents($url);//获取网页，此时输出$str为解析版网页
-//$str = iconv("gb2312", "utf-8//IGNORE",$str);
-         echo $str;
-                break;
-            default:
-$url = '未知参数';
-                break;
-        }
-        break;
-
-    case 'tv':
-        // 根据$v的值返回对应数据
-        switch ($v) {
-            case '0':
-$handle = fopen ("https://hfr1107.github.io/up/dc.json", "rb");
-$contents = "";
-do {
-$data = fread($handle, 1024);
-if (strlen($data) == 0) {
-break;
+function fetchContent($url) {
+    $content = @file_get_contents($url); // Suppress errors with @
+    if ($content === FALSE) {
+        return "无法获取内容"; // Error occurred
+    }
+    return $content;
 }
-$contents .= $data;
-} while(true);
-fclose ($handle);
-echo $contents;
-                break;
-            case '1':
-$url = 'https://t4vod.hz.cz/api/pz?url=http://饭太硬.top/tv';
-//$url = iconv("gb2312", "utf-8//IGNORE",$url);
-$str = file_get_contents($url);//获取网页，此时输出$str为解析版网页
-//$str = iconv("gb2312", "utf-8//IGNORE",$str);
-echo $str;
-                break;
-            default:
-  echo '未知参数';
-                break;
-        }
-        break;
 
-    default:
-  echo '未知参数';
-        break;
+$urls = [
+    'live' => [
+        '1' => 'https://hfr1107.github.io/up/tv/tv.txt',
+        '2' => 'https://hfr1107.github.io/up/tv/tv1.txt',
+        '3' => 'https://hfr1107.github.io/up/tv/tv2.txt',
+    ],
+    'app' => [
+        '1' => 'https://hfr1107.github.io/up/appmarket/ads.php',
+        '2' => 'https://hfr1107.github.io/up/appmarket/index.php',
+    ],
+    'tv' => [
+        '0' => 'https://hfr1107.github.io/up/dc.json',
+        '1' => 'https://t4vod.hz.cz/api/pz?url=http://饭太硬.top/tv',
+    ],
+];
+
+if (isset($urls[$p]) && isset($urls[$p][$v])) {
+    $content = fetchContent($urls[$p][$v]);
+    echo $content;
+} else {
+    echo '未知参数';
 }
 ?>
