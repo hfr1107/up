@@ -23,7 +23,7 @@ $urls = [
     ],
     'tv' => [
         '0' => 'https://hfr1107.github.io/up/dc.json',
-        '1' => 'https://t4vod.hz.cz/api/pz?url=http://饭太硬.top/tv',
+        '1' => 'http://饭太硬.top/tv',
     ],
 ];
 
