@@ -1,23 +1,14 @@
 <?php
+
 $p = isset($_GET['p']) ? $_GET['p'] : '';
 $v = isset($_GET['v']) ? $_GET['v'] : '';
-$maxRetries = 2; 
-$retries = $v; // 初始化 retries 变量
-function fetchContent($url, &$retries,  $maxRetries) { 
-    $context = stream_context_create([
-        'http' => [
-            'timeout' => 5
-        ]
-    ]);
-    $content = @file_get_contents($url, false, $context);
+
+function fetchContent($url) {
+    $content = @file_get_contents($url); // Suppress errors with @
     if ($content === FALSE) {
- if ($retries < $maxRetries) { 
-            sleep(1); 
-            $retries++; 
-            return fetchContent($url, $retries, $maxRetries); 
-        } else {
-            return '无法获取内容。';     
-        }                                             
+$url = "aics.php?p=".$_GET['p']."&v=".($_GET['v']+1);// 要跳转的目标网址
+header("Location: $url");
+exit(); // 确保在发送新的头信息后立即退出当前脚本
     }
     return $content;
 }
@@ -35,13 +26,12 @@ $urls = [
     'tv' => [
         '0' => 'https://hfr1107.github.io/up/dc.json',
         '1' => 'http://饭太硬.top/tv',
-        '2' => 'https://hfr1107.github.io/up/tv/tv2.txt',    
     ],
 ];
 
-if (isset($urls[$p]) && isset($urls[$p][$v])) {   
-    $content = fetchContent($urls[$p][$retries], $retries, $maxRetries); 
-    echo $content; 
+if (isset($urls[$p]) && isset($urls[$p][$v])) {
+    $content = fetchContent($urls[$p][$v]);
+    echo $content;
 } else {
     echo '未知参数';
 }
