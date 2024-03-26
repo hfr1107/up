@@ -2,7 +2,7 @@
 <?php
 global $v;
 $p = isset($_GET['p']) ? $_GET['p'] : '';
-$v = isset($_GET['v']) ? $_GET['v'] : '';
+$v = isset($_GET['w']) ? $_GET['w'] : '';
 $maxRetries = 1; 
 $retries = 0; // 初始化 retries 变量
 function fetchContent($url, &$retries,  $maxRetries) { // 通过引用传递 retries 变量，并添加 maxRetries 参数
