@@ -31,11 +31,12 @@ $urls = [
     'tv' => [
         '0' => 'https://hfr1107.github.io/up/dc.json',
         '1' => 'http://饭太硬.top/tv',
+        '2' => 'https://hfr1107.github.io/up/tv/tv2.txt',    
     ],
 ];
 
-if (isset($urls[$p]) && isset($urls[$p][$v])) { // 移除了对 retries 的检查，因为 fetchContent 函数现在会处理重试
-    $content = fetchContent($urls[$p][$v], $retries, $maxRetries); // 传递 retries 和 maxRetries 到函数
+if (isset($urls[$p]) && isset($urls[$p][$v])) { // 移除了对 retries 的检查，因为 fetchContent 函数现在会处理重试                                  
+    $content = fetchContent($urls[$p][$v+$retries], $retries, $maxRetries); // 传递 retries 和 maxRetries 到函数
     echo $content; // 注意：如果 fetchContent 返回 '无法获取内容。'，这里也会直接输出
 } else {
     echo '未知参数';
