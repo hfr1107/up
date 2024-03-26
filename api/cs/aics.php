@@ -3,7 +3,7 @@ global $w;
 $p = isset($_GET['p']) ? $_GET['p'] : '';
 $v = isset($_GET['v']) ? $_GET['v'] : '';
 $maxRetries = 2; 
-$retries = 0; // 初始化 retries 变量
+$w = 0; // 初始化 w 变量
 $retries = 0; // 初始化 retries 变量
 function fetchContent($url, &$retries,  $maxRetries) { 
     $context = stream_context_create([
