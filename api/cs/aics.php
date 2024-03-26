@@ -1,8 +1,8 @@
 <?php
-global $v;
+global $w;
 $p = isset($_GET['p']) ? $_GET['p'] : '';
 $v = isset($_GET['v']) ? $_GET['v'] : '';
-$maxRetries = 1; 
+$maxRetries = 2; 
 $retries = 0; // 初始化 retries 变量
 function fetchContent($url, &$retries,  $maxRetries) { 
     $context = stream_context_create([
@@ -41,8 +41,9 @@ $urls = [
     ],
 ];
 
-if (isset($urls[$p]) && isset($urls[$p][$v])) {                               
-    $content = fetchContent($urls[$p][$v], $retries, $maxRetries); 
+if (isset($urls[$p]) && isset($urls[$p][$v])) {   
+    $W=$v+$retries
+    $content = fetchContent($urls[$p][$W], $retries, $maxRetries); 
     echo $content; 
 } else {
     echo '未知参数';
