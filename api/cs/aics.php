@@ -32,10 +32,11 @@ function fetchContent($url) {
 
 $urls = [
 	'live' => [
-		'0' => 'https://hfr1107.github.io/up/tv/tvv.txt',
-		'1' => 'https://hfr1107.github.io/up/tv/tv.txt',
-		'2' => 'https://hfr1107.github.io/up/tv/tv1.txt',
-		'3' => 'https://hfr1107.github.io/up/tv/tv2.txt',
+		'0' => 'https://hfr1107.github.io/up/tv/tv.txt',
+		'1' => 'https://hfr1107.github.io/up/tv/tv1.txt',
+		'2' => 'https://hfr1107.github.io/up/tv/tv2.txt',
+		'3' => 'https://pastebin.com/raw/2HgsFKtT',
+		'4' => 'https://hfr1107.github.io/up/tv/tv3.txt',
 	],
 	'app' => [
 		'0' => 'https://hfr1107.github.io/up/appmarket/mads.php',
