@@ -37,6 +37,7 @@ $urls = [
 		'2' => 'https://hfr1107.github.io/up/tv/tv2.txt',
 		'3' => 'https://pastebin.com/raw/2HgsFKtT',
 		'4' => 'https://hfr1107.github.io/up/tv/tv3.txt',
+		'5' => 'https://pastebin.com/raw/SvZqhpU5',
 	],
 	'app' => [
 		'0' => 'https://hfr1107.github.io/up/appmarket/mads.php',
