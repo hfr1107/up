@@ -1,7 +1,7 @@
 <?php
 global $v;
 $p = isset($_GET['p']) ? $_GET['p'] : '';
-$v = isset($_GET['w']) ? $_GET['w'] : '';
+$v = isset($_GET['v']) ? $_GET['v'] : '';
 $maxRetries = 1; 
 $retries = 0; // 初始化 retries 变量
 function fetchContent($url, &$retries,  $maxRetries) { 
