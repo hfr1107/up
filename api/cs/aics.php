@@ -5,14 +5,11 @@ $v = isset($_GET['v']) ? $_GET['v'] : '';
 $retries = 0; // 初始化 retries 变量
 $maxRetries = 3; 
 function fetchContent($url, &$retries,  $maxRetries) { // 通过引用传递 retries 变量，并添加 maxRetries 参数
-   $options = [
+    $context = stream_context_create([
         'http' => [
-            'method' => 'GET',
-            'header' => 'User-Agent: PHP'
-        ],
-    ];
-    
-    $context = stream_context_create($options);
+            'timeout' => 5
+        ]
+    ]);
     $content = file_get_contents($url, false, $context);
     if ($content === FALSE) {
  if ($retries < $maxRetries) { 
