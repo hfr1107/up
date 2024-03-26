@@ -6,7 +6,7 @@ $v = isset($_GET['v']) ? $_GET['v'] : '';
 function fetchContent($url) {
     $content = @file_get_contents($url); // Suppress errors with @
     if ($content === FALSE) {
-$url = "aics.php?p=".$_GET['p']."&v=".($_GET['v']+1);// 要跳转的目标网址
+$url = "/aics.php?p=".$_GET['p']."&v=".($_GET['v']+1);// 要跳转的目标网址
 header("Location: $url");
 exit(); // 确保在发送新的头信息后立即退出当前脚本
     }
