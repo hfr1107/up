@@ -32,17 +32,20 @@ function fetchContent($url) {
 
 $urls = [
 	'live' => [
+		'0' => 'https://hfr1107.github.io/up/tv/tvv.txt',
 		'1' => 'https://hfr1107.github.io/up/tv/tv.txt',
 		'2' => 'https://hfr1107.github.io/up/tv/tv1.txt',
 		'3' => 'https://hfr1107.github.io/up/tv/tv2.txt',
 	],
 	'app' => [
+		'0' => 'https://hfr1107.github.io/up/appmarket/mads.php',
 		'1' => 'https://hfr1107.github.io/up/appmarket/ads.php',
 		'2' => 'https://hfr1107.github.io/up/appmarket/index.php',
 	],
 	'tv' => [
 		'0' => 'https://hfr1107.github.io/up/dc.json',
 		'1' => 'http://饭太硬.top/tv',
+		'2' => 'https://t4vod.hz.cz/api/pz?url=http://饭太硬.top/tv',
 	],
 ];
 
