@@ -15,17 +15,18 @@ exit(); // 确保在发送新的头信息后立即退出当前脚本
 
 $urls = [
     'live' => [
-        '1' => 'https://hfr1107.github.io/up/tv/tv.txt',
+        '1' => 'https://hfr1107.github.io/up/tv/tvv.txt',
         '2' => 'https://hfr1107.github.io/up/tv/tv1.txt',
         '3' => 'https://hfr1107.github.io/up/tv/tv2.txt',
     ],
     'app' => [
-        '1' => 'https://hfr1107.github.io/up/appmarket/ads.php',
+        '1' => 'https://hfr1107.github.io/up/appmarket/adss.php',
         '2' => 'https://hfr1107.github.io/up/appmarket/index.php',
     ],
     'tv' => [
-        '0' => 'https://hfr1107.github.io/up/dc.json',
+        '0' => 'https://hfr1107.github.io/up/dcc.json',
         '1' => 'http://饭太硬.top/tv',
+        '2' => 'https://hfr1107.github.io/up/dc.json',
     ],
 ];
 
