@@ -15,6 +15,7 @@ function fetchContent($url, &$retries,  $maxRetries) { // 通过引用传递 ret
  if ($retries < $maxRetries) { 
             sleep(1); 
             $retries++; // 直接修改引用的变量
+            $v++; // 直接修改引用的变量
             return fetchContent($url, $retries, $maxRetries); // 递归调用以尝试再次获取内容
         } else {
             return '无法获取内容。';     
