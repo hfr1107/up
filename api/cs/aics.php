@@ -4,8 +4,16 @@ $p = isset($_GET['p']) ? $_GET['p'] : '';
 $v = isset($_GET['v']) ? $_GET['v'] : '';
 $retries = 0; // 初始化 retries 变量
 $maxRetries = 3; 
-function fetchContent($url, &$retries, $maxRetries) { // 通过引用传递 retries 变量，并添加 maxRetries 参数
-    $content = @file_get_contents($url); // Suppress errors with @
+function fetchContent($url, &$retries,  $maxRetries) { // 通过引用传递 retries 变量，并添加 maxRetries 参数
+   $options = [
+        'http' => [
+            'method' => 'GET',
+            'header' => 'User-Agent: PHP'
+        ],
+    ];
+    
+    $context = stream_context_create($options);
+    $content = file_get_contents($url, false, $context);
     if ($content === FALSE) {
  if ($retries < $maxRetries) { 
             sleep(1); 
@@ -36,7 +44,7 @@ $urls = [
 ];
 
 if (isset($urls[$p]) && isset($urls[$p][$v])) { // 移除了对 retries 的检查，因为 fetchContent 函数现在会处理重试                                  
-    $content = fetchContent($urls[$p][$v+$retries], $retries, $maxRetries); // 传递 retries 和 maxRetries 到函数
+    $content = fetchContent($urls[$p][$v], $retries, $maxRetries); // 传递 retries 和 maxRetries 到函数
     echo $content; // 注意：如果 fetchContent 返回 '无法获取内容。'，这里也会直接输出
 } else {
     echo '未知参数';
