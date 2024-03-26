@@ -2,40 +2,42 @@
 
 $p = isset($_GET['p']) ? $_GET['p'] : '';
 $v = isset($_GET['v']) ? $_GET['v'] : '';
-
-
-function fetchContent($url, &$v) {
-    $content = @file_get_contents($url); // Suppress errors with @, but consider using proper error handling instead
+$retries = 0; // 初始化 retries 变量
+$maxRetries = 3; 
+function fetchContent($url, &$retries, $maxRetries) { // 通过引用传递 retries 变量，并添加 maxRetries 参数
+    $content = @file_get_contents($url); // Suppress errors with @
     if ($content === FALSE) {
-        $v++; // 增加重试计数器
-        if ($v < 10) { // 如果重试次数少于10次，则再次尝试获取内容
-            return fetchContent($url, $v); // 注意这里可能会导致无限递归，如果file_get_contents一直失败的话
-        }
-        return "无法获取内容"; // 如果重试10次仍然失败，则返回错误信息
+ if ($retries < $maxRetries) { 
+            sleep(1); 
+            $retries++; // 直接修改引用的变量
+            return fetchContent($url, $retries, $maxRetries); // 递归调用以尝试再次获取内容
+        } else {
+            return '无法获取内容。';     
+        }                                             
     }
-    return $content; // 如果成功获取内容，则返回内容
+    return $content;
 }
 
 $urls = [
     'live' => [
-        '1' => 'https://hfr1107.github.io/up/tv/tvv.txt',
+        '1' => 'https://hfr1107.github.io/up/tv/tv.txt',
         '2' => 'https://hfr1107.github.io/up/tv/tv1.txt',
         '3' => 'https://hfr1107.github.io/up/tv/tv2.txt',
     ],
     'app' => [
-        '1' => 'https://hfr1107.github.io/up/appmarket/adss.php',
+        '1' => 'https://hfr1107.github.io/up/appmarket/ads.php',
         '2' => 'https://hfr1107.github.io/up/appmarket/index.php',
     ],
     'tv' => [
-        '0' => 'https://hfr1107.github.io/up/dcc.json',
-        '1' => 'http://饭太硬.top/tv', // 注意这个URL使用的是http协议，而其他URL使用的是https协议，这可能会导致混合内容问题或安全性问题
+        '0' => 'https://hfr1107.github.io/up/dc.json',
+        '1' => 'http://饭太硬.top/tv',
     ],
 ];
 
-if (isset($urls[$p]) && isset($urls[$p][$v])) {
-    $content = fetchContent($urls[$p][$v], $v); // 调用fetchContent函数来获取内容，并传入重试计数器作为引用参数以便在函数内部修改它
-    echo $content; // 输出获取到的内容或错误信息
+if (isset($urls[$p]) && isset($urls[$p][$v])) { // 移除了对 retries 的检查，因为 fetchContent 函数现在会处理重试
+    $content = fetchContent($urls[$p][$v], $retries, $maxRetries); // 传递 retries 和 maxRetries 到函数
+    echo $content; // 注意：如果 fetchContent 返回 '无法获取内容。'，这里也会直接输出
 } else {
-    echo '未知参数'; // 如果参数无效或不存在于URL数组中，则输出错误信息
+    echo '未知参数';
 }
 ?>
