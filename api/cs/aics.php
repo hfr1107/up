@@ -15,7 +15,6 @@ function fetchContent($url, &$retries,  $maxRetries) {
  if ($retries < $maxRetries) { 
             sleep(1); 
             $retries++; 
-            $v++; 
             return fetchContent($url, $retries, $maxRetries); 
         } else {
             return '无法获取内容。';     
