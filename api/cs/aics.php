@@ -47,6 +47,11 @@ $urls = [
 		'1' => 'http://饭太硬.top/tv',
 		'2' => 'https://t4vod.hz.cz/api/pz?url=http://饭太硬.top/tv',
 	],
+	'CCTV-13' => [
+		'0' => 'http://饭太硬.top/tv',
+		'1' => 'http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225812/index.m3u8',
+		'2' => 'http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8',
+	],
 ];
 
 if (isset($urls[$p]) && isset($urls[$p][$v])) {
