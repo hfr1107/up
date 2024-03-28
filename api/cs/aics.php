@@ -48,6 +48,7 @@ $urls = [
 		'0' => 'https://hfr1107.github.io/up/dc.json',
 		'1' => 'http://饭太硬.top/tv',
 		'2' => 'https://t4vod.hz.cz/api/pz?url=http://饭太硬.top/tv',
+		'18' => 'https://hfr1107.github.io/api/box/1668.json',	
 	],
 	'CCTV-13' => [
 		'0' => 'http://饭太硬.top/tv',
