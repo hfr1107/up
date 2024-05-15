@@ -1,0 +1,25 @@
+{
+  "live": {
+    "0": "https://hfr1107.github.io/up/tv/tv.txt",
+    "1": "https://hfr1107.github.io/up/tv/tv1.txt",
+    "2": "https://hfr1107.github.io/up/tv/tv2.txt"
+  },
+  "epg": {
+    "0": "https://diyp.112114.xyz",
+    "1": "https://epg.112114.eu.org",
+    "2": "https://epg.112114.eu.org"
+  },
+  "tv": {
+    "0": "http://default-epg-url",
+    "1": "http://饭太硬.top/tv",
+    "2": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
+    "3": "http://tvbox.王二小放牛娃.xyz/",
+    "4": "http://肥猫.live",
+    "5": "http://我不是.摸鱼儿.top",
+    "18": "https://gaotianliuyun.github.io/gao/9918.json"
+  },
+  "dc": {
+    "0": "https://hfr1107.github.io/up/tv/dc.json",
+    "1": "https://hfr1107.github.io/up/tv/dc1.json"
+  }
+}
