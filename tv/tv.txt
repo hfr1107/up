@@ -152,7 +152,7 @@ TVBS亚洲,P2p://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f29
 ❤️获取密码,#genre#
 关注QQ号,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
-港澳台一线_38,#genre#
+港澳台一线,#genre#
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -168,35 +168,35 @@ TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 经典影视,http://ali.hlspull.yximgs.com/live/asdfg32516.flv
 经典电影,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
 
-港澳台二线_38,#genre#
+港澳台二线,#genre#
 凤凰中文[1920*1080],http://www.372583307.top:4022/udp/233.50.200.191:5140
 香港佛陀[1920*1080],http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 YCTV[1920*1080],http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 大爱1台[1280*720],https://pulltv2.wanfudaluye.com/live/tv1.m3u8
 大爱2台[1280*720],https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
-港澳台三线_38,#genre#
+港澳台三线,#genre#
 纬来体育[1920*1080],https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#https://cloud.yumixiu768.com/tmp/123.m3u8
 中国环球电视[1024*576],http://live.cgtn.com/500/prog_index.m3u8
 香港電台(RTHK 34)[1024*576],https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8#https://livedoc.cgtn.com/1000d/prog_index.m3u8
 海峡两岸[1280*720],http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
 CGNTV[1024*576],http://live.cgtn.com/1000/prog_index.m3u8#http://livear.cgtn.com/1000a/prog_index.m3u8#http://livees.cgtn.com/1000e/prog_index.m3u8#https://livedoc.cgtn.com/500d/prog_index.m3u8
 
-港澳台四线_38,#genre#
+港澳台四线,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
 ChannelV,http://vl15191373.imwork.net:8880/udp/239.93.1.7:2194
 TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.1.10:2193
 TVB功夫台,https://ali.hlspull.yximgs.com/live/12344.flv
 
-港澳台五线_38,#genre#
+港澳台五线,#genre#
 香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 4k修复[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 朝鲜新闻[1280*720],http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 韩国新闻[1280*720],http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-📡香港频道_38,#genre#
+📡香港频道,#genre#
 港台34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 港台35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
@@ -208,12 +208,12 @@ CGNTV3,http://liveru.cgtn.com/1000r/prog_index.m3u8
 大爱2台,mitv://generationnexxxt.com:19806/2036b83c58e344c782eb154b233c8c77
 FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 
-📡东森测试_38,#genre#
+📡东森测试,#genre#
 民视新闻@@4[320x240][20240404],https://epg.pw/stream/d74bc09a058876e6c637224a7b60a69874cc28b06fbb467deb379dac72062e46.m3u8
 三立新聞[1920x1080][20240323],https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 中視@@3[1920x1080][20240322],https://epg.pw/stream/f1711cbda7de6c1897140f76268f8de35e35fc08a9efdfcb8262319cc69b66a1.m3u8
 
-📡湾湾频道_38,#genre#
+📡湾湾频道,#genre#
 中天新闻,http://mtw.so/5FDwQQ#http://william8073.eu.org:9000/live.m3u8?c=4#http://888.iptv543.com/Smartv.php?id=ctinews
 中视频道,rtmp://220.130.201.73/sat/tv091#rtmp://f13h.mine.nu/sat/tv091
 华视频道,rtmp://220.130.201.73/sat/tv111#rtmp://f13h.mine.nu/sat/tv111
@@ -524,7 +524,7 @@ AEC,http://888.iptv543.com/Smartv.php?id=AEC
 ABCNews,http://888.iptv543.com/Smartv.php?id=abcnews_glo
 新加坡CNA,http://888.iptv543.com/Smartv.php?id=cna
 
-🌏全球频道_38,#genre#
+🌏全球频道,#genre#
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8#http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 日语新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
@@ -532,7 +532,7 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 CGTNEurope,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8#https://live.cgtn.com/1000/prog_index.m3u8
 泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
 
-📡香港测试_38,#genre#
+📡香港测试,#genre#
 凤凰资讯,http://ytb.csscc.cc:2086/live.m3u8?c=1#http://dms.yryyj.site:8188/udp/239.76.246.134:1234#http://dms.yryyj.site:8188/udp/239.76.253.134:9000#http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708#http://171.223.215.229:4000/udp/239.93.1.4:2191#http://117.28.130.162:8888/rtp/239.61.2.183:9086#http://120.41.124.228:8888/rtp/239.61.2.183:9086#http://www.yao87.com:4022/udp/239.76.246.135:1234#http://vl15191373.imwork.net:8880/udp/239.93.1.4:2191#http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰中文,http://dms.yryyj.site:8188/udp/239.76.246.135:1234#http://dms.yryyj.site:8188/udp/239.76.253.135:9000#http://171.223.215.229:4000/udp/239.93.0.162:2192#http://171.223.215.229:4000/udp/239.93.1.9:2192#http://117.28.130.162:8888/rtp/239.61.2.184:9092#http://120.41.124.228:8888/rtp/239.61.2.184:9092
 凤凰卫视,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
@@ -578,7 +578,7 @@ Astro AEC,http://gmlive.ddns.net:5000/kun5g/kun5g2024/53
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 
-📡魔法播放_38,#genre#
+📡魔法播放,#genre#
 🌺（此处以下频道需要湾湾节点）,https://cloud.lxweb.cn/f/08QDU0/3.MOV
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
@@ -597,7 +597,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
 
-📡新闻频道_38,#genre#
+📡新闻频道,#genre#
 TVBS HD,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv073
 TVBS新闻台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv072
 中天新闻,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv009
@@ -620,7 +620,7 @@ TVBS新闻台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv072
 中视,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv040
 华视,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv041
 
-📡影视频道_38,#genre#
+📡影视频道,#genre#
 影迷數位電影台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv011
 AMC电影台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv017
 CATCHPLAY电影台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv076
@@ -636,7 +636,7 @@ CATCHPLAY电影台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv076
 公视戏剧,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv042
 龙华戏剧,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn18
 
-📡体育频道_38,#genre#
+📡体育频道,#genre#
 智林体育台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv101
 时尚运动X,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv014
 靖天育乐台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv062
@@ -650,7 +650,7 @@ CATCHPLAY电影台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv076
 博斯无限2,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn13
 TRACE SPORTS STARS,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv077
 
-📡综艺频道_38,#genre#
+📡综艺频道,#genre#
 視納華仁紀實頻道,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv013
 中视菁采,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv064
 八大精彩台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv034
@@ -678,7 +678,7 @@ TVBS欢乐台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv068
 古典音乐台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv059
 猪哥亮歌厅秀,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv006
 
-📡其他频道_38,#genre#
+📡其他频道,#genre#
 Smart知识台,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn19
 达文西频道,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv018
 阿里郎,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv079
@@ -695,7 +695,7 @@ MEZZO LIVE,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv083
 GLOBETROTTER,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv016
 GinxTV,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv053
 
-VIP🇨🇳香港_38,#genre#
+VIP🇨🇳香港,#genre#
 凤凰中文频道,http://www.cdtriot.cn:9999/udp/239.93.0.162:2192
 凤凰资讯频道,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191#http://103.95.24.37:880/fhzx.m3u8
 香港18频道台,http://ali.hlspull.yximgs.com/live/9a83d37fe8da0475fb8c79e7159921c5.flv
