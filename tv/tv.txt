@@ -99,7 +99,7 @@ CCTV-卫生健康,http://199.7.140.19/2088.php?id=d123a2c9a596930753a983f982e3e6
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8#http://pi.0472.org/live/hbws.m3u8?token=24041#P2p://generationnexxxt.com:19806/f0390f4cc1fa4b9991338bc6426deb1
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da07436160950657#http://stream.qhbtv.com/qhws/sd/live.m3u8#http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484#http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a8968164785603#http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030#http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e15916894#http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da07436160950657
-港台频道,#genre#
+港台|频道,#genre#
 凤凰卫视,http://61.221.215.25:8800/hls/47/index.m3u8#http://199.7.140.19/2088.php?id=7eeb6c4285b0fcd7c9a265cf4d5bfac5&r=6#http://199.7.140.19/2088.php?id=4ea97af53693ae02392251697dbb52fd&r=6#http://199.7.140.19:9999/si8.php?id=phoenixtv_hd#http://www.372583307.top:4022/udp/233.50.200.191:5140#http://199.7.140.19:9999/si8.php?id=phoenixinfo_h
 凤凰香港,http://199.7.140.19:9999/si8.php?id=hkphoenix_tw
 中天新闻台,http://199.7.140.19:9999/si8.php?id=ctinews#P2p://generationnexxxt.com:19806/1180a44e6cef425e826c3e798f7f3ea9#p3p://173.208.176.178:19806/613dba64000abeb1c801c02934bb45#http://199.7.140.19:9999/si8.php?id=ctinew
