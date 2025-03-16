@@ -2,27 +2,27 @@
 {
   "storeHouse": [
     {
-      "sourceName": "💜蜗牛精选仓🍭蜗牛提醒🍭",
+      "sourceName": "💜精选仓",
       "sourceUrl": "https://tv.蜗牛.top/DS"
     },
     {
-      "sourceName": "🧡蜗牛纯4k仓🍭蜗牛科技🍭",
+      "sourceName": "🧡纯4k仓",
       "sourceUrl": "https://4k.蜗牛.top/4k.json"
     },
     {
-      "sourceName": "💚蜗牛优选仓🍭软件接口🍭",
+      "sourceName": "💚优选仓",
       "sourceUrl": "https://tvbox.蜗牛.top/YX"
     },
     {
-      "sourceName": "💛蜗牛公众仓🍭完全免费🍭",
+      "sourceName": "💛公众仓",
       "sourceUrl": "https://tvbox.蜗牛.top/GG"
     },
     {
-      "sourceName": "❤️蜗牛聚合仓🍭严禁贩卖🍭",
+      "sourceName": "❤️聚合仓",
       "sourceUrl": "https://tvbox.蜗牛.top/JH"
     },
     {
-      "sourceName": "💙蜗牛预备仓🍭不做韭菜🍭",
+      "sourceName": "💙预备仓",
       "sourceUrl": "https://tv.5209426.xyz/DS"
     }
   ]
