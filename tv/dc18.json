@@ -1,51 +1,12 @@
-{
-  "urls": [
-    {
-      "name": "🚀线路1",
-      "url": "https://hfr1107.top/api/box?vip=18"
-    }, 
-    {
-      "name": "🚀线路2",
-      "url": "https://raw.githubusercontent.com/bizhangjie/CatVodSpider/refs/heads/main/json/index18.json"
-    }, 
-    {
-      "name": "🚀线路3",
-      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"
-    }, 
-    {
-      "name": "🚀线路4",
-      "url": "https://raw.githubusercontent.com/wwb521/live/main/video.json"
-    }, 
-    {
-      "name": "🚀线路5",
-      "url": "https://raw.githubusercontent.com/350822/Xtv/08fb896fa8f59313e0f0169c48b1414df86cdd8d/laowang/only-sex.json"
-    }, 
-    {
-      "name": "🚀线路6",
-      "url": "https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/S267.txt"
-    }, 
-    {
-      "name": "🚀线路7",
-      "url": "https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json"
-    }, 
-    {
-      "name": "🚀线路8",
-      "url": "http://xn--b9w.l5.ca/"
-    }, 
-    {
-      "name": "🚀线路8",
-      "url": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json/"
-    }, 
-    {
-      "name": "🚀线路8",
-      "url": "https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json"
-    }
-  ]
+{"urls":[{"name":"🚀线路1","url":"https://hfr1107.top/api/box?vip=18"},
+        {"name":"🚀线路2","url":"https://raw.githubusercontent.com/bizhangjie/CatVodSpider/refs/heads/main/json/index18.json"},
+        {"name":"🚀线路3","url":"https://raw.githubusercontent.com/wwb521/live/main/video.json"},
+        {"name":"🚀线路4","url":"https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json"},
+        {"name":"🚀线路5","url":"https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json"},
+        {"name":"🚀线路6","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"},
+        {"name":"🚀线路7","url":"https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"},
+        {"name":"🚀线路8","url":"https://raw.githubusercontent.com/350822/Xtv/08fb896fa8f59313e0f0169c48b1414df86cdd8d/laowang/only-sex.json"},
+        {"name":"🚀线路9","url":"https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/S267.txt"},
+        {"name":"🚀线路10","url":"http://xn--b9w.l5.ca"}
+    ]
 }
-
-
-
-
-
-
-
