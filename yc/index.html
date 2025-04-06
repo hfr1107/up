@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" rel="stylesheet">
+    <title>应用市场</title>
+    <style>
+      .focused {
+            outline: 2px solid blue;
+        }
+    </style>
+</head>
+
+<body class="bg-gray-100 font-sans">
+    <div class="container mx-auto p-8">
+        <h1 class="text-3xl font-bold text-center mb-4">应用市场</h1>
+        <div class="flex justify-center space-x-4 mb-6">
+            <input type="text" id="search-code" class="border border-gray-300 rounded-md px-4 py-2" placeholder="输入 code">
+            <button id="search-button" class="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600" onclick="searchData()">搜索</button>
+        </div>
+        <div class="flex justify-center space-x-4 mb-6" id="category-buttons">
+            <button id="all" class="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600" onclick="filterSoftware('all')">全部</button>
+            <!-- 动态插入分类按钮 -->
+        </div>
+        <div id="software-grid" class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-6 gap-6 mb-6">
+            <!-- 这里会动态插入软件信息 -->
+        </div>
+        <div class="flex justify-center space-x-4">
+            <button id="prev-page" class="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600" onclick="prevPage()" disabled>上一页</button>
+            <button id="next-page" class="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600" onclick="nextPage()">下一页</button>
+        </div>
+    </div>
+
+    <script>
+        let softwareData = [];
+        let tagNameList = [];
+        let currentPage = 1;
+        const itemsPerPage = 18;
+        let currentCategory = 'all';
+        let focusedIndex = 0;
+
+        async function fetchData(code = '11aa') {
+            try {
+                const response = await fetch(`https://hfr1107.top/api/box/yc.php?code=${code}`);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const data = await response.json();
+                softwareData = data.groupApkList;
+
+                // 提取所有的标签名
+                const tagSet = new Set();
+                softwareData.forEach(item => {
+                    item.tagList.forEach(tag => {
+                        tagSet.add(tag.tagName);
+                    });
+                });
+                tagNameList = Array.from(tagSet);
+
+                currentPage = 1;
+                focusedIndex = 0;
+                createCategoryButtons();
+                showSoftware();
+            } catch (error) {
+                console.error('Fetch error:', error);
+            }
+        }
+
+        function createCategoryButtons() {
+            const categoryButtons = document.getElementById('category-buttons');
+            categoryButtons.innerHTML = '<button id="all" class="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600" onclick="filterSoftware(\'all\')">全部</button>';
+            tagNameList.forEach(tag => {
+                const button = document.createElement('button');
+                button.textContent = tag;
+                button.classList.add('bg-blue-500', 'text-white', 'px-4', 'py-2', 'rounded-md', 'hover:bg-blue-600');
+                button.onclick = () => filterSoftware(tag);
+                categoryButtons.appendChild(button);
+            });
+        }
+
+        function filterSoftware(category) {
+            currentCategory = category;
+            currentPage = 1;
+            focusedIndex = 0;
+            showSoftware();
+        }
+
+        function showSoftware() {
+            const softwareGrid = document.getElementById('software-grid');
+            softwareGrid.innerHTML = '';
+
+            const filteredItems = [];
+            softwareData.forEach(item => {
+                const itemTagNames = item.tagList.map(tag => tag.tagName);
+                if (currentCategory === 'all' || itemTagNames.includes(currentCategory)) {
+                    filteredItems.push(item);
+                }
+            });
+
+            const startIndex = (currentPage - 1) * itemsPerPage;
+            const endIndex = startIndex + itemsPerPage;
+
+            for (let i = startIndex; i < endIndex && i < filteredItems.length; i++) {
+                const software = filteredItems[i];
+                const softwareItem = document.createElement('div');
+                softwareItem.classList.add('bg-white', 'p-6', 'rounded-lg', 'shadow-md', 'hover:shadow-lg', 'transition-shadow', 'software-item');
+
+                const icon = document.createElement('img');
+                icon.src = software.meta.iconUrl;
+                icon.alt = software.meta.label;
+                icon.classList.add('w-20', 'h-20', 'mx-auto', 'mb-4');
+                softwareItem.appendChild(icon);
+
+                const name = document.createElement('h2');
+                name.textContent = software.meta.label;
+                name.classList.add('text-xl', 'font-bold', 'text-center', 'mb-2');
+                softwareItem.appendChild(name);
+
+                const packageName = document.createElement('p');
+                packageName.textContent = `包名: ${software.meta.packageName}`;
+                packageName.classList.add('text-gray-600', 'text-center', 'mb-1');
+                softwareItem.appendChild(packageName);
+
+                const version = document.createElement('p');
+                version.textContent = `版本: ${software.meta.versionName}`;
+                version.classList.add('text-gray-600', 'text-center', 'mb-2');
+                softwareItem.appendChild(version);
+
+                const downloadLink = document.createElement('a');
+                downloadLink.href = software.pluginUrl;
+                downloadLink.textContent = '下载';
+                downloadLink.classList.add('bg-blue-500', 'text-white', 'px-4', 'py-2', 'rounded-md', 'block', 'text-center', 'hover:bg-blue-600');
+                softwareItem.appendChild(downloadLink);
+
+                softwareGrid.appendChild(softwareItem);
+            }
+
+            const prevButton = document.getElementById('prev-page');
+            const nextButton = document.getElementById('next-page');
+
+            prevButton.disabled = currentPage === 1;
+            nextButton.disabled = endIndex >= filteredItems.length;
+
+            setFocus();
+        }
+
+        function prevPage() {
+            if (currentPage > 1) {
+                currentPage--;
+                focusedIndex = 0;
+                showSoftware();
+            }
+        }
+
+        function nextPage() {
+            const filteredItems = [];
+            softwareData.forEach(item => {
+                const itemTagNames = item.tagList.map(tag => tag.tagName);
+                if (currentCategory === 'all' || itemTagNames.includes(currentCategory)) {
+                    filteredItems.push(item);
+                }
+            });
+
+            const endIndex = currentPage * itemsPerPage;
+
+            if (endIndex < filteredItems.length) {
+                currentPage++;
+                focusedIndex = 0;
+                showSoftware();
+            }
+        }
+
+        function searchData() {
+            const code = document.getElementById('search-code').value;
+            if (code) {
+                fetchData(code);
+            }
+        }
+
+        function setFocus() {
+            const softwareItems = document.querySelectorAll('.software-item');
+            softwareItems.forEach((item, index) => {
+                item.classList.remove('focused');
+                if (index === focusedIndex) {
+                    item.classList.add('focused');
+                }
+            });
+        }
+
+        function handleKeyDown(event) {
+            const softwareItems = document.querySelectorAll('.software-item');
+            const totalItems = softwareItems.length;
+            const cols = 6;
+
+            switch (event.key) {
+                case 'ArrowLeft':
+                    if (focusedIndex % cols > 0) {
+                        focusedIndex--;
+                    }
+                    break;
+                case 'ArrowRight':
+                    if (focusedIndex % cols < cols - 1 && focusedIndex < totalItems - 1) {
+                        focusedIndex++;
+                    }
+                    break;
+                case 'Enter':
+                    const downloadLink = softwareItems[focusedIndex].querySelector('a');
+                    if (downloadLink) {
+                        downloadLink.click();
+                    }
+                    break;
+            }
+
+            setFocus();
+        }
+
+        document.addEventListener('keydown', handleKeyDown);
+
+        fetchData();
+    </script>
+</body>
+
+</html>
+    
