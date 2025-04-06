@@ -39,7 +39,7 @@
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
                 const data = await response.json();
-                softwareData = data.date.groupApkList;
+                softwareData = data.groupApkList;
 
                 // 提取所有的标签名
                 const tagSet = new Set();
