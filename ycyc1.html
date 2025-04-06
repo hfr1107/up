@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" rel="stylesheet">
+    <title>九宫格软件列表</title>
+</head>
+<body class="bg-gray-100 font-sans">
+    <div class="container mx-auto p-8">
+        <h1 class="text-3xl font-bold text-center mb-8">软件列表</h1>
+        
+        <!-- 分类筛选 -->
+        <div class="flex justify-center space-x-4 mb-6" id="category-buttons">
+            <button class="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600" onclick="filterSoftware('all')">全部</button>
+        </div>
+
+        <!-- 软件展示区 -->
+        <div id="software-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-6"></div>
+
+        <!-- 分页控制 -->
+        <div class="flex justify-center space-x-4">
+            <button id="prev-page" class="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600" onclick="prevPage()" disabled>上一页</button>
+            <button id="next-page" class="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600" onclick="nextPage()">下一页</button>
+        </div>
+    </div>
+
+    <script>
+        let softwareData = [];
+        let tagNameList = [];
+        let currentPage = 1;
+        const itemsPerPage = 9;
+        let currentCategory = 'all';
+
+        // 数据加载
+        async function fetchData() {
+            try {
+                const response = await fetch('https://hfr1107.top/api/box/yc.php?code=11aa');
+                if (!response.ok) throw new Error(`网络请求失败: ${response.status}`);
+                
+                const data = await response.json();
+                
+                // 数据结构验证
+                if (!data.groupApkList || !data.tagNameList) {
+                    throw new Error('接口返回数据结构异常');
+                }
+
+                softwareData = data.groupApkList;
+                tagNameList = data.tagNameList;
+
+                initCategoryButtons();
+                renderSoftware();
+            } catch (error) {
+                console.error('数据加载错误:', error);
+                softwareGrid.innerHTML = `
+                    <div class="col-span-3 text-center py-8">
+                        <p class="text-red-500 text-lg">⚠️ 数据加载失败: ${error.message}</p>
+                    </div>
+                `;
+            }
+        }
+
+        // 初始化分类按钮
+        function initCategoryButtons() {
+            const container = document.getElementById('category-buttons');
+            tagNameList.forEach(tag => {
+                const btn = document.createElement('button');
+                btn.className = 'bg-gray-200 text-gray-700 px-4 py-2 rounded-md hover:bg-gray-300';
+                btn.textContent = tag;
+                btn.onclick = () => filterSoftware(tag);
+                container.appendChild(btn);
+            });
+        }
+
+        // 筛选逻辑
+        function filterSoftware(category) {
+            currentCategory = category;
+            currentPage = 1;
+            renderSoftware();
+            updateButtonStates();
+        }
+
+        // 渲染软件列表
+        function renderSoftware() {
+            const grid = document.getElementById('software-grid');
+            grid.innerHTML = '';
+
+            const filtered = softwareData.filter(item => 
+                currentCategory === 'all' || 
+                item.tagList.some(tag => tag.tagName === currentCategory)
+            );
+
+            const start = (currentPage - 1) * itemsPerPage;
+            const end = start + itemsPerPage;
+            const paginated = filtered.slice(start, end);
+
+            paginated.forEach(item => {
+                const card = document.createElement('div');
+                card.className = 'bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow';
+                
+                card.innerHTML = `
+                    <img src="${item.meta.iconUrl}" alt="${item.meta.label}" class="w-20 h-20 mx-auto mb-4">
+                    <h2 class="text-xl font-bold text-center mb-2">${item.meta.label}</h2>
+                    <p class="text-gray-600 text-center mb-1">包名: ${item.meta.packageName}</p>
+                    <p class="text-gray-600 text-center mb-2">版本: ${item.meta.versionName}</p>
+                    <a href="${item.pluginUrl}" class="bg-blue-500 text-white px-4 py-2 rounded-md block text-center hover:bg-blue-600">
+                        下载
+                    </a>
+                `;
+                
+                grid.appendChild(card);
+            });
+
+            updateButtonStates();
+        }
+
+        // 分页控制
+        function updateButtonStates() {
+            document.getElementById('prev-page').disabled = currentPage === 1;
+            const totalItems = softwareData.filter(item => 
+                currentCategory === 'all' || 
+                item.tagList.some(tag => tag.tagName === currentCategory)
+            ).length;
+            document.getElementById('next-page').disabled = currentPage * itemsPerPage >= totalItems;
+        }
+
+        function prevPage() {
+            if (currentPage > 1) {
+                currentPage--;
+                renderSoftware();
+            }
+        }
+
+        function nextPage() {
+            currentPage++;
+            renderSoftware();
+        }
+
+        // 初始化
+        fetchData();
+    </script>
+</body>
+</html>
