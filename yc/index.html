@@ -96,7 +96,6 @@
                 initCategoryButtons();
                 renderSoftware();
                 updateFocusableElements();
-                focusFirstGridItem();
             } catch (error) {
                 document.getElementById('software-grid').innerHTML = `
                     <div class="col-span-full text-center py-8 text-red-500">
@@ -180,7 +179,7 @@
             container.innerHTML = `
                 <button class="focusable bg-transparent text-gray-800 px-5 py-2.5 rounded-lg border border-gray-300 font-bold"
                         tabindex="0" 
-                        onclick="filterSoftware('all')">
+                        onclick="filterSoftware('all', this)">
                     全部
                 </button>
             `;
@@ -190,18 +189,24 @@
                 btn.className = 'focusable bg-transparent text-gray-600 px-5 py-2.5 rounded-lg border border-gray-200 font-bold';
                 btn.textContent = tag;
                 btn.tabIndex = 0;
-                btn.onclick = () => filterSoftware(tag);
+                btn.onclick = (e) => filterSoftware(tag, e.currentTarget);
                 container.appendChild(btn);
             });
 
             updateFocusableElements();
         }
 
-        // 筛选逻辑
-        function filterSoftware(category) {
+        // 筛选逻辑（重点修改）
+        function filterSoftware(category, clickedButton) {
             currentCategory = category;
+            
+            // 保持按钮焦点
+            if(clickedButton) {
+                clickedButton.focus();
+                currentFocusIndex = focusableElements.indexOf(clickedButton);
+            }
+            
             renderSoftware();
-            setTimeout(() => focusFirstGridItem(), 100);
         }
 
         // 宫格点击处理
@@ -217,7 +222,7 @@
             }
         }
 
-        // 渲染软件列表（最终间距优化版）
+        // 渲染软件列表
         function renderSoftware() {
             const grid = document.getElementById('software-grid');
             grid.innerHTML = '';
@@ -242,7 +247,7 @@
                                 class="w-24 h-24 object-contain">
                         </div>
                         
-                        <div class="space-y-0.5"> <!-- 缩小行间距 -->
+                        <div class="space-y-0.5">
                             <h3 class="text-base font-bold text-center truncate px-0.5 leading-tight">${item.meta.label}</h3>
                             <p class="text-sm text-gray-500 text-center truncate px-0.5">${item.meta.packageName}</p>
                             <div class="text-center px-0.5">
