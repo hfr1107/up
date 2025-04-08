@@ -39,7 +39,7 @@
         }
         /* 版本号样式调整 */
        .grid-item p.text-xs {
-            line-height: 0.2; /* 缩小行间距 */
+            line-height: 0.5; /* 缩小行间距 */
             font-weight: bold; /* 文字加粗 */
         }
     </style>
@@ -187,21 +187,21 @@
                 card.className = 'grid-item bg-white p-3 rounded-xl shadow-sm hover:shadow-md transition-all focus:outline-none focus:ring-2 focus:ring-blue-500';
                 card.tabIndex = 0;
                 // 假设数据中有 updateDate 字段，如果没有需要根据实际情况修改
-                const packageName = item.meta.packageName || '未知包名';
-                const packageversion = item.meta.versionName || '未知版本号';
-                const packagesize = item.apkLength/1024.M || '未知大小';
-                const createTime = item.tagList.length > 0? item.tagList[0].createTime.split(' ')[0] : '';
-                card.onclick = () => window.open(item.pluginUrl, '_blank'); // 整个宫格点击触发下载
-                card.innerHTML = `
-                    <div class="h-full flex flex-col">
-                        <img src="${item.meta.iconUrl}" 
-                             class="w-20 h-20 mx-auto mb-2 object-contain">
-                        <div class="flex-1">
-                            <h3 class="font-semibold text-center truncate-2">${item.meta.label}</h3>
-                            <p class="text-xs text-gray-400 text-center mt-2">v${packageversion}</p>
-                            <p class="text-xs text-gray-400 text-center mt-2">${packageName}</p>
-                            <p class="text-xs text-gray-400 text-center mt-2">${createTime}||${packagesize}</p>
-                        </div>
+            const packageName = item.meta.packageName || '包名不详';
+            const packageVersion = item.meta?.versionName ? `V${item.meta.versionName}` : '版本不详';
+            const packageSize = item.apkLength ? `#${(item.apkLength / 1024).toFixed(1)}M` : '大小不详';
+            const createTime = item.tagList.length > 0 ? item.tagList[0].createTime.split(' ')[0] : '时间不详';
+            card.onclick = () => window.open(item.pluginUrl, '_blank');
+            card.innerHTML = `
+    <div class="h-full flex flex-col">
+        <img src="${item.meta.iconUrl}" 
+             class="w-20 h-20 mx-auto mb-2 object-contain">
+        <div class="flex-1">
+            <h3 class="font-semibold text-center truncate-2">${item.meta.label}</h3>
+            <p class="text-xs text-gray-400 text-center mt-2">${packageVersion}</p>
+            <p class="text-xs text-gray-400 text-center mt-2">${packageName}</p>
+            <p class="text-xs text-gray-400 text-center mt-2">[${createTime}]${packageSize.includes('#') ? packageSize : `[${packageSize}]`}</p>
+        </div>
                     </div>
                 `;
                 grid.appendChild(card);
