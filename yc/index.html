@@ -187,6 +187,9 @@
                 card.className = 'grid-item bg-white p-3 rounded-xl shadow-sm hover:shadow-md transition-all focus:outline-none focus:ring-2 focus:ring-blue-500';
                 card.tabIndex = 0;
                 card.dataset.packageName = item.meta.packageName; // 存储包名
+                // 假设数据中有 updateDate 字段，如果没有需要根据实际情况修改
+                const packageName = item.meta.packageName || '未知';
+                const createTime = item.tagList.length > 0? item.tagList[0].createTime.split(' ')[0] : '未知';
                 card.onclick = () => window.open(item.pluginUrl, '_blank'); // 整个宫格点击触发下载
                 card.innerHTML = `
                     <div class="h-full flex flex-col">
@@ -196,6 +199,9 @@
                             <h3 class="font-semibold text-center truncate-2">${item.meta.label}</h3>
                             <p class="text-sm text-gray-500 text-center truncate mt-1" id="package-name-${item.meta.packageName}" style="display: none;">${item.meta.packageName}</p>
                             <p class="text-xs text-gray-400 text-center mt-2">v${item.meta.versionName}</p>
+                            <p class="text-xs text-gray-400 text-center mt-2">${item.meta.versionName}</p>
+                            <p class="text-xs text-gray-400 text-center mt-2">${packageName}</p>
+                            <p class="text-xs text-gray-400 text-center mt-2">${createTime}</p>
                         </div>
                     </div>
                 `;
