@@ -186,7 +186,6 @@
                 const card = document.createElement('div');
                 card.className = 'grid-item bg-white p-3 rounded-xl shadow-sm hover:shadow-md transition-all focus:outline-none focus:ring-2 focus:ring-blue-500';
                 card.tabIndex = 0;
-                card.dataset.packageName = item.meta.packageName; // 存储包名
                 // 假设数据中有 updateDate 字段，如果没有需要根据实际情况修改
                 const packageName = item.meta.packageName || '未知';
                 const createTime = item.tagList.length > 0? item.tagList[0].createTime.split(' ')[0] : '未知';
@@ -197,7 +196,6 @@
                              class="w-20 h-20 mx-auto mb-2 object-contain">
                         <div class="flex-1">
                             <h3 class="font-semibold text-center truncate-2">${item.meta.label}</h3>
-                            <p class="text-sm text-gray-500 text-center truncate mt-1" id="package-name-${item.meta.packageName}" style="display: none;">${item.meta.packageName}</p>
                             <p class="text-xs text-gray-400 text-center mt-2">v${item.meta.versionName}</p>
                             <p class="text-xs text-gray-400 text-center mt-2">${packageName}</p>
                             <p class="text-xs text-gray-400 text-center mt-2">${createTime}</p>
@@ -322,16 +320,6 @@
             const items = Array.from(document.querySelectorAll('.grid-item'));
             const index = items.indexOf(active);
             const cols = getComputedGridColumns();
-
-
-            // 焦点聚焦时显示包名，失去焦点时隐藏包名
-            const packageNameElement = active.querySelector('p[id^="package-name-"]');
-            if (e.type === 'focus') {
-                packageNameElement.style.display = 'block';
-            } else if (e.type === 'blur') {
-                packageNameElement.style.display = 'none';
-            }
-
 
             switch(e.key) {
                 case 'ArrowUp':
