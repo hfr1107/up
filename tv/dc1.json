@@ -2,28 +2,36 @@
 {
   "storeHouse": [
     {
-      "sourceName": "💜精选仓",
+      "sourceName": "🚀路尧多仓🍭精选线路🍭",
+      "sourceUrl": "https://hfr1107.top/api/box/dc.php"
+    },
+    {
+      "sourceName": "❤️蜗牛科技仓🍭蜗牛精选🍭",
       "sourceUrl": "https://tv.蜗牛.top/DS"
     },
     {
-      "sourceName": "🧡纯4k仓",
-      "sourceUrl": "https://4k.蜗牛.top/4k.json"
+      "sourceName": "💜蜗牛星辰仓🍭蜗牛提醒🍭",
+      "sourceUrl": "http://150.158.112.123/dc.json"
     },
     {
-      "sourceName": "💚优选仓",
-      "sourceUrl": "https://tvbox.蜗牛.top/YX"
+      "sourceName": "💚蜗牛天微仓🍭软件接口🍭",
+      "sourceUrl": "https://qixing.myhkw.com/DC.txt"
     },
     {
-      "sourceName": "💛公众仓",
-      "sourceUrl": "https://tvbox.蜗牛.top/GG"
+      "sourceName": "💛蜗牛拾光仓🍭完全免费🍭",
+      "sourceUrl": "https://4708.kstore.space/ck.json"
     },
     {
-      "sourceName": "❤️聚合仓",
-      "sourceUrl": "https://tvbox.蜗牛.top/JH"
+      "sourceName": "💙蜗牛讴歌仓🍭严禁贩卖🍭",
+      "sourceUrl": "https://欧歌.e.nxog.top/api.php?id=2"
     },
     {
-      "sourceName": "💙预备仓",
-      "sourceUrl": "https://tv.5209426.xyz/DS"
+      "sourceName": "🧡蜗牛挺好仓🍭蜗牛科技🍭",
+      "sourceUrl": "http://ztha.top/TVBox/GYCK.json"
+    },
+    {
+      "sourceName": "🤍蜗牛多多仓🍭不做韭菜🍭",
+      "sourceUrl": "https://bitbucket.org/xduo/cool/raw/main/line.json"
     }
   ]
 }
