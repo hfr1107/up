@@ -1,505 +1,436 @@
-台湾频道,#genre# 
-中天新闻 HD,http://kele666.serv00.net/Smart.php?id=ctinews
-东森新闻 ETTV News,http://kele666.serv00.net/Smart.php?id=ettvnews
-台视新闻台,http://kele666.serv00.net/Smart.php?id=ttvnews_twn
-民视新闻台 FTV News,http://kele666.serv00.net/Smart.php?id=ftvnew_taiwan
-中视新闻台,http://kele666.serv00.net/Smart.php?id=zhongshinews_twn
-TVBS News 新闻台,http://kele666.serv00.net/Smart.php?id=tvbs_n
-寰宇新闻台,http://kele666.serv00.net/Smart.php?id=huanyuxinwen_twn
-非凡新闻台,http://kele666.serv00.net/Smart.php?id=feifannews_twn
-年代新闻,http://kele666.serv00.net/Smart.php?id=niandainews_twn
-TVBS 欢乐台 （备份）,http://kele666.serv00.net/Smart.php?id=tvbshuanle_twn
-TVBS HD,http://kele666.serv00.net/Smart.php?id=tvbs
-中天娱乐 CTI Entertaiment,http://kele666.serv00.net/Smart.php?id=ctient
-中天综合 CTI Metro,http://kele666.serv00.net/Smart.php?id=ctizhonghe
-中天亚洲台,http://kele666.serv00.net/Smart.php?id=ctiasia_twn
-台视 TTV HD,http://kele666.serv00.net/Smart.php?id=ttv_taiwan
-台视综合台,http://kele666.serv00.net/Smart.php?id=ttvzhonghe
-中视 HD,http://kele666.serv00.net/Smart.php?id=zhongshihd_twn
-民视 HD,http://kele666.serv00.net/Smart.php?id=ftvhd_taiwan
-民视台湾台,http://kele666.serv00.net/Smart.php?id=ftvtaiwan_twn
-华视 CTS HD,http://kele666.serv00.net/Smart.php?id=ctshd_twn
-公视 CTV,http://kele666.serv00.net/Smart.php?id=ctv18_twn
-八大第一 GTV First,http://kele666.serv00.net/Smart.php?id=badafirst
-八大综合 GTV Metro,http://kele666.serv00.net/Smart.php?id=badazhonghe
-八大戏剧 GTV Drama,http://kele666.serv00.net/Smart.php?id=badadrama
-八大娱乐 GTV Entertainment,http://kele666.serv00.net/Smart.php?id=badaentertain
-HBO_HD,http://kele666.serv00.net/Smart.php?id=hbohd_twn
-HBO_HITS,http://kele666.serv00.net/Smart.php?id=hbohit_twn
-Hollywood Movies,http://kele666.serv00.net/Smart.php?id=hollywoodmovies_twn
-三立台湾 Sanli Taiwan,http://kele666.serv00.net/Smart.php?id=sanlitaiwan
-三立戏剧台,http://kele666.serv00.net/Smart.php?id=sanlixiju_twn
-三立综合 Sanli Metro,http://kele666.serv00.net/Smart.php?id=sanlizhonghe
-三立都会台,http://kele666.serv00.net/Smart.php?id=sanlidouhui
-CINEMAX,http://kele666.serv00.net/Smart.php?id=cinemax_twn
-东森综合 ETTV Metro,http://kele666.serv00.net/Smart.php?id=ettvzhonghe
-东森戏剧 ETTV Drama,http://kele666.serv00.net/Smart.php?id=ettvdrama
-东森超视,http://kele666.serv00.net/Smart.php?id=ettvsuper
-东森财经新闻 ETTV Business,http://kele666.serv00.net/Smart.php?id=ettvcaijing_twn
-寰宇财经,http://kele666.serv00.net/Smart.php?id=huanyutaiwan_twn
-公视2,http://kele666.serv00.net/Smart.php?id=ctv2_twn
-大爱1台,http://kele666.serv00.net/Smart.php?id=daai_twn
-龙华戏剧 Lunghua Drama,http://kele666.serv00.net/Smart.php?id=lunghuaxiju_twn
-龙华经典台,http://kele666.serv00.net/Smart.php?id=lunghuajingdian_twn
-龙华偶像,http://kele666.serv00.net/Smart.php?id=lunghuaidol_twn
-AXN Taiwan,http://kele666.serv00.net/Smart.php?id=axn_twn
-靖天国际台,http://kele666.serv00.net/Smart.php?id=jingtianintl_twn
-纬来日本台,http://kele666.serv00.net/Smart.php?id=videolandjapan
-纬来电影台,http://kele666.serv00.net/Smart.php?id=videolandmovie
-纬来体育台,http://kele666.serv00.net/Smart.php?id=videolandsport
-纬来综合台,http://kele666.serv00.net/Smart.php?id=videolandzonghe
-纬来育乐,http://kele666.serv00.net/Smart.php?id=videolandyule
-纬来精彩,http://kele666.serv00.net/Smart.php?id=videolandspecial_twn
-好消息 2,http://kele666.serv00.net/Smart.php?id=good2_twn
-大爱2台,http://kele666.serv00.net/Smart.php?id=daai2_twn
-亚洲美食,http://kele666.serv00.net/Smart.php?id=afc_twn
-美食星球,http://kele666.serv00.net/Smart.php?id=foodplanet_twn
-亚洲旅游 TLC Asia,http://kele666.serv00.net/Smart.php?id=tlc_twn
-东森电影 ETTV Movie,http://kele666.serv00.net/Smart.php?id=ettvmovie
-阿里郎 Arirang,http://kele666.serv00.net/Smart.php?id=arirang_twn
-博斯运动 1,http://kele666.serv00.net/Smart.php?id=bosisport1_twn
-博斯运动 2,http://kele666.serv00.net/Smart.php?id=bosisport2_twn
-博斯高球2 HD,http://kele666.serv00.net/Smart.php?id=bosigolf2_twn
-博斯网球 HD,http://kele666.serv00.net/Smart.php?id=bositennis_twn
-东森洋片 ETTV Western,http://kele666.serv00.net/Smart.php?id=ettvwestern
-龙华洋片 Lunghua Western,http://kele666.serv00.net/Smart.php?id=lunghuawestern_twn
-博斯无限,http://kele666.serv00.net/Smart.php?id=bosiunlimited_twn
-MTV Live,http://kele666.serv00.net/Smart.php?id=mtvhd_twn
-龙详时代,http://kele666.serv00.net/Smart.php?id=lungxiangtime_twn
-EYETV 旅游,http://kele666.serv00.net/Smart.php?id=eyetvtravel_twn
-靖天卡通台,http://kele666.serv00.net/Smart.php?id=jingtiancartoon_twn
-EYETV 戏剧,http://kele666.serv00.net/Smart.php?id=eyetvxiju_twn
-卫视中文台 Star Movies Chinese,http://kele666.serv00.net/Smart.php?id=weishichinese_twn
-东森幼幼 Yoyo TV,http://kele666.serv00.net/Smart.php?id=yoyo_twn
-卫视电影台,http://kele666.serv00.net/Smart.php?id=weishimovie_twn
-美亚电影,http://kele666.serv00.net/Smart.php?id=meiyamovie_twn
-爱尔达影剧台,http://kele666.serv00.net/Smart.php?id=eltayingju_twn
-爱尔达综合台,http://kele666.serv00.net/Smart.php?id=eltazonghe_twn
-星卫电影,http://kele666.serv00.net/Smart.php?id=xingwei_movie
-AFC 亚洲旅游台,http://kele666.serv00.net/Smart.php?id=asiatravel_twn
-
-香港频道,#genre# 
-凤凰卫视,http://kele666.serv00.net/Smart.php?id=phoenixtv_hd
-凤凰资讯,http://kele666.serv00.net/Smart.php?id=phoenixinfo_hd
-iNews 新闻台,http://kele666.serv00.net/Smart.php?id=inews_twn
-翡翠台,http://kele666.serv00.net/Smart.php?id=jade_twn
-翡翠台 backup,http://kele666.serv00.net/Smart.php?id=Jade_xue
-J 2,http://kele666.serv00.net/Smart.php?id=j2_twn
-珍珠台,http://kele666.serv00.net/Smart.php?id=pearl_twn
-凤凰香港,http://kele666.serv00.net/Smart.php?id=hkphoenix_twn
-HOY资讯台,http://kele666.serv00.net/Smart.php?id=hoycaijing_twn
-RHK 31,http://kele666.serv00.net/Smart.php?id=rhk31_twn
-VIUTV1,http://kele666.serv00.net/Smart.php?id=viu1_twn
-RHK 32,http://kele666.serv00.net/Smart.php?id=rhk32_twn
-Viu6,http://kele666.serv00.net/Smart.php?id=viusix_twn
-
-央视频道,#genre# 
-CCTV-13 新闻频道,http://kele666.serv00.net/Smart.php?id=cctv13
-CCTV-1 综合 HD,http://kele666.serv00.net/Smart.php?id=cctv1
-CCTV-2 财经,http://kele666.serv00.net/Smart.php?id=cctv2
-CCTV-3 综艺 HD,http://kele666.serv00.net/Smart.php?id=cctv3
-CCTV-4 中文国际,http://kele666.serv00.net/Smart.php?id=cctv4
-CCTV4 新闻台,http://kele666.serv00.net/Smart.php?id=Cctv4
-CCTV-5 体育频道,http://kele666.serv00.net/Smart.php?id=cctv5
-CCTV-5+ 体育赛事 HD,http://kele666.serv00.net/Smart.php?id=cctv5plus
-CCTV-6,http://kele666.serv00.net/Smart.php?id=cctv6
-CCTV-7 军事农业,http://kele666.serv00.net/Smart.php?id=cctv7
-CCTV-8 电视剧 HD,http://kele666.serv00.net/Smart.php?id=cctv8hd
-CCTV-9 记录 HD,http://kele666.serv00.net/Smart.php?id=cctv9hd
-CCTV-10 科教 HD,http://kele666.serv00.net/Smart.php?id=cctv10hd
-CCTV-11 戏曲,http://kele666.serv00.net/Smart.php?id=cctv11
-CCTV-12 社会与法,http://kele666.serv00.net/Smart.php?id=cctv12
-CCTV-14 少儿,http://kele666.serv00.net/Smart.php?id=cctv14
-CCTV-6,http://kele666.serv00.net/Smart.php?id=cctv6
-CCTV-15 音乐,http://kele666.serv00.net/Smart.php?id=cctv15
-
-卫视频道,#genre# 
-江苏卫视,http://kele666.serv00.net/Smart.php?id=jiangsu_twn
-湖南卫视,http://kele666.serv00.net/Smart.php?id=hunan_twn
-浙江卫视,http://kele666.serv00.net/Smart.php?id=zhejiang_twn
-东方卫视,http://kele666.serv00.net/Smart.php?id=dongfangweishi_twn
-深圳卫视,http://kele666.serv00.net/Smart.php?id=shenzhen
-福建东南卫视,http://kele666.serv00.net/Smart.php?id=fujian
-广东南方卫视,http://kele666.serv00.net/Smart.php?id=nanfang_twn
-广东卫视,http://kele666.serv00.net/Smart.php?id=guangdongweishi_twn
-北京卫视,http://kele666.serv00.net/Smart.php?id=beijing
-珠江台,http://kele666.serv00.net/Smart.php?id=zhujiang
-广西卫视,http://kele666.serv00.net/Smart.php?id=guangxi
-湖北卫视,http://kele666.serv00.net/Smart.php?id=hubei
-四川卫视,http://kele666.serv00.net/Smart.php?id=sichuan_twn
-CGTN,http://kele666.serv00.net/Smart.php?id=CGTN
-
-央视|IPV4,#genre#
-CCTV-13新闻,http://hao6688.3322.org:30066/stream/channelid/660382748?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=cctv1
-CCTV-1综合,http://hao6688.3322.org:30066/stream/channelid/1051120258?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=cctv
-CCTV-2财经,http://hao6688.3322.org:30066/stream/channelid/363397980?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=cctv
-CCTV-3综艺,http://hao6688.3322.org:30066/stream/channelid/1277078072?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=cctv
-CCTV-4中文国际,http://hao6688.3322.org:30066/stream/channelid/389234750?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=cctv
-CCTV-5体育,http://hao6688.3322.org:30066/stream/channelid/1852038413?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=cctv
-CCTV-5+体育赛事,http://hao6688.3322.org:30066/stream/channelid/938177947?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://hao6688.3322.org:30066/stream/channelid/1374437167?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=cctv5plu
-CCTV-6电影,http://hao6688.3322.org:30066/stream/channelid/2090097375?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=cctv
-CCTV-7国防军事,http://hao6688.3322.org:30066/stream/channelid/236820211?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=cctv
-CCTV-8电视剧,http://hao6688.3322.org:30066/stream/channelid/756377117?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=cctv8h
-CCTV-9纪录,http://hao6688.3322.org:30066/stream/channelid/479383229?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=cctv9h
-CCTV-10科教,http://hao6688.3322.org:30066/stream/channelid/743953015?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=cctv10h
-CCTV-11戏曲,http://hao6688.3322.org:30066/stream/channelid/416425041?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=cctv1
-CCTV-12社会,http://hao6688.3322.org:30066/stream/channelid/962960469?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=cctv1
-CCTV-14少儿,http://000.hfr1107.top/tv/smt.php?id=cctv1
-CCTV-15音乐,http://000.hfr1107.top/tv/smt.php?id=cctv1
-CCTV-16奥林匹克,http://hao6688.3322.org:30066/stream/channelid/1399301184?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://hao6688.3322.org:30066/stream/channelid/2021986814?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jn
-CCTV-17农业,http://hao6688.3322.org:30066/stream/channelid/1399303967?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jn
-CCTV-4K,http://hao6688.3322.org:30066/stream/channelid/1018236561?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jn
-卫视|IPV4,#genre#
-江苏卫视,http://hao6688.3322.org:30066/stream/channelid/695059108?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://hao6688.3322.org:30066/stream/channelid/2138319195?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=jiangsu_tw
-浙江卫视,http://hao6688.3322.org:30066/stream/channelid/504045372?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://hao6688.3322.org:30066/stream/channelid/356064034?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=zhejiang_tw
-湖南卫视,http://hao6688.3322.org:30066/stream/channelid/159465965?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://hao6688.3322.org:30066/stream/channelid/731124797?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=hunan_tw
-东方卫视,http://hao6688.3322.org:30066/stream/channelid/23987481?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=dongfangweishi_tw
-安徽卫视,http://hao6688.3322.org:30066/stream/channelid/1801302228?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jn
-深圳卫视,http://hao6688.3322.org:30066/stream/channelid/2036553799?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://hao6688.3322.org:30066/stream/channelid/131443779?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=shenzhe
-北京卫视,http://hao6688.3322.org:30066/stream/channelid/1030572403?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://hao6688.3322.org:30066/stream/channelid/442826707?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=beijin
-山东卫视,http://hao6688.3322.org:30066/stream/channelid/675871061?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://hao6688.3322.org:30066/stream/channelid/917260247?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jn
-广东卫视,http://hao6688.3322.org:30066/stream/channelid/481973807?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://hao6688.3322.org:30066/stream/channelid/1822350802?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=guangdongweishi_tw
-湖北卫视,http://hao6688.3322.org:30066/stream/channelid/2140668744?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=hube
-四川卫视,http://hao6688.3322.org:30066/stream/channelid/410674313?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=sichuan_tw
-重庆卫视,http://hao6688.3322.org:30066/stream/channelid/1939418290?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jn
-天津卫视,http://hao6688.3322.org:30066/stream/channelid/1695046550?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://hao6688.3322.org:30066/stream/channelid/1694521917?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jn
-辽宁卫视,http://hao6688.3322.org:30066/stream/channelid/28649517?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://hao6688.3322.org:30066/stream/channelid/1609029788?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jn
-黑龙江卫视,http://hao6688.3322.org:30066/stream/channelid/1865690251?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jn
-广西卫视,http://000.hfr1107.top/tv/smt.php?id=guangx
-江西卫视,http://hao6688.3322.org:30066/stream/channelid/1605655341?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jn
-贵州卫视,http://hao6688.3322.org:30066/stream/channelid/1711855451?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jn
-东南卫视,http://hao6688.3322.org:30066/stream/channelid/662384170?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jnE#http://000.hfr1107.top/tv/smt.php?id=fujia
-河北卫视,http://hao6688.3322.org:30066/stream/channelid/1109376146?profile=pass&auth=PTBIo0XQv3bxdiPIkGTi5xgd0jn
-
-体育频道,#genre# 
-爱尔达体育2台,http://kele666.serv00.net/Smart.php?id=eltasport2_twn
-爱尔达体育3台,http://kele666.serv00.net/Smart.php?id=eltasport3_twn
-Astro Premier League 1,http://kele666.serv00.net/Smart.php?id=go_assp1
-Astro EPL 1 backup,http://kele666.serv00.net/Smart.php?id=go_assp1x
-Astro Premier League 2,http://kele666.serv00.net/Smart.php?id=go_assp2
-Astro Grandstand,http://kele666.serv00.net/Smart.php?id=go_assp3
-Astro Football,http://kele666.serv00.net/Smart.php?id=go_assp4
-Astro Sports Plus,http://kele666.serv00.net/Smart.php?id=go_sportsplus
-Astro Badminton 1,http://kele666.serv00.net/Smart.php?id=go_badminton1
-Astro Badminton 2,http://kele666.serv00.net/Smart.php?id=go_badminton2
-Astro W-Sports,http://kele666.serv00.net/Smart.php?id=go_assp5
-Supersports 1,http://kele666.serv00.net/Smart.php?id=Assp1
-Supersports 2,http://kele666.serv00.net/Smart.php?id=Assp2
-Supersports 3,http://kele666.serv00.net/Smart.php?id=Assp3
-Supersports 4,http://kele666.serv00.net/Smart.php?id=Assp4
-WWE,http://kele666.serv00.net/Smart.php?id=Wwe
-Fight Sports,http://kele666.serv00.net/Smart.php?id=Fs
-NBA TV,http://kele666.serv00.net/Smart.php?id=Nba
-Astro Cricket,http://kele666.serv00.net/Smart.php?id=Acricket
-Astro Golf,http://kele666.serv00.net/Smart.php?id=Agolf
-Tnt Sports 1,http://kele666.serv00.net/Smart.php?id=6fac0aaead
-TNT Sports 2,http://kele666.serv00.net/Smart.php?id=d9a76a79cc
-TNT Sports 3,http://kele666.serv00.net/Smart.php?id=5fea4d73db
-TNT Sports 4,http://kele666.serv00.net/Smart.php?id=tntsport4
-Sony Ten 1,http://kele666.serv00.net/Smart.php?id=ten1_raj
-Sony Ten 2,http://kele666.serv00.net/Smart.php?id=ten2_raj
-Sony Ten 3,http://kele666.serv00.net/Smart.php?id=ten3_raj
-SPOTV 1 HD,http://kele666.serv00.net/Smart.php?id=go_spotv
-SPO TV 2,http://kele666.serv00.net/Smart.php?id=go_spotv2
-Skysports F1,http://kele666.serv00.net/Smart.php?id=tiankongf1
-Skysports Cricket,http://kele666.serv00.net/Smart.php?id=tiankongcricket
-Skysports EPL,http://kele666.serv00.net/Smart.php?id=tiankongepl
-Skysports Main Event,http://kele666.serv00.net/Smart.php?id=tiankongmain
-Skysports News,http://kele666.serv00.net/Smart.php?id=tiankongnews
-Skysports Mix,http://kele666.serv00.net/Smart.php?id=tiankongmix
-Rugby Pass TV,http://kele666.serv00.net/Smart.php?id=Rugbypasstv
-RTM Sports HD,http://kele666.serv00.net/Smart.php?id=Rtmsport
-Arena,http://kele666.serv00.net/Smart.php?id=Arena
-Arena 2,http://kele666.serv00.net/Smart.php?id=Arena2
-BolaArena 1,http://kele666.serv00.net/Smart.php?id=Bolaarena1
-BolaArena 2,http://kele666.serv00.net/Smart.php?id=Bolaarena2
-Astro Beinsports 1,http://kele666.serv00.net/Smart.php?id=Astrobein1
-Astro Beinsports 2,http://kele666.serv00.net/Smart.php?id=Astrobein2
-Astro Beinsports 3,http://kele666.serv00.net/Smart.php?id=Astrobein3
-
-电影频道,#genre# 
-Cinemax,http://kele666.serv00.net/Smart.php?id=Cinemax
-Animax,http://kele666.serv00.net/Smart.php?id=Animax
-Movies Now HD,http://kele666.serv00.net/Smart.php?id=moviesnow_raj
-Star Movies HD,http://kele666.serv00.net/Smart.php?id=starmovies_raj
-HBO Family,http://kele666.serv00.net/Smart.php?id=Hbofamily
-Hits,http://kele666.serv00.net/Smart.php?id=Hits
-Warner TV,http://kele666.serv00.net/Smart.php?id=WarnerTV
-HBO HD,http://kele666.serv00.net/Smart.php?id=Hbo
-HBO Signature,http://kele666.serv00.net/Smart.php?id=Hbosignature
-HBO Hits,http://kele666.serv00.net/Smart.php?id=Hbohitshd
-SCM,http://kele666.serv00.net/Smart.php?id=Weishimovie
-Dreamworks,http://kele666.serv00.net/Smart.php?id=Dreamworks
-Thrill,http://kele666.serv00.net/Smart.php?id=Thrill
-Hits Movie,http://kele666.serv00.net/Smart.php?id=Hitsmovie
-One,http://kele666.serv00.net/Smart.php?id=One
-tvN Movie,http://kele666.serv00.net/Smart.php?id=Tvnmovie
-Celestial Classic,http://kele666.serv00.net/Smart.php?id=Celestial2
-Celestial Movies HD,http://kele666.serv00.net/Smart.php?id=Celestialindo
-Axn HD,http://kele666.serv00.net/Smart.php?id=Axn
-Paramount Network,http://kele666.serv00.net/Smart.php?id=Paramountnetwork
-Astrol Kplus,http://kele666.serv00.net/Smart.php?id=Kplus
-Rock Actions,http://kele666.serv00.net/Smart.php?id=Rockaction
-Rock Entertainment,http://kele666.serv00.net/Smart.php?id=Rockentertain
-
-记录频道,#genre# 
-Natgeo_HD,http://kele666.serv00.net/Smart.php?id=natgeohd_twn
-NatGeo_Wild HD,http://kele666.serv00.net/Smart.php?id=natgeowild_twn
-Animal_Planet,http://kele666.serv00.net/Smart.php?id=animalplanet_twn
-Discovery Asia,http://kele666.serv00.net/Smart.php?id=discoverytwn_twn
-CI,http://kele666.serv00.net/Smart.php?id=ci_twn
-Discovery HD,http://kele666.serv00.net/Smart.php?id=discoveryhd_twn
-NatGeo HD,http://kele666.serv00.net/Smart.php?id=Natgeo
-Fashion TV,http://kele666.serv00.net/Smart.php?id=fashiontv_twn
-History,http://kele666.serv00.net/Smart.php?id=History
-BBC Earth HD,http://kele666.serv00.net/Smart.php?id=bbcearth_twn
-BBC Earth Lifestyle,http://kele666.serv00.net/Smart.php?id=bbclifestyle_twn
-NatGeo Wild HD,http://kele666.serv00.net/Smart.php?id=Natgeowild
-Animal Planet (Eng),http://kele666.serv00.net/Smart.php?id=AnimalPlanet
-TLC,http://kele666.serv00.net/Smart.php?id=Tlc
-Foodnetwork Hd,http://kele666.serv00.net/Smart.php?id=Foodnetwork
-HGTV,http://kele666.serv00.net/Smart.php?id=HGTV
-
-新闻频道,#genre# 
-Skynews,http://kele666.serv00.net/Smart.php?id=skynews_twn
-ABC News,http://kele666.serv00.net/Smart.php?id=abcnews_glo
-CBS HD,http://kele666.serv00.net/Smart.php?id=cbshd_glo
-CBSN HD,http://kele666.serv00.net/Smart.php?id=cbsn_glo
-France 24,http://kele666.serv00.net/Smart.php?id=france24_twn
-DW (Deutsch),http://kele666.serv00.net/Smart.php?id=dw_twn
-NHK World,http://kele666.serv00.net/Smart.php?id=nhkworld_japan
-Fox News,http://kele666.serv00.net/Smart.php?id=foxnews_twn
-CNN International,http://kele666.serv00.net/Smart.php?id=Cnn
-CNN backup,http://kele666.serv00.net/Smart.php?id=cnn_twn
-CNBC,http://kele666.serv00.net/Smart.php?id=cnbc_twn
-CNA,http://kele666.serv00.net/Smart.php?id=cna
-BBC World News,http://kele666.serv00.net/Smart.php?id=bbcnews_twn
-BBC World News,http://kele666.serv00.net/Smart.php?id=Bbcnews
-Bloomberg News,http://kele666.serv00.net/Smart.php?id=bloomberg_twn
-Al-Jazeera,http://kele666.serv00.net/Smart.php?id=aljazeera_twn
-
-儿童频道,#genre# 
-Baby TV Eng,http://kele666.serv00.net/Smart.php?id=Babytv
-CBeebies,http://kele666.serv00.net/Smart.php?id=Cbeebies
-Kids TV,http://kele666.serv00.net/Smart.php?id=KidsTV
-Momo TV,http://kele666.serv00.net/Smart.php?id=momo1_twn
-Baby TV,http://kele666.serv00.net/Smart.php?id=babytv_twn
-MiaoMi,http://kele666.serv00.net/Smart.php?id=MiaoMi
-Cartoon Network,http://kele666.serv00.net/Smart.php?id=Cn
-Nickelodeon,http://kele666.serv00.net/Smart.php?id=Nickelodeon
-Nick Jr,http://kele666.serv00.net/Smart.php?id=Nickjr
-
-新加坡频道,#genre# 
-Channel 5,http://kele666.serv00.net/Smart.php?id=Channel5HD
-Channel 8,http://kele666.serv00.net/Smart.php?id=Channel8HD
-Suria,http://kele666.serv00.net/Smart.php?id=Suria
-Channel U,http://kele666.serv00.net/Smart.php?id=ChannelU
-Vasantham,http://kele666.serv00.net/Smart.php?id=Vasantham
-CNA backup,http://kele666.serv00.net/Smart.php?id=cna_twn
-MeWatch Ch 5,http://kele666.serv00.net/Smart.php?id=Mewatch_ch5
-MeWatch Ch 8,http://kele666.serv00.net/Smart.php?id=Mewatch_ch8
-MeWatch Ch U,http://kele666.serv00.net/Smart.php?id=Mewatch_chU
-MeWatch Suria,http://kele666.serv00.net/Smart.php?id=Mewatch_Suria
-MeWatch Vasantham,http://kele666.serv00.net/Smart.php?id=Mewatch_Vasantham
-MeWatch CNA,http://kele666.serv00.net/Smart.php?id=Mewatch_cna
-
-马来西亚频道,#genre# 
-华丽台 HD （Wah Lai Toi）,http://kele666.serv00.net/Smart.php?id=Wlt
-欢喜台 HD （Hua Hee Tai）,http://kele666.serv00.net/Smart.php?id=Huahee
-TVB 星河台 Xing He,http://kele666.serv00.net/Smart.php?id=Xinhe
-爱奇艺 iQiyi,http://kele666.serv00.net/Smart.php?id=Qiyi
-TV1,http://kele666.serv00.net/Smart.php?id=TV1
-TV1 backup,http://kele666.serv00.net/Smart.php?id=TV1_backup
-TV2,http://kele666.serv00.net/Smart.php?id=TV2
-TV3,http://kele666.serv00.net/Smart.php?id=TV3
-TV3 SD,http://kele666.serv00.net/Smart.php?id=TV3_mega
-NTV7,http://kele666.serv00.net/Smart.php?id=NTV7
-TV8,http://kele666.serv00.net/Smart.php?id=TV8
-TV9,http://kele666.serv00.net/Smart.php?id=TV9
-Ria,http://kele666.serv00.net/Smart.php?id=Ria-0
-Ria-3,http://kele666.serv00.net/Smart.php?id=Ria_backup
-Al-Hijrah,http://kele666.serv00.net/Smart.php?id=Alhijrah
-Al-Hijrah backup,http://kele666.serv00.net/Smart.php?id=Alhijrah_backup
-Awani,http://kele666.serv00.net/Smart.php?id=Awani
-Bernama,http://kele666.serv00.net/Smart.php?id=Bernama
-Prima,http://kele666.serv00.net/Smart.php?id=Prima-0
-Prima backup,http://kele666.serv00.net/Smart.php?id=AAprima1
-Prima backup 2,http://kele666.serv00.net/Smart.php?id=AAprima
-Ceria,http://kele666.serv00.net/Smart.php?id=Ceria
-Astro MTV,http://kele666.serv00.net/Smart.php?id=AstroMTV
-Mecca Live HD,http://kele666.serv00.net/Smart.php?id=quran_mido
-Madinah HD,http://kele666.serv00.net/Smart.php?id=sunnah_mido
-Oasis,http://kele666.serv00.net/Smart.php?id=Oasis
-Siar,http://kele666.serv00.net/Smart.php?id=Siar
-Citra,http://kele666.serv00.net/Smart.php?id=AAcitra
-Citra backup,http://kele666.serv00.net/Smart.php?id=AAcitra1
-Sensasi,http://kele666.serv00.net/Smart.php?id=Sensasi
-Aura,http://kele666.serv00.net/Smart.php?id=Aura
-Rania,http://kele666.serv00.net/Smart.php?id=Rania
-KBS World,http://kele666.serv00.net/Smart.php?id=KBS
-Boo,http://kele666.serv00.net/Smart.php?id=Boo
-Awesome TV,http://kele666.serv00.net/Smart.php?id=Dsangat
-Astro Sonypix,http://kele666.serv00.net/Smart.php?id=Asonypix
-Sony HD,http://kele666.serv00.net/Smart.php?id=SetOne
-TvN,http://kele666.serv00.net/Smart.php?id=TVN
-AEC,http://kele666.serv00.net/Smart.php?id=AEC
-Astro QJ,http://kele666.serv00.net/Smart.php?id=Quanjia
-TVB Jade,http://kele666.serv00.net/Smart.php?id=Tvbjade
-TVB Asia,http://kele666.serv00.net/Smart.php?id=Tvbasia
-TVB Entertainment,http://kele666.serv00.net/Smart.php?id=Tvbentertainment
-TVB Classic,http://kele666.serv00.net/Smart.php?id=Tvbclassic
-AOD,http://kele666.serv00.net/Smart.php?id=Aodhd
-Goshop,http://kele666.serv00.net/Smart.php?id=Goshop
-Celestial Movies HD,http://kele666.serv00.net/Smart.php?id=Celestial
-Astro LOL,http://kele666.serv00.net/Smart.php?id=Astro_lol
-Astro Rusi,http://kele666.serv00.net/Smart.php?id=Rusi
-WION,http://kele666.serv00.net/Smart.php?id=Wion
-RTM Asean,http://kele666.serv00.net/Smart.php?id=Rtmasean
-
-印尼频道,#genre# 
-TVRI National,http://kele666.serv00.net/Smart.php?id=TVRI
-RCTI,http://kele666.serv00.net/Smart.php?id=Rcti
-Kompass TV,http://kele666.serv00.net/Smart.php?id=Kompass
-Berita Satu,http://kele666.serv00.net/Smart.php?id=BeritaSatu_eko
-Indosiar HD,http://kele666.serv00.net/Smart.php?id=Indosiar
-AnTV,http://kele666.serv00.net/Smart.php?id=Antv
-MNC TV,http://kele666.serv00.net/Smart.php?id=Mnctv
-Trans 7,http://kele666.serv00.net/Smart.php?id=Trans7_eko
-Transtv,http://kele666.serv00.net/Smart.php?id=Transtv
-JTV,http://kele666.serv00.net/Smart.php?id=JTV_eko
-Metro TV,http://kele666.serv00.net/Smart.php?id=metrotv_eko
-SCTV,http://kele666.serv00.net/Smart.php?id=SCTV
-Tvone,http://kele666.serv00.net/Smart.php?id=Tvone
-TVMU,http://kele666.serv00.net/Smart.php?id=TVMU_eko
-GTV,http://kele666.serv00.net/Smart.php?id=Gtv
-RTV,http://kele666.serv00.net/Smart.php?id=Rtv
-Jak TV,http://kele666.serv00.net/Smart.php?id=JakTV
-iNews TV,http://kele666.serv00.net/Smart.php?id=Inewstv
-Daai TV,http://kele666.serv00.net/Smart.php?id=DaaiTV
-Net TV,http://kele666.serv00.net/Smart.php?id=NetTV
-EWTN,http://kele666.serv00.net/Smart.php?id=Ewtn
-AlQuran AlKareem,http://kele666.serv00.net/Smart.php?id=AlQuran
-Tawaf TV,http://kele666.serv00.net/Smart.php?id=TawafTV
-Vision Prime,http://kele666.serv00.net/Smart.php?id=VisionPrime
-Muslim TV,http://kele666.serv00.net/Smart.php?id=MuslimTV
-Music TV,http://kele666.serv00.net/Smart.php?id=MusicTV
-Lifestyle&Fashion,http://kele666.serv00.net/Smart.php?id=Lifestyle
-Entertain,http://kele666.serv00.net/Smart.php?id=Entertain
-
-印度频道,#genre# 
-Sun TV HD,http://kele666.serv00.net/Smart.php?id=Suntv
-Star Vijay,http://kele666.serv00.net/Smart.php?id=Starvijay
-Colors Tamil,http://kele666.serv00.net/Smart.php?id=Colorstam
-Sun Music,http://kele666.serv00.net/Smart.php?id=Sunmusic
-Astro Sunlife,http://kele666.serv00.net/Smart.php?id=Sunlife
-Astro Vaanavil,http://kele666.serv00.net/Smart.php?id=Vaanavil
-Zee Tamil,http://kele666.serv00.net/Smart.php?id=Zeetamil
-Zee Business,http://kele666.serv00.net/Smart.php?id=Zeebusiness
-News 18 Tamil,http://kele666.serv00.net/Smart.php?id=news18tamil_raj
-Adithya,http://kele666.serv00.net/Smart.php?id=Adithya
-Makkal TV,http://kele666.serv00.net/Smart.php?id=Makkaltv
-Zee Action,http://kele666.serv00.net/Smart.php?id=Zeeaction
-Astro KTV,http://kele666.serv00.net/Smart.php?id=Astroktv
-Zee TV HD,http://kele666.serv00.net/Smart.php?id=Zeetvhd
-Zee Cinema HD,http://kele666.serv00.net/Smart.php?id=Zeecinemahd
-Color HD,http://kele666.serv00.net/Smart.php?id=Colorhd
-Starplus HD,http://kele666.serv00.net/Smart.php?id=Starplushd
-Picture HD,http://kele666.serv00.net/Smart.php?id=Npicture
-Zee News,http://kele666.serv00.net/Smart.php?id=Zeenews
-Asianet,http://kele666.serv00.net/Smart.php?id=asianet_raj
-Asianet News,http://kele666.serv00.net/Smart.php?id=asianetnews_raj
-Discovery World Tamil,http://kele666.serv00.net/Smart.php?id=discoveryworldtam_raj
-History Tamil,http://kele666.serv00.net/Smart.php?id=historytam_raj
-NatGeo Tamil,http://kele666.serv00.net/Smart.php?id=natgeotamil_raj
-Natgeo Wild Tamil,http://kele666.serv00.net/Smart.php?id=natgeowildtamil_raj
-Discovery Kids Tamil,http://kele666.serv00.net/Smart.php?id=discoverykidtamil_raj
-Discovery Tamil,http://kele666.serv00.net/Smart.php?id=discoverytamil_raj
-Sony Yay Tamil,http://kele666.serv00.net/Smart.php?id=sonyyaytam_raj
-Sun TV India,http://kele666.serv00.net/Smart.php?id=suntv_raj
-Starmaa HD,http://kele666.serv00.net/Smart.php?id=starmaa_raj
-Starmaa Movies HD,http://kele666.serv00.net/Smart.php?id=starmaamovies_raj
-Bollyone,http://kele666.serv00.net/Smart.php?id=Bollyone
-Vijay Super,http://kele666.serv00.net/Smart.php?id=vijaysuper_raj
-Vellithirai,http://kele666.serv00.net/Smart.php?id=Vellithirai
-
-泰国频道,#genre# 
-Channel 3 Thailand,http://kele666.serv00.net/Smart.php?id=ch3_pat
-Channel 5 Thailand,http://kele666.serv00.net/Smart.php?id=ch5_pat
-Channel 7 Thailand,http://kele666.serv00.net/Smart.php?id=ch7_pat
-MCOT HD Thailand-1,http://kele666.serv00.net/Smart.php?id=mcot_pat
-PPTV Thailand1,http://kele666.serv00.net/Smart.php?id=pptv_pat
-Thai Thai,http://kele666.serv00.net/Smart.php?id=thaithai_pat
-Amarin,http://kele666.serv00.net/Smart.php?id=amarin_pat
-Ch 8,http://kele666.serv00.net/Smart.php?id=ch8_pat
-GmmOne,http://kele666.serv00.net/Smart.php?id=gmmone_pat
-Mono,http://kele666.serv00.net/Smart.php?id=mono_pat
-Thairath,http://kele666.serv00.net/Smart.php?id=thairath_pat
-tpbs,http://kele666.serv00.net/Smart.php?id=tpbs_pat
-Workpoint,http://kele666.serv00.net/Smart.php?id=workpoint_pat
-Gmm Channel,http://kele666.serv00.net/Smart.php?id=gmmchannel_pat
-Nation,http://kele666.serv00.net/Smart.php?id=nation_pat
-Tnn24,http://kele666.serv00.net/Smart.php?id=tnn24_pat
-Nbt,http://kele666.serv00.net/Smart.php?id=nbt_pat
-New,http://kele666.serv00.net/Smart.php?id=new_pat
-TPTV,http://kele666.serv00.net/Smart.php?id=tptv_pat
-
-英国频道,#genre# 
-BBC 1,http://kele666.serv00.net/Smart.php?id=bbc1_antik
-BBC 2,http://kele666.serv00.net/Smart.php?id=bbc2_antik
-CBBC,http://kele666.serv00.net/Smart.php?id=cbbc_antik
-More4,http://kele666.serv00.net/Smart.php?id=more4_antik
-Freesports,http://kele666.serv00.net/Smart.php?id=freesports_antik
-Pick TV,http://kele666.serv00.net/Smart.php?id=picktv_antik
-itv 1,http://kele666.serv00.net/Smart.php?id=itv1_antik
-itv 2,http://kele666.serv00.net/Smart.php?id=itv2_antik
-Euronews,http://kele666.serv00.net/Smart.php?id=euronews_antik
-Channel 4,http://kele666.serv00.net/Smart.php?id=channel4_antik
-BBC World News,http://kele666.serv00.net/Smart.php?id=bbcworldnews_antik
-
-越南频道,#genre# 
-ANTV,http://kele666.serv00.net/Smart.php?id=viet_antv
-VTV 1,http://kele666.serv00.net/Smart.php?id=viet_vtv1
-VTV 7,http://kele666.serv00.net/Smart.php?id=viet_vtv7
-HTV 7,http://kele666.serv00.net/Smart.php?id=viet_htv7
-HTV 9,http://kele666.serv00.net/Smart.php?id=viet_htv9
-BPTV 2,http://kele666.serv00.net/Smart.php?id=viet_bptv2
-BRT HD,http://kele666.serv00.net/Smart.php?id=viet_brt
-Ca Mau TV,http://kele666.serv00.net/Smart.php?id=viet_camautv
-Danang TV1 HD,http://kele666.serv00.net/Smart.php?id=viet_danangtv1
-Danang TV2 HD,http://kele666.serv00.net/Smart.php?id=viet_danangtv2
-HBTV HD,http://kele666.serv00.net/Smart.php?id=viet_hbtv
-PTTH 1,http://kele666.serv00.net/Smart.php?id=viet_ptth1
-
-韩国频道,#genre# 
-Arirang HD,http://kele666.serv00.net/Smart.php?id=arirang_korea
-Yonhap News,http://kele666.serv00.net/Smart.php?id=yonhapnews_korea
-CBS,http://kele666.serv00.net/Smart.php?id=cbs_korea
-EBS 1,http://kele666.serv00.net/Smart.php?id=ebs1_korea
-EBS2,http://kele666.serv00.net/Smart.php?id=ebs2_korea
-EBS Plus2,http://kele666.serv00.net/Smart.php?id=ebsplus2_korea
-SBS Plus,http://kele666.serv00.net/Smart.php?id=sbsplus_korea
-YTN,http://kele666.serv00.net/Smart.php?id=ytn_korea
-KBS World 24,http://kele666.serv00.net/Smart.php?id=kbsworld24_korea
-YTN Science,http://kele666.serv00.net/Smart.php?id=ytnscience_korea
-YTN Korean,http://kele666.serv00.net/Smart.php?id=ytnkorean_korea
-YTN DMB,http://kele666.serv00.net/Smart.php?id=ytndmb_korea
-Apps TV,http://kele666.serv00.net/Smart.php?id=appongoogle_korea
-All the Kpop,http://kele666.serv00.net/Smart.php?id=allthekpop_korea
-J the Kpop,http://kele666.serv00.net/Smart.php?id=jthekpop_korea
-EBS Kids,http://kele666.serv00.net/Smart.php?id=ebskids_korea
-CGNTV,http://kele666.serv00.net/Smart.php?id=cgntv_korea
-
-日本频道,#genre# 
-NHK-総合-2,http://kele666.serv00.net/Smart.php?id=nhkg_japan
-NHK-E,http://kele666.serv00.net/Smart.php?id=nhke_japan
-テレビ朝日 Asahi TV,http://kele666.serv00.net/Smart.php?id=asahitv_japan
-JET 綜合,http://kele666.serv00.net/Smart.php?id=jettv_japan
-テレビ東京 Tokyo TV,http://kele666.serv00.net/Smart.php?id=tokyotv_japan
-TOKYOMX,http://kele666.serv00.net/Smart.php?id=tokyomx_japan
-NHKBS1,http://kele666.serv00.net/Smart.php?id=nhkbs1_japan
-NHKBSプレミア Premium,http://kele666.serv00.net/Smart.php?id=nhkpremium_japan
-BSジャパン 181,http://kele666.serv00.net/Smart.php?id=bs181_japan
-BSフジ BS Fuji,http://kele666.serv00.net/Smart.php?id=bsfuji_japan
-CNA Japan,http://kele666.serv00.net/Smart.php?id=cna_japan
-BS-TBS,http://kele666.serv00.net/Smart.php?id=bstbs_japan
-NHK Oaska,http://kele666.serv00.net/Smart.php?id=nhkosaka_japan
+卫视频道,#genre#
+江苏卫视,http://000.hfr1107.top/tv/smt.php?id=jiangsu_twn
+湖南卫视,http://000.hfr1107.top/tv/smt.php?id=hunan_twn
+浙江卫视,http://000.hfr1107.top/tv/smt.php?id=zhejiang_twn
+东方卫视,http://000.hfr1107.top/tv/smt.php?id=dongfangweishi_twn
+北京卫视,http://000.hfr1107.top/tv/smt.php?id=beijing
+深圳卫视,http://000.hfr1107.top/tv/smt.php?id=shenzhen
+四川卫视,http://000.hfr1107.top/tv/smt.php?id=sichuan_twn
+广东卫视,http://000.hfr1107.top/tv/smt.php?id=guangdongweishi_twn
+广西卫视,http://000.hfr1107.top/tv/smt.php?id=guangxi
+湖北卫视,http://000.hfr1107.top/tv/smt.php?id=hubei
+☘️港·澳·台,#genre#
+凤凰资讯,http://000.hfr1107.top/tv/smt.php?id=phoenixinfo_hd#http://000.hfr1107.top/tv/smt.php?id=phoenixinfo_hd
+凤凰香港,http://000.hfr1107.top/tv/smt.php?id=hkphoenix_twn#http://000.hfr1107.top/tv/smt.php?id=hkphoenix_twn
+凤凰香港,http://000.hfr1107.top/tv/smt.php?id=hkphoenix_twn#http://000.hfr1107.top/tv/smt.php?id=hkphoenix_twn
+TVBS新聞,http://000.hfr1107.top/tv/smt.php?id=tvbs_n#http://000.hfr1107.top/tv/smt.php?id=tvbs_n
+东森新闻 ETTV News,http://000.hfr1107.top/tv/smt.php?id=ettvnews#http://000.hfr1107.top/tv/smt.php?id=ettvnews
+台视新闻台,http://000.hfr1107.top/tv/smt.php?id=ttvnews_twn#http://000.hfr1107.top/tv/smt.php?id=ttvnews_twn
+非凡新闻台,http://000.hfr1107.top/tv/smt.php?id=feifannews_twn#http://000.hfr1107.top/tv/smt.php?id=feifannews_twn
+年代新闻,http://000.hfr1107.top/tv/smt.php?id=niandainews_twn#http://000.hfr1107.top/tv/smt.php?id=niandainews_twn
+民視新聞,http://000.hfr1107.top/tv/smt.php?id=ftvnew_taiwan#http://000.hfr1107.top/tv/smt.php?id=ftvnew_taiwan
+中视新闻台,http://000.hfr1107.top/tv/smt.php?id=zhongshinews_twn#http://000.hfr1107.top/tv/smt.php?id=zhongshinews_twn
+寰宇新闻台,http://000.hfr1107.top/tv/smt.php?id=huanyuxinwen_twn#http://000.hfr1107.top/tv/smt.php?id=huanyuxinwen_twn
+TVBS 欢乐台 （备份）,http://000.hfr1107.top/tv/smt.php?id=tvbshuanle_twn#http://000.hfr1107.top/tv/smt.php?id=tvbshuanle_twn
+中天娱乐 CTI Entertaiment,http://000.hfr1107.top/tv/smt.php?id=ctient#http://000.hfr1107.top/tv/smt.php?id=ctient
+中天综合 CTI Metro,http://000.hfr1107.top/tv/smt.php?id=ctizhonghe#http://000.hfr1107.top/tv/smt.php?id=ctizhonghe
+中天亚洲台,http://000.hfr1107.top/tv/smt.php?id=ctiasia_twn#http://000.hfr1107.top/tv/smt.php?id=ctiasia_twn
+台视 TTV HD,http://000.hfr1107.top/tv/smt.php?id=ttv_taiwan#http://000.hfr1107.top/tv/smt.php?id=ttv_taiwan
+台视综合台,http://000.hfr1107.top/tv/smt.php?id=ttvzhonghe#http://000.hfr1107.top/tv/smt.php?id=ttvzhonghe
+中视 HD,http://000.hfr1107.top/tv/smt.php?id=zhongshihd_twn#http://000.hfr1107.top/tv/smt.php?id=zhongshihd_twn
+民视 HD,http://000.hfr1107.top/tv/smt.php?id=ftvhd_taiwan#http://000.hfr1107.top/tv/smt.php?id=ftvhd_taiwan
+华视 CTS HD,http://000.hfr1107.top/tv/smt.php?id=ctshd_twn#http://000.hfr1107.top/tv/smt.php?id=ctshd_twn
+公视 CTV,http://000.hfr1107.top/tv/smt.php?id=ctv18_twn#http://000.hfr1107.top/tv/smt.php?id=ctv18_twn
+八大第一 GTV First,http://000.hfr1107.top/tv/smt.php?id=badafirst#http://000.hfr1107.top/tv/smt.php?id=badafirst
+八大综合 GTV Metro,http://000.hfr1107.top/tv/smt.php?id=badazhonghe#http://000.hfr1107.top/tv/smt.php?id=badazhonghe
+八大戏剧 GTV Drama,http://000.hfr1107.top/tv/smt.php?id=badadrama#http://000.hfr1107.top/tv/smt.php?id=badadrama
+八大娱乐 GTV Entertainment,http://000.hfr1107.top/tv/smt.php?id=badaentertain#http://000.hfr1107.top/tv/smt.php?id=badaentertain
+HBO_HD,http://000.hfr1107.top/tv/smt.php?id=hbohd_twn#http://000.hfr1107.top/tv/smt.php?id=hbohd_twn
+HBO_HITS,http://000.hfr1107.top/tv/smt.php?id=hbohit_twn#http://000.hfr1107.top/tv/smt.php?id=hbohit_twn
+Hollywood Movies,http://000.hfr1107.top/tv/smt.php?id=hollywoodmovies_twn#http://000.hfr1107.top/tv/smt.php?id=hollywoodmovies_twn
+三立台湾 Sanli Taiwan,http://000.hfr1107.top/tv/smt.php?id=sanlitaiwan#http://000.hfr1107.top/tv/smt.php?id=sanlitaiwan
+三立综合 Sanli Metro,http://000.hfr1107.top/tv/smt.php?id=sanlizhonghe#http://000.hfr1107.top/tv/smt.php?id=sanlizhonghe
+CINEMAX,http://000.hfr1107.top/tv/smt.php?id=cinemax_twn#http://000.hfr1107.top/tv/smt.php?id=cinemax_twn
+东森综合 ETTV Metro,http://000.hfr1107.top/tv/smt.php?id=ettvzhonghe#http://000.hfr1107.top/tv/smt.php?id=ettvzhonghe
+东森戏剧 ETTV Drama,http://000.hfr1107.top/tv/smt.php?id=ettvdrama#http://000.hfr1107.top/tv/smt.php?id=ettvdrama
+东森财经新闻 ETTV Business,http://000.hfr1107.top/tv/smt.php?id=ettvcaijing_twn#http://000.hfr1107.top/tv/smt.php?id=ettvcaijing_twn
+寰宇财经,http://000.hfr1107.top/tv/smt.php?id=huanyutaiwan_twn#http://000.hfr1107.top/tv/smt.php?id=huanyutaiwan_twn
+公视2,http://000.hfr1107.top/tv/smt.php?id=ctv2_twn#http://000.hfr1107.top/tv/smt.php?id=ctv2_twn
+大爱1台,http://000.hfr1107.top/tv/smt.php?id=daai_twn#http://000.hfr1107.top/tv/smt.php?id=daai_twn
+龙华戏剧 Lunghua Drama,http://000.hfr1107.top/tv/smt.php?id=lunghuaxiju_twn#http://000.hfr1107.top/tv/smt.php?id=lunghuaxiju_twn
+龙华经典台,http://000.hfr1107.top/tv/smt.php?id=lunghuajingdian_twn#http://000.hfr1107.top/tv/smt.php?id=lunghuajingdian_twn
+龙华偶像,http://000.hfr1107.top/tv/smt.php?id=lunghuaidol_twn#http://000.hfr1107.top/tv/smt.php?id=lunghuaidol_twn
+AXN Taiwan,http://000.hfr1107.top/tv/smt.php?id=axn_twn#http://000.hfr1107.top/tv/smt.php?id=axn_twn
+靖天国际台,http://000.hfr1107.top/tv/smt.php?id=jingtianintl_twn#http://000.hfr1107.top/tv/smt.php?id=jingtianintl_twn
+纬来日本台,http://000.hfr1107.top/tv/smt.php?id=videolandjapan#http://000.hfr1107.top/tv/smt.php?id=videolandjapan
+纬来电影台,http://000.hfr1107.top/tv/smt.php?id=videolandmovie#http://000.hfr1107.top/tv/smt.php?id=videolandmovie
+纬来体育台,http://000.hfr1107.top/tv/smt.php?id=videolandsport#http://000.hfr1107.top/tv/smt.php?id=videolandsport
+纬来综合台,http://000.hfr1107.top/tv/smt.php?id=videolandzonghe#http://000.hfr1107.top/tv/smt.php?id=videolandzonghe
+纬来育乐,http://000.hfr1107.top/tv/smt.php?id=videolandyule#http://000.hfr1107.top/tv/smt.php?id=videolandyule
+纬来精彩,http://000.hfr1107.top/tv/smt.php?id=videolandspecial_twn#http://000.hfr1107.top/tv/smt.php?id=videolandspecial_twn
+好消息 2,http://000.hfr1107.top/tv/smt.php?id=good2_twn#http://000.hfr1107.top/tv/smt.php?id=good2_twn
+亚洲美食,http://000.hfr1107.top/tv/smt.php?id=afc_twn#http://000.hfr1107.top/tv/smt.php?id=afc_twn
+亚洲旅游 TLC Asia,http://000.hfr1107.top/tv/smt.php?id=tlc_twn#http://000.hfr1107.top/tv/smt.php?id=tlc_twn
+东森电影 ETTV Movie,http://000.hfr1107.top/tv/smt.php?id=ettvmovie#http://000.hfr1107.top/tv/smt.php?id=ettvmovie
+阿里郎 Arirang,http://000.hfr1107.top/tv/smt.php?id=arirang_twn#http://000.hfr1107.top/tv/smt.php?id=arirang_twn
+博斯运动 1,http://000.hfr1107.top/tv/smt.php?id=bosisport1_twn#http://000.hfr1107.top/tv/smt.php?id=bosisport1_twn
+博斯运动 2,http://000.hfr1107.top/tv/smt.php?id=bosisport2_twn#http://000.hfr1107.top/tv/smt.php?id=bosisport2_twn
+博斯高球2 HD,http://000.hfr1107.top/tv/smt.php?id=bosigolf2_twn#http://000.hfr1107.top/tv/smt.php?id=bosigolf2_twn
+博斯网球 HD,http://000.hfr1107.top/tv/smt.php?id=bositennis_twn#http://000.hfr1107.top/tv/smt.php?id=bositennis_twn
+东森洋片 ETTV Western,http://000.hfr1107.top/tv/smt.php?id=ettvwestern#http://000.hfr1107.top/tv/smt.php?id=ettvwestern
+龙华洋片 Lunghua Western,http://000.hfr1107.top/tv/smt.php?id=lunghuawestern_twn#http://000.hfr1107.top/tv/smt.php?id=lunghuawestern_twn
+博斯无限,http://000.hfr1107.top/tv/smt.php?id=bosiunlimited_twn#http://000.hfr1107.top/tv/smt.php?id=bosiunlimited_twn
+MTV Live,http://000.hfr1107.top/tv/smt.php?id=mtvhd_twn#http://000.hfr1107.top/tv/smt.php?id=mtvhd_twn
+龙详时代,http://000.hfr1107.top/tv/smt.php?id=lungxiangtime_twn#http://000.hfr1107.top/tv/smt.php?id=lungxiangtime_twn
+EYETV 旅游,http://000.hfr1107.top/tv/smt.php?id=eyetvtravel_twn#http://000.hfr1107.top/tv/smt.php?id=eyetvtravel_twn
+靖天卡通台,http://000.hfr1107.top/tv/smt.php?id=jingtiancartoon_twn#http://000.hfr1107.top/tv/smt.php?id=jingtiancartoon_twn
+EYETV 戏剧,http://000.hfr1107.top/tv/smt.php?id=eyetvxiju_twn#http://000.hfr1107.top/tv/smt.php?id=eyetvxiju_twn
+卫视中文台 Star Movies Chinese,http://000.hfr1107.top/tv/smt.php?id=weishichinese_twn#http://000.hfr1107.top/tv/smt.php?id=weishichinese_twn
+东森幼幼 Yoyo TV,http://000.hfr1107.top/tv/smt.php?id=yoyo_twn#http://000.hfr1107.top/tv/smt.php?id=yoyo_twn
+卫视电影台,http://000.hfr1107.top/tv/smt.php?id=weishimovie_twn#http://000.hfr1107.top/tv/smt.php?id=weishimovie_twn
+爱尔达影剧台,http://000.hfr1107.top/tv/smt.php?id=eltayingju_twn#http://000.hfr1107.top/tv/smt.php?id=eltayingju_twn
+爱尔达综合台,http://000.hfr1107.top/tv/smt.php?id=eltazonghe_twn#http://000.hfr1107.top/tv/smt.php?id=eltazonghe_twn
+星卫电影,http://000.hfr1107.top/tv/smt.php?id=xingwei_movie#http://000.hfr1107.top/tv/smt.php?id=xingwei_movie
+AFC 亚洲旅游台,http://000.hfr1107.top/tv/smt.php?id=asiatravel_twn#http://000.hfr1107.top/tv/smt.php?id=asiatravel_twn
+iNews 新闻台,http://000.hfr1107.top/tv/smt.php?id=inews_twn#http://000.hfr1107.top/tv/smt.php?id=inews_twn
+翡翠台 backup,http://000.hfr1107.top/tv/smt.php?id=Jade_xue#http://000.hfr1107.top/tv/smt.php?id=Jade_xue
+J 2,http://000.hfr1107.top/tv/smt.php?id=j2_twn#http://000.hfr1107.top/tv/smt.php?id=j2_twn
+珍珠台,http://000.hfr1107.top/tv/smt.php?id=pearl_twn#http://000.hfr1107.top/tv/smt.php?id=pearl_twn
+HOY资讯台,http://000.hfr1107.top/tv/smt.php?id=hoycaijing_twn#http://000.hfr1107.top/tv/smt.php?id=hoycaijing_twn
+RHK 31,http://000.hfr1107.top/tv/smt.php?id=rhk31_twn#http://000.hfr1107.top/tv/smt.php?id=rhk31_twn
+VIUTV1,http://000.hfr1107.top/tv/smt.php?id=viu1_twn#http://000.hfr1107.top/tv/smt.php?id=viu1_twn
+RHK 32,http://000.hfr1107.top/tv/smt.php?id=rhk32_twn#http://000.hfr1107.top/tv/smt.php?id=rhk32_twn
+Viu6,http://000.hfr1107.top/tv/smt.php?id=viusix_twn#http://000.hfr1107.top/tv/smt.php?id=viusix_twn
+CCTV-6,http://000.hfr1107.top/tv/smt.php?id=cctv6#http://000.hfr1107.top/tv/smt.php?id=cctv6
+广东南方卫视,http://000.hfr1107.top/tv/smt.php?id=nanfang_twn
+珠江台,http://000.hfr1107.top/tv/smt.php?id=zhujiang
+CGTN,http://000.hfr1107.top/tv/smt.php?id=CGTN
+爱尔达体育2台,http://000.hfr1107.top/tv/smt.php?id=eltasport2_twn#http://000.hfr1107.top/tv/smt.php?id=eltasport2_twn
+爱尔达体育3台,http://000.hfr1107.top/tv/smt.php?id=eltasport3_twn#http://000.hfr1107.top/tv/smt.php?id=eltasport3_twn
+翡翠台,http://000.hfr1107.top/tv/smt.php?id=jade_twn#http://000.hfr1107.top/tv/smt.php?id=jade_twn
+三立都会台,http://000.hfr1107.top/tv/smt.php?id=sanlidouhui#http://000.hfr1107.top/tv/smt.php?id=sanlidouhui
+民视台湾台,http://000.hfr1107.top/tv/smt.php?id=ftvtaiwan_twn#http://000.hfr1107.top/tv/smt.php?id=ftvtaiwan_twn
+东森超视,http://000.hfr1107.top/tv/smt.php?id=ettvsuper#http://000.hfr1107.top/tv/smt.php?id=ettvsuper
+TVBS,http://000.hfr1107.top/tv/smt.php?id=tvbs#http://000.hfr1107.top/tv/smt.php?id=tvbs
+龙华偶像,http://000.hfr1107.top/tv/smt.php?id=lunghuaidol_twn#http://000.hfr1107.top/tv/smt.php?id=lunghuaidol_twn
+纬来电影台,http://000.hfr1107.top/tv/smt.php?id=videolandmovie#http://000.hfr1107.top/tv/smt.php?id=videolandmovie
+中天亚洲台,http://000.hfr1107.top/tv/smt.php?id=ctiasia_twn#http://000.hfr1107.top/tv/smt.php?id=ctiasia_twn
+大爱2,http://000.hfr1107.top/tv/smt.php?id=daai2_twn#http://000.hfr1107.top/tv/smt.php?id=daai2_twn
+寰宇财经,http://000.hfr1107.top/tv/smt.php?id=huanyutaiwan_twn#http://000.hfr1107.top/tv/smt.php?id=huanyutaiwan_twn
+翡翠台,http://000.hfr1107.top/tv/smt.php?id=jade_twn#http://000.hfr1107.top/tv/smt.php?id=jade_twn
+France 24,http://000.hfr1107.top/tv/smt.php?id=france24_twn#http://000.hfr1107.top/tv/smt.php?id=france24_twn
+Nick Jr,http://000.hfr1107.top/tv/smt.php?id=Nickjr#http://000.hfr1107.top/tv/smt.php?id=Nickjr
+Nickelodeon,http://000.hfr1107.top/tv/smt.php?id=Nickelodeon#http://000.hfr1107.top/tv/smt.php?id=Nickelodeon
+Thrill,http://000.hfr1107.top/tv/smt.php?id=Thrill#http://000.hfr1107.top/tv/smt.php?id=Thrill
+靖天卡通台,http://000.hfr1107.top/tv/smt.php?id=jingtiancartoon_twn#http://000.hfr1107.top/tv/smt.php?id=jingtiancartoon_twn
+美亚电影台,http://000.hfr1107.top/tv/smt.php?id=meiyamovie_twn#http://000.hfr1107.top/tv/smt.php?id=meiyamovie_twn
+年代新闻,http://000.hfr1107.top/tv/smt.php?id=niandainews_twn#http://000.hfr1107.top/tv/smt.php?id=niandainews_twn
+亚洲美食,http://000.hfr1107.top/tv/smt.php?id=afc_twn#http://000.hfr1107.top/tv/smt.php?id=afc_twn
+其他,#genre#
+ABC News,http://000.hfr1107.top/tv/smt.php?id=abcnews_glo#http://000.hfr1107.top/tv/smt.php?id=abcnews_glo
+Adithya,http://000.hfr1107.top/tv/smt.php?id=Adithya#http://000.hfr1107.top/tv/smt.php?id=Adithya
+AEC,http://000.hfr1107.top/tv/smt.php?id=AEC#http://000.hfr1107.top/tv/smt.php?id=AEC
+Al-Hijrah,http://000.hfr1107.top/tv/smt.php?id=Alhijrah#http://000.hfr1107.top/tv/smt.php?id=Alhijrah
+Al-Hijrah backup,http://000.hfr1107.top/tv/smt.php?id=Alhijrah_backup#http://000.hfr1107.top/tv/smt.php?id=Alhijrah_backup
+Al-Jazeera,http://000.hfr1107.top/tv/smt.php?id=aljazeera_twn#http://000.hfr1107.top/tv/smt.php?id=aljazeera_twn
+All the Kpop,http://000.hfr1107.top/tv/smt.php?id=allthekpop_korea#http://000.hfr1107.top/tv/smt.php?id=allthekpop_korea
+AlQuran AlKareem,http://000.hfr1107.top/tv/smt.php?id=AlQuran#http://000.hfr1107.top/tv/smt.php?id=AlQuran
+Amarin,http://000.hfr1107.top/tv/smt.php?id=amarin_pat#http://000.hfr1107.top/tv/smt.php?id=amarin_pat
+Animal Planet (Eng),http://000.hfr1107.top/tv/smt.php?id=AnimalPlanet#http://000.hfr1107.top/tv/smt.php?id=AnimalPlanet
+Animal_Planet,http://000.hfr1107.top/tv/smt.php?id=animalplanet_twn#http://000.hfr1107.top/tv/smt.php?id=animalplanet_twn
+Animax,http://000.hfr1107.top/tv/smt.php?id=Animax#http://000.hfr1107.top/tv/smt.php?id=Animax
+AnTV,http://000.hfr1107.top/tv/smt.php?id=Antv#http://000.hfr1107.top/tv/smt.php?id=Antv
+ANTV,http://000.hfr1107.top/tv/smt.php?id=viet_antv#http://000.hfr1107.top/tv/smt.php?id=viet_antv
+AOD,http://000.hfr1107.top/tv/smt.php?id=Aodhd#http://000.hfr1107.top/tv/smt.php?id=Aodhd
+Apps TV,http://000.hfr1107.top/tv/smt.php?id=appongoogle_korea#http://000.hfr1107.top/tv/smt.php?id=appongoogle_korea
+Arena,http://000.hfr1107.top/tv/smt.php?id=Arena#http://000.hfr1107.top/tv/smt.php?id=Arena
+Arena 2,http://000.hfr1107.top/tv/smt.php?id=Arena2#http://000.hfr1107.top/tv/smt.php?id=Arena2
+Arirang HD,http://000.hfr1107.top/tv/smt.php?id=arirang_korea#http://000.hfr1107.top/tv/smt.php?id=arirang_korea
+Asianet,http://000.hfr1107.top/tv/smt.php?id=asianet_raj#http://000.hfr1107.top/tv/smt.php?id=asianet_raj
+Asianet News,http://000.hfr1107.top/tv/smt.php?id=asianetnews_raj#http://000.hfr1107.top/tv/smt.php?id=asianetnews_raj
+Astro Badminton 1,http://000.hfr1107.top/tv/smt.php?id=go_badminton1#http://000.hfr1107.top/tv/smt.php?id=go_badminton1
+Astro Badminton 2,http://000.hfr1107.top/tv/smt.php?id=go_badminton2#http://000.hfr1107.top/tv/smt.php?id=go_badminton2
+Astro Beinsports 1,http://000.hfr1107.top/tv/smt.php?id=Astrobein1#http://000.hfr1107.top/tv/smt.php?id=Astrobein1
+Astro Beinsports 2,http://000.hfr1107.top/tv/smt.php?id=Astrobein2#http://000.hfr1107.top/tv/smt.php?id=Astrobein2
+Astro Beinsports 3,http://000.hfr1107.top/tv/smt.php?id=Astrobein3#http://000.hfr1107.top/tv/smt.php?id=Astrobein3
+Astro Cricket,http://000.hfr1107.top/tv/smt.php?id=Acricket#http://000.hfr1107.top/tv/smt.php?id=Acricket
+Astro EPL 1 backup,http://000.hfr1107.top/tv/smt.php?id=go_assp1x#http://000.hfr1107.top/tv/smt.php?id=go_assp1x
+Astro Football,http://000.hfr1107.top/tv/smt.php?id=go_assp4#http://000.hfr1107.top/tv/smt.php?id=go_assp4
+Astro Golf,http://000.hfr1107.top/tv/smt.php?id=Agolf#http://000.hfr1107.top/tv/smt.php?id=Agolf
+Astro Grandstand,http://000.hfr1107.top/tv/smt.php?id=go_assp3#http://000.hfr1107.top/tv/smt.php?id=go_assp3
+Astro KTV,http://000.hfr1107.top/tv/smt.php?id=Astroktv#http://000.hfr1107.top/tv/smt.php?id=Astroktv
+Astro LOL,http://000.hfr1107.top/tv/smt.php?id=Astro_lol#http://000.hfr1107.top/tv/smt.php?id=Astro_lol
+Astro MTV,http://000.hfr1107.top/tv/smt.php?id=AstroMTV#http://000.hfr1107.top/tv/smt.php?id=AstroMTV
+Astro Premier League 1,http://000.hfr1107.top/tv/smt.php?id=go_assp1#http://000.hfr1107.top/tv/smt.php?id=go_assp1
+Astro Premier League 2,http://000.hfr1107.top/tv/smt.php?id=go_assp2#http://000.hfr1107.top/tv/smt.php?id=go_assp2
+Astro QJ,http://000.hfr1107.top/tv/smt.php?id=Quanjia#http://000.hfr1107.top/tv/smt.php?id=Quanjia
+Astro Rusi,http://000.hfr1107.top/tv/smt.php?id=Rusi#http://000.hfr1107.top/tv/smt.php?id=Rusi
+Astro Sonypix,http://000.hfr1107.top/tv/smt.php?id=Asonypix#http://000.hfr1107.top/tv/smt.php?id=Asonypix
+Astro Sports Plus,http://000.hfr1107.top/tv/smt.php?id=go_sportsplus#http://000.hfr1107.top/tv/smt.php?id=go_sportsplus
+Astro Sunlife,http://000.hfr1107.top/tv/smt.php?id=Sunlife#http://000.hfr1107.top/tv/smt.php?id=Sunlife
+Astro Vaanavil,http://000.hfr1107.top/tv/smt.php?id=Vaanavil#http://000.hfr1107.top/tv/smt.php?id=Vaanavil
+Astro W-Sports,http://000.hfr1107.top/tv/smt.php?id=go_assp5#http://000.hfr1107.top/tv/smt.php?id=go_assp5
+Astrol Kplus,http://000.hfr1107.top/tv/smt.php?id=Kplus#http://000.hfr1107.top/tv/smt.php?id=Kplus
+Aura,http://000.hfr1107.top/tv/smt.php?id=Aura#http://000.hfr1107.top/tv/smt.php?id=Aura
+Awani,http://000.hfr1107.top/tv/smt.php?id=Awani#http://000.hfr1107.top/tv/smt.php?id=Awani
+Awesome TV,http://000.hfr1107.top/tv/smt.php?id=Dsangat#http://000.hfr1107.top/tv/smt.php?id=Dsangat
+Axn HD,http://000.hfr1107.top/tv/smt.php?id=Axn#http://000.hfr1107.top/tv/smt.php?id=Axn
+Baby TV,http://000.hfr1107.top/tv/smt.php?id=babytv_twn#http://000.hfr1107.top/tv/smt.php?id=babytv_twn
+Baby TV Eng,http://000.hfr1107.top/tv/smt.php?id=Babytv#http://000.hfr1107.top/tv/smt.php?id=Babytv
+BBC 1,http://000.hfr1107.top/tv/smt.php?id=bbc1_antik#http://000.hfr1107.top/tv/smt.php?id=bbc1_antik
+BBC 2,http://000.hfr1107.top/tv/smt.php?id=bbc2_antik#http://000.hfr1107.top/tv/smt.php?id=bbc2_antik
+BBC Earth HD,http://000.hfr1107.top/tv/smt.php?id=bbcearth_twn#http://000.hfr1107.top/tv/smt.php?id=bbcearth_twn
+BBC Earth Lifestyle,http://000.hfr1107.top/tv/smt.php?id=bbclifestyle_twn#http://000.hfr1107.top/tv/smt.php?id=bbclifestyle_twn
+BBC World News,http://000.hfr1107.top/tv/smt.php?id=bbcworldnews_antik#http://000.hfr1107.top/tv/smt.php?id=bbcworldnews_antik#http://000.hfr1107.top/tv/smt.php?id=Bbcnews#http://000.hfr1107.top/tv/smt.php?id=bbcnews_twn#http://000.hfr1107.top/tv/smt.php?id=bbcnews_twn#http://000.hfr1107.top/tv/smt.php?id=Bbcnews
+Berita Satu,http://000.hfr1107.top/tv/smt.php?id=BeritaSatu_eko#http://000.hfr1107.top/tv/smt.php?id=BeritaSatu_eko
+Bernama,http://000.hfr1107.top/tv/smt.php?id=Bernama#http://000.hfr1107.top/tv/smt.php?id=Bernama
+Bloomberg News,http://000.hfr1107.top/tv/smt.php?id=bloomberg_twn#http://000.hfr1107.top/tv/smt.php?id=bloomberg_twn
+BolaArena 1,http://000.hfr1107.top/tv/smt.php?id=Bolaarena1#http://000.hfr1107.top/tv/smt.php?id=Bolaarena1
+BolaArena 2,http://000.hfr1107.top/tv/smt.php?id=Bolaarena2#http://000.hfr1107.top/tv/smt.php?id=Bolaarena2
+Bollyone,http://000.hfr1107.top/tv/smt.php?id=Bollyone#http://000.hfr1107.top/tv/smt.php?id=Bollyone
+Boo,http://000.hfr1107.top/tv/smt.php?id=Boo#http://000.hfr1107.top/tv/smt.php?id=Boo
+BPTV 2,http://000.hfr1107.top/tv/smt.php?id=viet_bptv2#http://000.hfr1107.top/tv/smt.php?id=viet_bptv2
+BRT HD,http://000.hfr1107.top/tv/smt.php?id=viet_brt#http://000.hfr1107.top/tv/smt.php?id=viet_brt
+BS-TBS,http://000.hfr1107.top/tv/smt.php?id=bstbs_japan#http://000.hfr1107.top/tv/smt.php?id=bstbs_japan
+BSジャパン 181,http://000.hfr1107.top/tv/smt.php?id=bs181_japan#http://000.hfr1107.top/tv/smt.php?id=bs181_japan
+BSフジ BS Fuji,http://000.hfr1107.top/tv/smt.php?id=bsfuji_japan#http://000.hfr1107.top/tv/smt.php?id=bsfuji_japan
+Ca Mau TV,http://000.hfr1107.top/tv/smt.php?id=viet_camautv#http://000.hfr1107.top/tv/smt.php?id=viet_camautv
+Cartoon Network,http://000.hfr1107.top/tv/smt.php?id=Cn#http://000.hfr1107.top/tv/smt.php?id=Cn
+CBBC,http://000.hfr1107.top/tv/smt.php?id=cbbc_antik#http://000.hfr1107.top/tv/smt.php?id=cbbc_antik
+CBeebies,http://000.hfr1107.top/tv/smt.php?id=Cbeebies#http://000.hfr1107.top/tv/smt.php?id=Cbeebies
+CBS,http://000.hfr1107.top/tv/smt.php?id=cbs_korea#http://000.hfr1107.top/tv/smt.php?id=cbs_korea
+CBS HD,http://000.hfr1107.top/tv/smt.php?id=cbshd_glo#http://000.hfr1107.top/tv/smt.php?id=cbshd_glo
+CBSN HD,http://000.hfr1107.top/tv/smt.php?id=cbsn_glo#http://000.hfr1107.top/tv/smt.php?id=cbsn_glo
+CCTV-1 综合 HD,http://000.hfr1107.top/tv/smt.php?id=cctv1
+CCTV-10 科教 HD,http://000.hfr1107.top/tv/smt.php?id=cctv10hd
+CCTV-11 戏曲,http://000.hfr1107.top/tv/smt.php?id=cctv11
+CCTV-12 社会与法,http://000.hfr1107.top/tv/smt.php?id=cctv12
+CCTV-13 新闻频道,http://000.hfr1107.top/tv/smt.php?id=cctv13
+CCTV-14 少儿,http://000.hfr1107.top/tv/smt.php?id=cctv14
+CCTV-15 音乐,http://000.hfr1107.top/tv/smt.php?id=cctv15
+CCTV-2 财经,http://000.hfr1107.top/tv/smt.php?id=cctv2
+CCTV-3 综艺 HD,http://000.hfr1107.top/tv/smt.php?id=cctv3
+CCTV-4 中文国际,http://000.hfr1107.top/tv/smt.php?id=cctv4
+CCTV-5 体育频道,http://000.hfr1107.top/tv/smt.php?id=cctv5
+CCTV-5+ 体育赛事 HD,http://000.hfr1107.top/tv/smt.php?id=cctv5plus
+CCTV-7 军事农业,http://000.hfr1107.top/tv/smt.php?id=cctv7
+CCTV-8 电视剧 HD,http://000.hfr1107.top/tv/smt.php?id=cctv8hd
+CCTV-9 记录 HD,http://000.hfr1107.top/tv/smt.php?id=cctv9hd
+CCTV4 新闻台,http://000.hfr1107.top/tv/smt.php?id=Cctv4
+Celestial Classic,http://000.hfr1107.top/tv/smt.php?id=Celestial2#http://000.hfr1107.top/tv/smt.php?id=Celestial2
+Celestial Movies HD,http://000.hfr1107.top/tv/smt.php?id=Celestialindo#http://000.hfr1107.top/tv/smt.php?id=Celestialindo#http://000.hfr1107.top/tv/smt.php?id=Celestial#http://000.hfr1107.top/tv/smt.php?id=Celestial
+Ceria,http://000.hfr1107.top/tv/smt.php?id=Ceria#http://000.hfr1107.top/tv/smt.php?id=Ceria
+CGNTV,http://000.hfr1107.top/tv/smt.php?id=cgntv_korea#http://000.hfr1107.top/tv/smt.php?id=cgntv_korea
+Ch 8,http://000.hfr1107.top/tv/smt.php?id=ch8_pat#http://000.hfr1107.top/tv/smt.php?id=ch8_pat
+Channel 3 Thailand,http://000.hfr1107.top/tv/smt.php?id=ch3_pat#http://000.hfr1107.top/tv/smt.php?id=ch3_pat
+Channel 4,http://000.hfr1107.top/tv/smt.php?id=channel4_antik#http://000.hfr1107.top/tv/smt.php?id=channel4_antik
+Channel 5,http://000.hfr1107.top/tv/smt.php?id=Channel5HD#http://000.hfr1107.top/tv/smt.php?id=Channel5HD
+Channel 5 Thailand,http://000.hfr1107.top/tv/smt.php?id=ch5_pat#http://000.hfr1107.top/tv/smt.php?id=ch5_pat
+Channel 7 Thailand,http://000.hfr1107.top/tv/smt.php?id=ch7_pat#http://000.hfr1107.top/tv/smt.php?id=ch7_pat
+Channel 8,http://000.hfr1107.top/tv/smt.php?id=Channel8HD#http://000.hfr1107.top/tv/smt.php?id=Channel8HD
+Channel U,http://000.hfr1107.top/tv/smt.php?id=ChannelU#http://000.hfr1107.top/tv/smt.php?id=ChannelU
+CI,http://000.hfr1107.top/tv/smt.php?id=ci_twn#http://000.hfr1107.top/tv/smt.php?id=ci_twn
+Cinemax,http://000.hfr1107.top/tv/smt.php?id=Cinemax#http://000.hfr1107.top/tv/smt.php?id=Cinemax
+Citra,http://000.hfr1107.top/tv/smt.php?id=AAcitra#http://000.hfr1107.top/tv/smt.php?id=AAcitra
+Citra backup,http://000.hfr1107.top/tv/smt.php?id=AAcitra1#http://000.hfr1107.top/tv/smt.php?id=AAcitra1
+CNA,http://000.hfr1107.top/tv/smt.php?id=cna#http://000.hfr1107.top/tv/smt.php?id=cna
+CNA backup,http://000.hfr1107.top/tv/smt.php?id=cna_twn#http://000.hfr1107.top/tv/smt.php?id=cna_twn
+CNA Japan,http://000.hfr1107.top/tv/smt.php?id=cna_japan#http://000.hfr1107.top/tv/smt.php?id=cna_japan
+CNBC,http://000.hfr1107.top/tv/smt.php?id=cnbc_twn#http://000.hfr1107.top/tv/smt.php?id=cnbc_twn
+CNN backup,http://000.hfr1107.top/tv/smt.php?id=cnn_twn#http://000.hfr1107.top/tv/smt.php?id=cnn_twn
+CNN International,http://000.hfr1107.top/tv/smt.php?id=Cnn#http://000.hfr1107.top/tv/smt.php?id=Cnn
+Color HD,http://000.hfr1107.top/tv/smt.php?id=Colorhd#http://000.hfr1107.top/tv/smt.php?id=Colorhd
+Colors Tamil,http://000.hfr1107.top/tv/smt.php?id=Colorstam#http://000.hfr1107.top/tv/smt.php?id=Colorstam
+Daai TV,http://000.hfr1107.top/tv/smt.php?id=DaaiTV#http://000.hfr1107.top/tv/smt.php?id=DaaiTV
+Danang TV1 HD,http://000.hfr1107.top/tv/smt.php?id=viet_danangtv1#http://000.hfr1107.top/tv/smt.php?id=viet_danangtv1
+Danang TV2 HD,http://000.hfr1107.top/tv/smt.php?id=viet_danangtv2#http://000.hfr1107.top/tv/smt.php?id=viet_danangtv2
+Discovery Asia,http://000.hfr1107.top/tv/smt.php?id=discoverytwn_twn#http://000.hfr1107.top/tv/smt.php?id=discoverytwn_twn
+Discovery HD,http://000.hfr1107.top/tv/smt.php?id=discoveryhd_twn#http://000.hfr1107.top/tv/smt.php?id=discoveryhd_twn
+Discovery Kids Tamil,http://000.hfr1107.top/tv/smt.php?id=discoverykidtamil_raj#http://000.hfr1107.top/tv/smt.php?id=discoverykidtamil_raj
+Discovery Tamil,http://000.hfr1107.top/tv/smt.php?id=discoverytamil_raj#http://000.hfr1107.top/tv/smt.php?id=discoverytamil_raj
+Discovery World Tamil,http://000.hfr1107.top/tv/smt.php?id=discoveryworldtam_raj#http://000.hfr1107.top/tv/smt.php?id=discoveryworldtam_raj
+Dreamworks,http://000.hfr1107.top/tv/smt.php?id=Dreamworks#http://000.hfr1107.top/tv/smt.php?id=Dreamworks
+DW (Deutsch),http://000.hfr1107.top/tv/smt.php?id=dw_twn#http://000.hfr1107.top/tv/smt.php?id=dw_twn
+EBS 1,http://000.hfr1107.top/tv/smt.php?id=ebs1_korea#http://000.hfr1107.top/tv/smt.php?id=ebs1_korea
+EBS Kids,http://000.hfr1107.top/tv/smt.php?id=ebskids_korea#http://000.hfr1107.top/tv/smt.php?id=ebskids_korea
+EBS Plus2,http://000.hfr1107.top/tv/smt.php?id=ebsplus2_korea#http://000.hfr1107.top/tv/smt.php?id=ebsplus2_korea
+EBS2,http://000.hfr1107.top/tv/smt.php?id=ebs2_korea#http://000.hfr1107.top/tv/smt.php?id=ebs2_korea
+Entertain,http://000.hfr1107.top/tv/smt.php?id=Entertain#http://000.hfr1107.top/tv/smt.php?id=Entertain
+Euronews,http://000.hfr1107.top/tv/smt.php?id=euronews_antik#http://000.hfr1107.top/tv/smt.php?id=euronews_antik
+EWTN,http://000.hfr1107.top/tv/smt.php?id=Ewtn#http://000.hfr1107.top/tv/smt.php?id=Ewtn
+Fashion TV,http://000.hfr1107.top/tv/smt.php?id=fashiontv_twn#http://000.hfr1107.top/tv/smt.php?id=fashiontv_twn
+Fight Sports,http://000.hfr1107.top/tv/smt.php?id=Fs#http://000.hfr1107.top/tv/smt.php?id=Fs
+Foodnetwork Hd,http://000.hfr1107.top/tv/smt.php?id=Foodnetwork#http://000.hfr1107.top/tv/smt.php?id=Foodnetwork
+Fox News,http://000.hfr1107.top/tv/smt.php?id=foxnews_twn#http://000.hfr1107.top/tv/smt.php?id=foxnews_twn
+Freesports,http://000.hfr1107.top/tv/smt.php?id=freesports_antik#http://000.hfr1107.top/tv/smt.php?id=freesports_antik
+Gmm Channel,http://000.hfr1107.top/tv/smt.php?id=gmmchannel_pat#http://000.hfr1107.top/tv/smt.php?id=gmmchannel_pat
+GmmOne,http://000.hfr1107.top/tv/smt.php?id=gmmone_pat#http://000.hfr1107.top/tv/smt.php?id=gmmone_pat
+Goshop,http://000.hfr1107.top/tv/smt.php?id=Goshop#http://000.hfr1107.top/tv/smt.php?id=Goshop
+GTV,http://000.hfr1107.top/tv/smt.php?id=Gtv#http://000.hfr1107.top/tv/smt.php?id=Gtv
+HBO Family,http://000.hfr1107.top/tv/smt.php?id=Hbofamily#http://000.hfr1107.top/tv/smt.php?id=Hbofamily
+HBO HD,http://000.hfr1107.top/tv/smt.php?id=Hbo#http://000.hfr1107.top/tv/smt.php?id=Hbo
+HBO Hits,http://000.hfr1107.top/tv/smt.php?id=Hbohitshd#http://000.hfr1107.top/tv/smt.php?id=Hbohitshd
+HBO Signature,http://000.hfr1107.top/tv/smt.php?id=Hbosignature#http://000.hfr1107.top/tv/smt.php?id=Hbosignature
+HBTV HD,http://000.hfr1107.top/tv/smt.php?id=viet_hbtv#http://000.hfr1107.top/tv/smt.php?id=viet_hbtv
+HGTV,http://000.hfr1107.top/tv/smt.php?id=HGTV#http://000.hfr1107.top/tv/smt.php?id=HGTV
+History,http://000.hfr1107.top/tv/smt.php?id=History#http://000.hfr1107.top/tv/smt.php?id=History
+History Tamil,http://000.hfr1107.top/tv/smt.php?id=historytam_raj#http://000.hfr1107.top/tv/smt.php?id=historytam_raj
+Hits,http://000.hfr1107.top/tv/smt.php?id=Hits#http://000.hfr1107.top/tv/smt.php?id=Hits
+Hits Movie,http://000.hfr1107.top/tv/smt.php?id=Hitsmovie#http://000.hfr1107.top/tv/smt.php?id=Hitsmovie
+HTV 7,http://000.hfr1107.top/tv/smt.php?id=viet_htv7#http://000.hfr1107.top/tv/smt.php?id=viet_htv7
+HTV 9,http://000.hfr1107.top/tv/smt.php?id=viet_htv9#http://000.hfr1107.top/tv/smt.php?id=viet_htv9
+Indosiar HD,http://000.hfr1107.top/tv/smt.php?id=Indosiar#http://000.hfr1107.top/tv/smt.php?id=Indosiar
+iNews TV,http://000.hfr1107.top/tv/smt.php?id=Inewstv#http://000.hfr1107.top/tv/smt.php?id=Inewstv
+itv 1,http://000.hfr1107.top/tv/smt.php?id=itv1_antik#http://000.hfr1107.top/tv/smt.php?id=itv1_antik
+itv 2,http://000.hfr1107.top/tv/smt.php?id=itv2_antik#http://000.hfr1107.top/tv/smt.php?id=itv2_antik
+J the Kpop,http://000.hfr1107.top/tv/smt.php?id=jthekpop_korea#http://000.hfr1107.top/tv/smt.php?id=jthekpop_korea
+Jak TV,http://000.hfr1107.top/tv/smt.php?id=JakTV#http://000.hfr1107.top/tv/smt.php?id=JakTV
+JET 綜合,http://000.hfr1107.top/tv/smt.php?id=jettv_japan#http://000.hfr1107.top/tv/smt.php?id=jettv_japan
+JTV,http://000.hfr1107.top/tv/smt.php?id=JTV_eko#http://000.hfr1107.top/tv/smt.php?id=JTV_eko
+KBS World,http://000.hfr1107.top/tv/smt.php?id=KBS#http://000.hfr1107.top/tv/smt.php?id=KBS
+KBS World 24,http://000.hfr1107.top/tv/smt.php?id=kbsworld24_korea#http://000.hfr1107.top/tv/smt.php?id=kbsworld24_korea
+Kids TV,http://000.hfr1107.top/tv/smt.php?id=KidsTV#http://000.hfr1107.top/tv/smt.php?id=KidsTV
+Kompass TV,http://000.hfr1107.top/tv/smt.php?id=Kompass#http://000.hfr1107.top/tv/smt.php?id=Kompass
+Lifestyle&amp;Fashion,http://000.hfr1107.top/tv/smt.php?id=Lifestyle#http://000.hfr1107.top/tv/smt.php?id=Lifestyle
+Madinah HD,http://000.hfr1107.top/tv/smt.php?id=sunnah_mido#http://000.hfr1107.top/tv/smt.php?id=sunnah_mido
+Makkal TV,http://000.hfr1107.top/tv/smt.php?id=Makkaltv#http://000.hfr1107.top/tv/smt.php?id=Makkaltv
+MCOT HD Thailand-1,http://000.hfr1107.top/tv/smt.php?id=mcot_pat#http://000.hfr1107.top/tv/smt.php?id=mcot_pat
+Mecca Live HD,http://000.hfr1107.top/tv/smt.php?id=quran_mido#http://000.hfr1107.top/tv/smt.php?id=quran_mido
+Metro TV,http://000.hfr1107.top/tv/smt.php?id=metrotv_eko#http://000.hfr1107.top/tv/smt.php?id=metrotv_eko
+MeWatch Ch 5,http://000.hfr1107.top/tv/smt.php?id=Mewatch_ch5#http://000.hfr1107.top/tv/smt.php?id=Mewatch_ch5
+MeWatch Ch 8,http://000.hfr1107.top/tv/smt.php?id=Mewatch_ch8#http://000.hfr1107.top/tv/smt.php?id=Mewatch_ch8
+MeWatch Ch U,http://000.hfr1107.top/tv/smt.php?id=Mewatch_chU#http://000.hfr1107.top/tv/smt.php?id=Mewatch_chU
+MeWatch CNA,http://000.hfr1107.top/tv/smt.php?id=Mewatch_cna#http://000.hfr1107.top/tv/smt.php?id=Mewatch_cna
+MeWatch Suria,http://000.hfr1107.top/tv/smt.php?id=Mewatch_Suria#http://000.hfr1107.top/tv/smt.php?id=Mewatch_Suria
+MeWatch Vasantham,http://000.hfr1107.top/tv/smt.php?id=Mewatch_Vasantham#http://000.hfr1107.top/tv/smt.php?id=Mewatch_Vasantham
+MiaoMi,http://000.hfr1107.top/tv/smt.php?id=MiaoMi#http://000.hfr1107.top/tv/smt.php?id=MiaoMi
+MNC TV,http://000.hfr1107.top/tv/smt.php?id=Mnctv#http://000.hfr1107.top/tv/smt.php?id=Mnctv
+Momo TV,http://000.hfr1107.top/tv/smt.php?id=momo1_twn#http://000.hfr1107.top/tv/smt.php?id=momo1_twn
+Mono,http://000.hfr1107.top/tv/smt.php?id=mono_pat#http://000.hfr1107.top/tv/smt.php?id=mono_pat
+More4,http://000.hfr1107.top/tv/smt.php?id=more4_antik#http://000.hfr1107.top/tv/smt.php?id=more4_antik
+Movies Now HD,http://000.hfr1107.top/tv/smt.php?id=moviesnow_raj#http://000.hfr1107.top/tv/smt.php?id=moviesnow_raj
+Music TV,http://000.hfr1107.top/tv/smt.php?id=MusicTV#http://000.hfr1107.top/tv/smt.php?id=MusicTV
+Muslim TV,http://000.hfr1107.top/tv/smt.php?id=MuslimTV#http://000.hfr1107.top/tv/smt.php?id=MuslimTV
+NatGeo HD,http://000.hfr1107.top/tv/smt.php?id=Natgeo#http://000.hfr1107.top/tv/smt.php?id=Natgeo
+NatGeo Tamil,http://000.hfr1107.top/tv/smt.php?id=natgeotamil_raj#http://000.hfr1107.top/tv/smt.php?id=natgeotamil_raj
+NatGeo Wild HD,http://000.hfr1107.top/tv/smt.php?id=Natgeowild#http://000.hfr1107.top/tv/smt.php?id=Natgeowild
+Natgeo Wild Tamil,http://000.hfr1107.top/tv/smt.php?id=natgeowildtamil_raj#http://000.hfr1107.top/tv/smt.php?id=natgeowildtamil_raj
+Natgeo_HD,http://000.hfr1107.top/tv/smt.php?id=natgeohd_twn#http://000.hfr1107.top/tv/smt.php?id=natgeohd_twn
+NatGeo_Wild HD,http://000.hfr1107.top/tv/smt.php?id=natgeowild_twn#http://000.hfr1107.top/tv/smt.php?id=natgeowild_twn
+Nation,http://000.hfr1107.top/tv/smt.php?id=nation_pat#http://000.hfr1107.top/tv/smt.php?id=nation_pat
+NBA TV,http://000.hfr1107.top/tv/smt.php?id=Nba#http://000.hfr1107.top/tv/smt.php?id=Nba
+Nbt,http://000.hfr1107.top/tv/smt.php?id=nbt_pat#http://000.hfr1107.top/tv/smt.php?id=nbt_pat
+Net TV,http://000.hfr1107.top/tv/smt.php?id=NetTV#http://000.hfr1107.top/tv/smt.php?id=NetTV
+New,http://000.hfr1107.top/tv/smt.php?id=new_pat#http://000.hfr1107.top/tv/smt.php?id=new_pat
+News 18 Tamil,http://000.hfr1107.top/tv/smt.php?id=news18tamil_raj#http://000.hfr1107.top/tv/smt.php?id=news18tamil_raj
+NHK Oaska,http://000.hfr1107.top/tv/smt.php?id=nhkosaka_japan#http://000.hfr1107.top/tv/smt.php?id=nhkosaka_japan
+NHK World,http://000.hfr1107.top/tv/smt.php?id=nhkworld_japan#http://000.hfr1107.top/tv/smt.php?id=nhkworld_japan
+NHK-E,http://000.hfr1107.top/tv/smt.php?id=nhke_japan#http://000.hfr1107.top/tv/smt.php?id=nhke_japan
+NHK-総合-2,http://000.hfr1107.top/tv/smt.php?id=nhkg_japan#http://000.hfr1107.top/tv/smt.php?id=nhkg_japan
+NHKBS1,http://000.hfr1107.top/tv/smt.php?id=nhkbs1_japan#http://000.hfr1107.top/tv/smt.php?id=nhkbs1_japan
+NHKBSプレミア Premium,http://000.hfr1107.top/tv/smt.php?id=nhkpremium_japan#http://000.hfr1107.top/tv/smt.php?id=nhkpremium_japan
+NTV7,http://000.hfr1107.top/tv/smt.php?id=NTV7#http://000.hfr1107.top/tv/smt.php?id=NTV7
+Oasis,http://000.hfr1107.top/tv/smt.php?id=Oasis#http://000.hfr1107.top/tv/smt.php?id=Oasis
+One,http://000.hfr1107.top/tv/smt.php?id=One#http://000.hfr1107.top/tv/smt.php?id=One
+Paramount Network,http://000.hfr1107.top/tv/smt.php?id=Paramountnetwork#http://000.hfr1107.top/tv/smt.php?id=Paramountnetwork
+Pick TV,http://000.hfr1107.top/tv/smt.php?id=picktv_antik#http://000.hfr1107.top/tv/smt.php?id=picktv_antik
+Picture HD,http://000.hfr1107.top/tv/smt.php?id=Npicture#http://000.hfr1107.top/tv/smt.php?id=Npicture
+PPTV Thailand1,http://000.hfr1107.top/tv/smt.php?id=pptv_pat#http://000.hfr1107.top/tv/smt.php?id=pptv_pat
+Prima,http://000.hfr1107.top/tv/smt.php?id=Prima-0#http://000.hfr1107.top/tv/smt.php?id=Prima-0
+Prima backup,http://000.hfr1107.top/tv/smt.php?id=AAprima1#http://000.hfr1107.top/tv/smt.php?id=AAprima1
+Prima backup 2,http://000.hfr1107.top/tv/smt.php?id=AAprima#http://000.hfr1107.top/tv/smt.php?id=AAprima
+PTTH 1,http://000.hfr1107.top/tv/smt.php?id=viet_ptth1#http://000.hfr1107.top/tv/smt.php?id=viet_ptth1
+Rania,http://000.hfr1107.top/tv/smt.php?id=Rania#http://000.hfr1107.top/tv/smt.php?id=Rania
+RCTI,http://000.hfr1107.top/tv/smt.php?id=Rcti#http://000.hfr1107.top/tv/smt.php?id=Rcti
+Ria,http://000.hfr1107.top/tv/smt.php?id=Ria-0#http://000.hfr1107.top/tv/smt.php?id=Ria-0
+Ria-3,http://000.hfr1107.top/tv/smt.php?id=Ria_backup#http://000.hfr1107.top/tv/smt.php?id=Ria_backup
+Rock Actions,http://000.hfr1107.top/tv/smt.php?id=Rockaction#http://000.hfr1107.top/tv/smt.php?id=Rockaction
+Rock Entertainment,http://000.hfr1107.top/tv/smt.php?id=Rockentertain#http://000.hfr1107.top/tv/smt.php?id=Rockentertain
+RTM Asean,http://000.hfr1107.top/tv/smt.php?id=Rtmasean#http://000.hfr1107.top/tv/smt.php?id=Rtmasean
+RTM Sports HD,http://000.hfr1107.top/tv/smt.php?id=Rtmsport#http://000.hfr1107.top/tv/smt.php?id=Rtmsport
+RTV,http://000.hfr1107.top/tv/smt.php?id=Rtv#http://000.hfr1107.top/tv/smt.php?id=Rtv
+Rugby Pass TV,http://000.hfr1107.top/tv/smt.php?id=Rugbypasstv#http://000.hfr1107.top/tv/smt.php?id=Rugbypasstv
+SBS Plus,http://000.hfr1107.top/tv/smt.php?id=sbsplus_korea#http://000.hfr1107.top/tv/smt.php?id=sbsplus_korea
+SCM,http://000.hfr1107.top/tv/smt.php?id=Weishimovie#http://000.hfr1107.top/tv/smt.php?id=Weishimovie
+SCTV,http://000.hfr1107.top/tv/smt.php?id=SCTV#http://000.hfr1107.top/tv/smt.php?id=SCTV
+Sensasi,http://000.hfr1107.top/tv/smt.php?id=Sensasi#http://000.hfr1107.top/tv/smt.php?id=Sensasi
+Siar,http://000.hfr1107.top/tv/smt.php?id=Siar#http://000.hfr1107.top/tv/smt.php?id=Siar
+Skynews,http://000.hfr1107.top/tv/smt.php?id=skynews_twn#http://000.hfr1107.top/tv/smt.php?id=skynews_twn
+Skysports Cricket,http://000.hfr1107.top/tv/smt.php?id=tiankongcricket#http://000.hfr1107.top/tv/smt.php?id=tiankongcricket
+Skysports EPL,http://000.hfr1107.top/tv/smt.php?id=tiankongepl#http://000.hfr1107.top/tv/smt.php?id=tiankongepl
+Skysports F1,http://000.hfr1107.top/tv/smt.php?id=tiankongf1#http://000.hfr1107.top/tv/smt.php?id=tiankongf1
+Skysports Main Event,http://000.hfr1107.top/tv/smt.php?id=tiankongmain#http://000.hfr1107.top/tv/smt.php?id=tiankongmain
+Skysports Mix,http://000.hfr1107.top/tv/smt.php?id=tiankongmix#http://000.hfr1107.top/tv/smt.php?id=tiankongmix
+Skysports News,http://000.hfr1107.top/tv/smt.php?id=tiankongnews#http://000.hfr1107.top/tv/smt.php?id=tiankongnews
+Sony HD,http://000.hfr1107.top/tv/smt.php?id=SetOne#http://000.hfr1107.top/tv/smt.php?id=SetOne
+Sony Ten 1,http://000.hfr1107.top/tv/smt.php?id=ten1_raj#http://000.hfr1107.top/tv/smt.php?id=ten1_raj
+Sony Ten 2,http://000.hfr1107.top/tv/smt.php?id=ten2_raj#http://000.hfr1107.top/tv/smt.php?id=ten2_raj
+Sony Ten 3,http://000.hfr1107.top/tv/smt.php?id=ten3_raj#http://000.hfr1107.top/tv/smt.php?id=ten3_raj
+Sony Yay Tamil,http://000.hfr1107.top/tv/smt.php?id=sonyyaytam_raj#http://000.hfr1107.top/tv/smt.php?id=sonyyaytam_raj
+SPO TV 2,http://000.hfr1107.top/tv/smt.php?id=go_spotv2#http://000.hfr1107.top/tv/smt.php?id=go_spotv2
+SPOTV 1 HD,http://000.hfr1107.top/tv/smt.php?id=go_spotv#http://000.hfr1107.top/tv/smt.php?id=go_spotv
+Star Movies HD,http://000.hfr1107.top/tv/smt.php?id=starmovies_raj#http://000.hfr1107.top/tv/smt.php?id=starmovies_raj
+Star Vijay,http://000.hfr1107.top/tv/smt.php?id=Starvijay#http://000.hfr1107.top/tv/smt.php?id=Starvijay
+Starmaa HD,http://000.hfr1107.top/tv/smt.php?id=starmaa_raj#http://000.hfr1107.top/tv/smt.php?id=starmaa_raj
+Starmaa Movies HD,http://000.hfr1107.top/tv/smt.php?id=starmaamovies_raj#http://000.hfr1107.top/tv/smt.php?id=starmaamovies_raj
+Starplus HD,http://000.hfr1107.top/tv/smt.php?id=Starplushd#http://000.hfr1107.top/tv/smt.php?id=Starplushd
+Sun Music,http://000.hfr1107.top/tv/smt.php?id=Sunmusic#http://000.hfr1107.top/tv/smt.php?id=Sunmusic
+Sun TV HD,http://000.hfr1107.top/tv/smt.php?id=Suntv#http://000.hfr1107.top/tv/smt.php?id=Suntv
+Sun TV India,http://000.hfr1107.top/tv/smt.php?id=suntv_raj#http://000.hfr1107.top/tv/smt.php?id=suntv_raj
+Supersports 1,http://000.hfr1107.top/tv/smt.php?id=Assp1#http://000.hfr1107.top/tv/smt.php?id=Assp1
+Supersports 2,http://000.hfr1107.top/tv/smt.php?id=Assp2#http://000.hfr1107.top/tv/smt.php?id=Assp2
+Supersports 3,http://000.hfr1107.top/tv/smt.php?id=Assp3#http://000.hfr1107.top/tv/smt.php?id=Assp3
+Supersports 4,http://000.hfr1107.top/tv/smt.php?id=Assp4#http://000.hfr1107.top/tv/smt.php?id=Assp4
+Suria,http://000.hfr1107.top/tv/smt.php?id=Suria#http://000.hfr1107.top/tv/smt.php?id=Suria
+Tawaf TV,http://000.hfr1107.top/tv/smt.php?id=TawafTV#http://000.hfr1107.top/tv/smt.php?id=TawafTV
+Thai Thai,http://000.hfr1107.top/tv/smt.php?id=thaithai_pat#http://000.hfr1107.top/tv/smt.php?id=thaithai_pat
+Thairath,http://000.hfr1107.top/tv/smt.php?id=thairath_pat#http://000.hfr1107.top/tv/smt.php?id=thairath_pat
+TLC,http://000.hfr1107.top/tv/smt.php?id=Tlc#http://000.hfr1107.top/tv/smt.php?id=Tlc
+Tnn24,http://000.hfr1107.top/tv/smt.php?id=tnn24_pat#http://000.hfr1107.top/tv/smt.php?id=tnn24_pat
+Tnt Sports 1,http://000.hfr1107.top/tv/smt.php?id=6fac0aaead#http://000.hfr1107.top/tv/smt.php?id=6fac0aaead
+TNT Sports 2,http://000.hfr1107.top/tv/smt.php?id=d9a76a79cc#http://000.hfr1107.top/tv/smt.php?id=d9a76a79cc
+TNT Sports 3,http://000.hfr1107.top/tv/smt.php?id=5fea4d73db#http://000.hfr1107.top/tv/smt.php?id=5fea4d73db
+TNT Sports 4,http://000.hfr1107.top/tv/smt.php?id=tntsport4#http://000.hfr1107.top/tv/smt.php?id=tntsport4
+TOKYOMX,http://000.hfr1107.top/tv/smt.php?id=tokyomx_japan#http://000.hfr1107.top/tv/smt.php?id=tokyomx_japan
+tpbs,http://000.hfr1107.top/tv/smt.php?id=tpbs_pat#http://000.hfr1107.top/tv/smt.php?id=tpbs_pat
+TPTV,http://000.hfr1107.top/tv/smt.php?id=tptv_pat#http://000.hfr1107.top/tv/smt.php?id=tptv_pat
+Trans 7,http://000.hfr1107.top/tv/smt.php?id=Trans7_eko#http://000.hfr1107.top/tv/smt.php?id=Trans7_eko
+Transtv,http://000.hfr1107.top/tv/smt.php?id=Transtv#http://000.hfr1107.top/tv/smt.php?id=Transtv
+TV1,http://000.hfr1107.top/tv/smt.php?id=TV1#http://000.hfr1107.top/tv/smt.php?id=TV1
+TV1 backup,http://000.hfr1107.top/tv/smt.php?id=TV1_backup#http://000.hfr1107.top/tv/smt.php?id=TV1_backup
+TV2,http://000.hfr1107.top/tv/smt.php?id=TV2#http://000.hfr1107.top/tv/smt.php?id=TV2
+TV3,http://000.hfr1107.top/tv/smt.php?id=TV3#http://000.hfr1107.top/tv/smt.php?id=TV3
+TV3 SD,http://000.hfr1107.top/tv/smt.php?id=TV3_mega#http://000.hfr1107.top/tv/smt.php?id=TV3_mega
+TV8,http://000.hfr1107.top/tv/smt.php?id=TV8#http://000.hfr1107.top/tv/smt.php?id=TV8
+TV9,http://000.hfr1107.top/tv/smt.php?id=TV9#http://000.hfr1107.top/tv/smt.php?id=TV9
+TVB Asia,http://000.hfr1107.top/tv/smt.php?id=Tvbasia#http://000.hfr1107.top/tv/smt.php?id=Tvbasia
+TVB Classic,http://000.hfr1107.top/tv/smt.php?id=Tvbclassic#http://000.hfr1107.top/tv/smt.php?id=Tvbclassic
+TVB Entertainment,http://000.hfr1107.top/tv/smt.php?id=Tvbentertainment#http://000.hfr1107.top/tv/smt.php?id=Tvbentertainment
+TVB Jade,http://000.hfr1107.top/tv/smt.php?id=Tvbjade#http://000.hfr1107.top/tv/smt.php?id=Tvbjade
+TVB 星河台 Xing He,http://000.hfr1107.top/tv/smt.php?id=Xinhe#http://000.hfr1107.top/tv/smt.php?id=Xinhe
+TVMU,http://000.hfr1107.top/tv/smt.php?id=TVMU_eko#http://000.hfr1107.top/tv/smt.php?id=TVMU_eko
+TvN,http://000.hfr1107.top/tv/smt.php?id=TVN#http://000.hfr1107.top/tv/smt.php?id=TVN
+tvN Movie,http://000.hfr1107.top/tv/smt.php?id=Tvnmovie#http://000.hfr1107.top/tv/smt.php?id=Tvnmovie
+Tvone,http://000.hfr1107.top/tv/smt.php?id=Tvone#http://000.hfr1107.top/tv/smt.php?id=Tvone
+TVRI National,http://000.hfr1107.top/tv/smt.php?id=TVRI#http://000.hfr1107.top/tv/smt.php?id=TVRI
+Vasantham,http://000.hfr1107.top/tv/smt.php?id=Vasantham#http://000.hfr1107.top/tv/smt.php?id=Vasantham
+Vellithirai,http://000.hfr1107.top/tv/smt.php?id=Vellithirai#http://000.hfr1107.top/tv/smt.php?id=Vellithirai
+Vijay Super,http://000.hfr1107.top/tv/smt.php?id=vijaysuper_raj#http://000.hfr1107.top/tv/smt.php?id=vijaysuper_raj
+Vision Prime,http://000.hfr1107.top/tv/smt.php?id=VisionPrime#http://000.hfr1107.top/tv/smt.php?id=VisionPrime
+VTV 1,http://000.hfr1107.top/tv/smt.php?id=viet_vtv1#http://000.hfr1107.top/tv/smt.php?id=viet_vtv1
+VTV 7,http://000.hfr1107.top/tv/smt.php?id=viet_vtv7#http://000.hfr1107.top/tv/smt.php?id=viet_vtv7
+Warner TV,http://000.hfr1107.top/tv/smt.php?id=WarnerTV#http://000.hfr1107.top/tv/smt.php?id=WarnerTV
+WION,http://000.hfr1107.top/tv/smt.php?id=Wion#http://000.hfr1107.top/tv/smt.php?id=Wion
+Workpoint,http://000.hfr1107.top/tv/smt.php?id=workpoint_pat#http://000.hfr1107.top/tv/smt.php?id=workpoint_pat
+WWE,http://000.hfr1107.top/tv/smt.php?id=Wwe#http://000.hfr1107.top/tv/smt.php?id=Wwe
+Yonhap News,http://000.hfr1107.top/tv/smt.php?id=yonhapnews_korea#http://000.hfr1107.top/tv/smt.php?id=yonhapnews_korea
+YTN,http://000.hfr1107.top/tv/smt.php?id=ytn_korea#http://000.hfr1107.top/tv/smt.php?id=ytn_korea
+YTN DMB,http://000.hfr1107.top/tv/smt.php?id=ytndmb_korea#http://000.hfr1107.top/tv/smt.php?id=ytndmb_korea
+YTN Korean,http://000.hfr1107.top/tv/smt.php?id=ytnkorean_korea#http://000.hfr1107.top/tv/smt.php?id=ytnkorean_korea
+YTN Science,http://000.hfr1107.top/tv/smt.php?id=ytnscience_korea#http://000.hfr1107.top/tv/smt.php?id=ytnscience_korea
+Zee Action,http://000.hfr1107.top/tv/smt.php?id=Zeeaction#http://000.hfr1107.top/tv/smt.php?id=Zeeaction
+Zee Business,http://000.hfr1107.top/tv/smt.php?id=Zeebusiness#http://000.hfr1107.top/tv/smt.php?id=Zeebusiness
+Zee Cinema HD,http://000.hfr1107.top/tv/smt.php?id=Zeecinemahd#http://000.hfr1107.top/tv/smt.php?id=Zeecinemahd
+Zee News,http://000.hfr1107.top/tv/smt.php?id=Zeenews#http://000.hfr1107.top/tv/smt.php?id=Zeenews
+Zee Tamil,http://000.hfr1107.top/tv/smt.php?id=Zeetamil#http://000.hfr1107.top/tv/smt.php?id=Zeetamil
+Zee TV HD,http://000.hfr1107.top/tv/smt.php?id=Zeetvhd#http://000.hfr1107.top/tv/smt.php?id=Zeetvhd
+テレビ朝日 Asahi TV,http://000.hfr1107.top/tv/smt.php?id=asahitv_japan#http://000.hfr1107.top/tv/smt.php?id=asahitv_japan
+テレビ東京 Tokyo TV,http://000.hfr1107.top/tv/smt.php?id=tokyotv_japan#http://000.hfr1107.top/tv/smt.php?id=tokyotv_japan
+三立戏剧台,http://000.hfr1107.top/tv/smt.php?id=sanlixiju_twn#http://000.hfr1107.top/tv/smt.php?id=sanlixiju_twn
+中天新闻 HD,http://000.hfr1107.top/tv/smt.php?id=ctinews#http://000.hfr1107.top/tv/smt.php?id=ctinews
+凤凰卫视,http://000.hfr1107.top/tv/smt.php?id=phoenixtv_hd#http://000.hfr1107.top/tv/smt.php?id=phoenixtv_hd
+华丽台 HD （Wah Lai Toi）,http://000.hfr1107.top/tv/smt.php?id=Wlt#http://000.hfr1107.top/tv/smt.php?id=Wlt
+欢喜台 HD （Hua Hee Tai）,http://000.hfr1107.top/tv/smt.php?id=Huahee#http://000.hfr1107.top/tv/smt.php?id=Huahee
+爱奇艺 iQiyi,http://000.hfr1107.top/tv/smt.php?id=Qiyi#http://000.hfr1107.top/tv/smt.php?id=Qiyi
+福建东南卫视,http://000.hfr1107.top/tv/smt.php?id=fujian
+美食星球,http://000.hfr1107.top/tv/smt.php?id=foodplanet_twn#http://000.hfr1107.top/tv/smt.php?id=foodplanet_twn
