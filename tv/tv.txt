@@ -1,47 +1,3 @@
-央视频道,#genre#
-CCTV1,http://49.77.104.76:8554/rtp/239.49.8.129:6000#http://49.77.104.76:8554/rtp/239.49.8.19:9614
-CCTV2,http://49.77.104.76:8554/rtp/239.49.8.130:6000#http://49.77.104.76:8554/rtp/239.49.8.50:9802
-CCTV3,http://49.77.104.76:8554/rtp/239.49.1.3:6000
-CCTV4,http://49.77.104.76:8554/rtp/239.49.8.131:6000
-CCTV5,http://49.77.104.76:8554/rtp/239.49.1.5:6000
-CCTV5+,http://49.77.104.76:8554/rtp/239.49.8.18:9610
-CCTV6,http://49.77.104.76:8554/rtp/239.49.1.6:6000
-CCTV7,http://49.77.104.76:8554/rtp/239.49.1.254:6000
-CCTV8,http://49.77.104.76:8554/rtp/239.49.1.8:6000
-CCTV9,http://49.77.104.76:8554/rtp/239.49.8.53:9814
-CCTV10,http://49.77.104.76:8554/rtp/239.49.8.134:6000#http://49.77.104.76:8554/rtp/239.49.8.54:9818
-CCTV11,http://49.77.104.76:8554/rtp/239.49.1.11:6000
-CCTV12,http://49.77.104.76:8554/rtp/239.49.8.135:6000#http://49.77.104.76:8554/rtp/239.49.8.55:9822
-CCTV13,http://49.77.104.76:8554/rtp/239.49.1.13:6000
-CCTV14,http://49.77.104.76:8554/rtp/239.49.8.136:6000#http://49.77.104.76:8554/rtp/239.49.8.56:9826
-CCTV15,http://49.77.104.76:8554/rtp/239.49.1.15:6000
-CCTV17,http://49.77.104.76:8554/rtp/239.49.8.132:6000#http://49.77.104.76:8554/rtp/239.49.8.52:9810
-卫视频道,#genre#
-江苏卫视,http://000.hfr1107.top/tv/smt.php?id=jiangsu_twn#http://49.77.104.76:8554/rtp/239.49.8.16:9602#http://49.77.104.76:8554/rtp/239.49.8.138:6000
-湖南卫视,http://000.hfr1107.top/tv/smt.php?id=hunan_twn#http://49.77.104.76:8554/rtp/239.49.8.12:9418#http://49.77.104.76:8554/rtp/239.49.8.142:6000
-浙江卫视,http://49.77.104.76:8554/rtp/239.49.8.139:6000#http://000.hfr1107.top/tv/smt.php?id=zhejiang_twn#http://49.77.104.76:8554/rtp/239.49.8.20:9618
-东方卫视,http://000.hfr1107.top/tv/smt.php?id=dongfangweishi_twn#http://49.77.104.76:8554/rtp/239.49.8.17:9606#http://49.77.104.76:8554/rtp/239.49.8.140:6000
-安徽卫视,http://49.77.104.76:8554/rtp/239.49.8.204:6000
-北京卫视,http://000.hfr1107.top/tv/smt.php?id=beijing#http://49.77.104.76:8554/rtp/239.49.8.11:9414#http://49.77.104.76:8554/rtp/239.49.8.141:6000
-深圳卫视,http://000.hfr1107.top/tv/smt.php?id=shenzhen#http://49.77.104.76:8554/rtp/239.49.8.15:9430#http://49.77.104.76:8554/rtp/239.49.8.145:6000
-重庆卫视,http://49.77.104.76:8554/rtp/239.49.8.57:9830#http://49.77.104.76:8554/rtp/239.49.8.149:6000
-四川卫视,http://000.hfr1107.top/tv/smt.php?id=sichuan_twn#http://49.77.104.76:8554/rtp/239.49.1.43:6000
-东南卫视,http://49.77.104.76:8554/rtp/239.49.1.45:6000
-广东卫视,http://49.77.104.76:8554/rtp/239.49.8.13:9422#http://000.hfr1107.top/tv/smt.php?id=guangdongweishi_twn#http://49.77.104.76:8554/rtp/239.49.8.143:6000
-广西卫视,http://000.hfr1107.top/tv/smt.php?id=guangxi#http://49.77.104.76:8554/rtp/239.49.1.40:6000
-贵州卫视,http://49.77.104.76:8554/rtp/239.49.1.52:6000
-河北卫视,http://49.77.104.76:8554/rtp/239.49.8.188:6000
-河南卫视,http://49.77.104.76:8554/rtp/239.49.1.44:6000
-黑龙江卫视,http://49.77.104.76:8554/rtp/239.49.8.14:9426#http://49.77.104.76:8554/rtp/239.49.8.144:6000
-湖北卫视,http://000.hfr1107.top/tv/smt.php?id=hubei#http://49.77.104.76:8554/rtp/239.49.8.8:9632#http://49.77.104.76:8554/rtp/239.49.8.147:6000
-江西卫视,http://49.77.104.76:8554/rtp/239.49.8.185:6000
-吉林卫视,http://49.77.104.76:8554/rtp/239.49.1.49:6000
-辽宁卫视,http://49.77.104.76:8554/rtp/239.49.8.48:8000#http://49.77.104.76:8554/rtp/239.49.1.35:6000
-青海卫视,http://49.77.104.76:8554/rtp/239.49.1.53:6000
-山东卫视,http://49.77.104.76:8554/rtp/239.49.8.7:9306#http://49.77.104.76:8554/rtp/239.49.8.146:6000
-山西卫视,http://49.77.104.76:8554/rtp/239.49.1.51:6000
-海南卫视,http://49.77.104.76:8554/rtp/239.49.1.41:6000
-云南卫视,http://49.77.104.76:8554/rtp/239.49.1.235:6000
 ☘️港·澳·台,#genre#
 凤凰资讯,http://000.hfr1107.top/tv/smt.php?id=phoenixinfo_hd
 凤凰香港,http://000.hfr1107.top/tv/smt.php?id=hkphoenix_twn
@@ -124,10 +80,6 @@ RHK 31,http://000.hfr1107.top/tv/smt.php?id=rhk31_twn
 VIUTV1,http://000.hfr1107.top/tv/smt.php?id=viu1_twn
 RHK 32,http://000.hfr1107.top/tv/smt.php?id=rhk32_twn
 Viu6,http://000.hfr1107.top/tv/smt.php?id=viusix_twn
-CCTV-6,http://000.hfr1107.top/tv/smt.php?id=cctv6#http://000.hfr1107.top/tv/smt.php?id=cctv6
-广东南方卫视,http://000.hfr1107.top/tv/smt.php?id=nanfang_twn
-珠江台,http://000.hfr1107.top/tv/smt.php?id=zhujiang
-CGTN,http://000.hfr1107.top/tv/smt.php?id=CGTN
 爱尔达体育2台,http://000.hfr1107.top/tv/smt.php?id=eltasport2_twn
 爱尔达体育3台,http://000.hfr1107.top/tv/smt.php?id=eltasport3_twn
 翡翠台,http://000.hfr1107.top/tv/smt.php?id=jade_twn
@@ -149,10 +101,6 @@ Thrill,http://000.hfr1107.top/tv/smt.php?id=Thrill
 美亚电影台,http://000.hfr1107.top/tv/smt.php?id=meiyamovie_twn
 年代新闻,http://000.hfr1107.top/tv/smt.php?id=niandainews_twn
 亚洲美食,http://000.hfr1107.top/tv/smt.php?id=afc_twn
-☘️江苏省,#genre#
-南京新闻综合,http://49.77.104.76:8554/rtp/239.49.0.25:8192
-☘️天津市,#genre#
-天津卫视,http://49.77.104.76:8554/rtp/239.49.8.35:8620#http://49.77.104.76:8554/rtp/239.49.8.148:6000
 其他,#genre#
 ABC News,http://000.hfr1107.top/tv/smt.php?id=abcnews_glo
 Adithya,http://000.hfr1107.top/tv/smt.php?id=Adithya
@@ -228,22 +176,6 @@ CBeebies,http://000.hfr1107.top/tv/smt.php?id=Cbeebies
 CBS,http://000.hfr1107.top/tv/smt.php?id=cbs_korea
 CBS HD,http://000.hfr1107.top/tv/smt.php?id=cbshd_glo
 CBSN HD,http://000.hfr1107.top/tv/smt.php?id=cbsn_glo
-CCTV-1 综合 HD,http://000.hfr1107.top/tv/smt.php?id=cctv1
-CCTV-10 科教 HD,http://000.hfr1107.top/tv/smt.php?id=cctv10hd
-CCTV-11 戏曲,http://000.hfr1107.top/tv/smt.php?id=cctv11
-CCTV-12 社会与法,http://000.hfr1107.top/tv/smt.php?id=cctv12
-CCTV-13 新闻频道,http://000.hfr1107.top/tv/smt.php?id=cctv13
-CCTV-14 少儿,http://000.hfr1107.top/tv/smt.php?id=cctv14
-CCTV-15 音乐,http://000.hfr1107.top/tv/smt.php?id=cctv15
-CCTV-2 财经,http://000.hfr1107.top/tv/smt.php?id=cctv2
-CCTV-3 综艺 HD,http://000.hfr1107.top/tv/smt.php?id=cctv3
-CCTV-4 中文国际,http://000.hfr1107.top/tv/smt.php?id=cctv4
-CCTV-5 体育频道,http://000.hfr1107.top/tv/smt.php?id=cctv5
-CCTV-5+ 体育赛事 HD,http://000.hfr1107.top/tv/smt.php?id=cctv5plus
-CCTV-7 军事农业,http://000.hfr1107.top/tv/smt.php?id=cctv7
-CCTV-8 电视剧 HD,http://000.hfr1107.top/tv/smt.php?id=cctv8hd
-CCTV-9 记录 HD,http://000.hfr1107.top/tv/smt.php?id=cctv9hd
-CCTV4 新闻台,http://000.hfr1107.top/tv/smt.php?id=Cctv4
 Celestial Classic,http://000.hfr1107.top/tv/smt.php?id=Celestial2
 Celestial Movies HD,http://000.hfr1107.top/tv/smt.php?id=Celestialindo#http://000.hfr1107.top/tv/smt.php?id=Celestial
 Ceria,http://000.hfr1107.top/tv/smt.php?id=Ceria
@@ -290,7 +222,6 @@ Fight Sports,http://000.hfr1107.top/tv/smt.php?id=Fs
 Foodnetwork Hd,http://000.hfr1107.top/tv/smt.php?id=Foodnetwork
 Fox News,http://000.hfr1107.top/tv/smt.php?id=foxnews_twn
 Freesports,http://000.hfr1107.top/tv/smt.php?id=freesports_antik
-GCTN英语,http://49.77.104.76:8554/rtp/239.49.0.9:8064
 Gmm Channel,http://000.hfr1107.top/tv/smt.php?id=gmmchannel_pat
 GmmOne,http://000.hfr1107.top/tv/smt.php?id=gmmone_pat
 Goshop,http://000.hfr1107.top/tv/smt.php?id=Goshop
@@ -468,18 +399,6 @@ Zee TV HD,http://000.hfr1107.top/tv/smt.php?id=Zeetvhd
 中天新闻 HD,http://000.hfr1107.top/tv/smt.php?id=ctinews
 凤凰卫视,http://000.hfr1107.top/tv/smt.php?id=phoenixtv_hd
 华丽台 HD （Wah Lai Toi）,http://000.hfr1107.top/tv/smt.php?id=Wlt
-南京生活频道,http://49.77.104.76:8554/rtp/239.49.0.26:8200
-南京科教频道,http://49.77.104.76:8554/rtp/239.49.0.183:9434
 欢喜台 HD （Hua Hee Tai）,http://000.hfr1107.top/tv/smt.php?id=Huahee
-江苏优漫卡通,http://49.77.104.76:8554/rtp/239.49.8.119:8000
-江苏体育休闲,http://49.77.104.76:8554/rtp/239.49.8.117:8000
-江苏国际频道,http://49.77.104.76:8554/rtp/239.49.1.23:6000
-江苏城市频道,http://49.77.104.76:8554/rtp/239.49.8.107:8000
-江苏影视频道,http://49.77.104.76:8554/rtp/239.49.8.118:8000
-江苏教育频道,http://49.77.104.76:8554/rtp/239.49.8.122:8000
-江苏新闻频道,http://49.77.104.76:8554/rtp/239.49.8.120:8000
-江苏综艺频道,http://49.77.104.76:8554/rtp/239.49.8.108:8000
-江苏财富天下,http://49.77.104.76:8554/rtp/239.49.1.29:6000
 爱奇艺 iQiyi,http://000.hfr1107.top/tv/smt.php?id=Qiyi
-福建东南卫视,http://000.hfr1107.top/tv/smt.php?id=fujian
 美食星球,http://000.hfr1107.top/tv/smt.php?id=foodplanet_twn
