@@ -5,7 +5,7 @@ CCTV3,https://mursor.ottiptv.cc/bst/cctv3hd@4000000.m3u8#https://mursor.ottiptv.
 CCTV4,https://mursor.ottiptv.cc/bst/cctv4hd4m@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.236:7760
 CCTV5,https://mursor.ottiptv.cc/bst/cctv5hd@4000000.m3u8#https://mursor.ottiptv.cc/bst/cctv5hdhai@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.171:7240
 CCTV5+,https://mursor.ottiptv.cc/bst/cctv5phd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.237:7768
-CCTV6,https://mursor.ottiptv.cc/bst/cctv6hd@4000000.m3u8#https://mursor.ottiptv.cc/bst/cctv6@1300000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.172:7248
+CCTV6,https://mursor.ottiptv.cc/bst/cctv6hd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.172:7248#https://mursor.ottiptv.cc/bst/cctv6@1300000.m3u8
 CCTV7,https://mursor.ottiptv.cc/bst/cctv7hd4m@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.239:7784
 CCTV8,https://mursor.ottiptv.cc/bst/cctv8hd@4000000.m3u8#https://mursor.ottiptv.cc/bst/cctv8@1300000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.173:7256
 CCTV9,https://mursor.ottiptv.cc/bst/cctv9hd4mc@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.240:7792
@@ -43,14 +43,14 @@ CETV4,https://mursor.ottiptv.cc/bst/cetv4@1300000.m3u8
 北京卫视,https://mursor.ottiptv.cc/bst/bjwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.162:7168
 深圳卫视,https://mursor.ottiptv.cc/bst/szwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.156:7120
 重庆卫视,https://mursor.ottiptv.cc/bst/cqwshd4m@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.31:6176
-四川卫视,http://183.162.205.235:4022/rtp/238.1.78.30:6168#https://mursor.ottiptv.cc/bst/scwshd4m@4000000.m3u8
+四川卫视,https://mursor.ottiptv.cc/bst/scwshd4m@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.30:6168
 东南卫视,https://mursor.ottiptv.cc/bst/dnwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.22:6104
 广东卫视,https://mursor.ottiptv.cc/bst/gdwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.161:7160
 广西卫视,https://mursor.ottiptv.cc/bst/gxwshd4m@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.70:6432
 厦门卫视,http://183.162.205.235:4022/rtp/238.1.78.246:7840
 甘肃卫视,https://mursor.ottiptv.cc/bst/gswshd4m@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.79.36:4400
 贵州卫视,https://mursor.ottiptv.cc/bst/gzwshd4m@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.244:7824
-河北卫视,https://mursor.ottiptv.cc/bst/hbwshd4m@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.245:7832
+河北卫视,http://183.162.205.235:4022/rtp/238.1.78.245:7832#https://mursor.ottiptv.cc/bst/hbwshd4m@4000000.m3u8
 河南卫视,https://mursor.ottiptv.cc/bst/henwshd4m@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.79.65:4632
 黑龙江卫视,https://mursor.ottiptv.cc/bst/hljwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.159:7144
 湖北卫视,https://mursor.ottiptv.cc/bst/hbwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.168:7216
@@ -60,7 +60,7 @@ CETV4,https://mursor.ottiptv.cc/bst/cetv4@1300000.m3u8
 辽宁卫视,https://mursor.ottiptv.cc/bst/lnwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.21:6096
 宁夏卫视,https://mursor.ottiptv.cc/bst/nxws@1300000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.109:6744
 青海卫视,https://mursor.ottiptv.cc/bst/qhws@1300000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.102:6688
-山东卫视,https://mursor.ottiptv.cc/bst/sdwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.169:7224
+山东卫视,http://183.162.205.235:4022/rtp/238.1.78.169:7224#https://mursor.ottiptv.cc/bst/sdwshd@4000000.m3u8
 山西卫视,https://mursor.ottiptv.cc/bst/shanxiws@1300000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.95:6632
 天津卫视,https://mursor.ottiptv.cc/bst/tjwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.20:6088
 海南卫视,https://mursor.ottiptv.cc/bst/hainwshd4m@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.79.49:4504
