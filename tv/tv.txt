@@ -38,7 +38,7 @@ CETV4,https://mursor.ottiptv.cc/bst/cetv4@1300000.m3u8
 江苏卫视,https://mursor.ottiptv.cc/bst/jswshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.165:7192
 湖南卫视,https://mursor.ottiptv.cc/bst/hnwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.160:7152
 浙江卫视,https://mursor.ottiptv.cc/bst/zjwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.164:7184
-东方卫视,https://mursor.ottiptv.cc/bst/hddfws@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.163:7176
+东方卫视,http://183.162.205.235:4022/rtp/238.1.78.163:7176#https://mursor.ottiptv.cc/bst/hddfws@4000000.m3u8
 安徽卫视,https://mursor.ottiptv.cc/bst/ahwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.79.27:4328#http://183.162.205.235:4022/rtp/238.1.78.150:7072
 北京卫视,https://mursor.ottiptv.cc/bst/bjwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.162:7168
 深圳卫视,https://mursor.ottiptv.cc/bst/szwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.156:7120
@@ -54,7 +54,7 @@ CETV4,https://mursor.ottiptv.cc/bst/cetv4@1300000.m3u8
 河南卫视,https://mursor.ottiptv.cc/bst/henwshd4m@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.79.65:4632
 黑龙江卫视,https://mursor.ottiptv.cc/bst/hljwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.159:7144
 湖北卫视,https://mursor.ottiptv.cc/bst/hbwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.168:7216
-江西卫视,https://mursor.ottiptv.cc/bst/jxwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.26:6136
+江西卫视,http://183.162.205.235:4022/rtp/238.1.78.26:6136#https://mursor.ottiptv.cc/bst/jxwshd@4000000.m3u8
 吉林卫视,https://mursor.ottiptv.cc/bst/jlwshd4m@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.79.48:4496
 内蒙古卫视,https://mursor.ottiptv.cc/bst/nmgws@1300000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.103:6696
 辽宁卫视,https://mursor.ottiptv.cc/bst/lnwshd@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.21:6096
@@ -80,7 +80,7 @@ SiTV欢笑剧场,https://mursor.ottiptv.cc/bst/hxjchd@4000000.m3u8
 金色学堂,https://mursor.ottiptv.cc/bst/jsxthd4m@4000000.m3u8
 游戏风云,https://mursor.ottiptv.cc/bst/yxfyhd@4000000.m3u8
 法治天地,https://mursor.ottiptv.cc/bst/fztd2d5m@2500000.m3u8
-金鹰纪实,http://183.162.205.235:4022/rtp/238.1.79.9:4184#https://mursor.ottiptv.cc/bst/jyjs8m@8000000.m3u8
+金鹰纪实,https://mursor.ottiptv.cc/bst/jyjs8m@8000000.m3u8#http://183.162.205.235:4022/rtp/238.1.79.9:4184
 茶频道,http://183.162.205.235:4022/rtp/238.1.79.30:4352
 快乐垂钓,https://mursor.ottiptv.cc/bst/klcdhd4m@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.79.31:4360
 金鹰卡通,https://mursor.ottiptv.cc/bst/jykt@1300000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.100:6672
@@ -90,7 +90,7 @@ SiTV欢笑剧场,https://mursor.ottiptv.cc/bst/hxjchd@4000000.m3u8
 嘉佳卡通,https://mursor.ottiptv.cc/bst/jjkt@1300000.m3u8
 动漫秀场,https://mursor.ottiptv.cc/bst/dmxchd@4000000.m3u8
 金鹰卡通,https://mursor.ottiptv.cc/bst/jykt@1300000.m3u8#http://183.162.205.235:4022/rtp/238.1.78.100:6672
-金鹰纪实,http://183.162.205.235:4022/rtp/238.1.79.9:4184#https://mursor.ottiptv.cc/bst/jyjs8m@8000000.m3u8
+金鹰纪实,https://mursor.ottiptv.cc/bst/jyjs8m@8000000.m3u8#http://183.162.205.235:4022/rtp/238.1.79.9:4184
 金色学堂,https://mursor.ottiptv.cc/bst/jsxthd4m@4000000.m3u8
 乐游,https://mursor.ottiptv.cc/bst/qjshd@4000000.m3u8
 快乐垂钓,https://mursor.ottiptv.cc/bst/klcdhd4m@4000000.m3u8#http://183.162.205.235:4022/rtp/238.1.79.31:4360
