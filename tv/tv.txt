@@ -35,10 +35,10 @@ CETV1,http://183.162.205.235:4022/rtp/238.1.78.158:7136#http://000.hfr1107.top/s
 CETV2,http://000.hfr1107.top/smt/migu_hd.php?id=923287211
 CETV4,http://000.hfr1107.top/smt/migu_hd.php?id=923287339
 卫视频道,#genre#
-江苏卫视,http://183.162.205.235:4022/rtp/238.1.78.165:7192#http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/jiangsu.m3u8#http://000.hfr1107.top/smt/migu_hd.php?id=623899368
+江苏卫视,http://183.162.205.235:4022/rtp/238.1.78.165:7192#http://000.hfr1107.top/smt/migu_hd.php?id=623899368#http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/jiangsu.m3u8
 湖南卫视,http://183.162.205.235:4022/rtp/238.1.78.160:7152#http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/hunan.m3u8
 浙江卫视,http://183.162.205.235:4022/rtp/238.1.78.164:7184#http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/zhejiang.m3u8
-东方卫视,http://183.162.205.235:4022/rtp/238.1.78.163:7176#http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/dongfang.m3u8#http://000.hfr1107.top/smt/migu_hd.php?id=651632648
+东方卫视,http://183.162.205.235:4022/rtp/238.1.78.163:7176#http://000.hfr1107.top/smt/migu_hd.php?id=651632648#http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/dongfang.m3u8
 安徽卫视,http://183.162.205.235:4022/rtp/238.1.79.27:4328#http://183.162.205.235:4022/rtp/238.1.78.150:7072#http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/anhui.m3u8
 北京卫视,http://183.162.205.235:4022/rtp/238.1.78.162:7168#http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/beijing.m3u8
 深圳卫视,http://183.162.205.235:4022/rtp/238.1.78.156:7120#http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/shenzheng.m3u8
