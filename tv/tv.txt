@@ -53,7 +53,7 @@ CETV4,http://000.hfr1107.top/smt/migu_hd.php?id=923287339
 河北卫视,http://183.162.205.235:4022/rtp/238.1.78.245:7832#http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/hebei.m3u8
 河南卫视,http://183.162.205.235:4022/rtp/238.1.79.65:4632#http://000.hfr1107.top/smt/migu_hd.php?id=790187291#http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/henan.m3u8
 黑龙江卫视,http://183.162.205.235:4022/rtp/238.1.78.159:7144#http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/heilongjiang.m3u8
-湖北卫视,http://183.162.205.235:4022/rtp/238.1.78.168:7216#http://000.hfr1107.top/smt/migu_hd.php?id=947472496#http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/hubei.m3u8
+湖北卫视,http://183.162.205.235:4022/rtp/238.1.78.168:7216#http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/hubei.m3u8#http://000.hfr1107.top/smt/migu_hd.php?id=947472496
 江西卫视,http://183.162.205.235:4022/rtp/238.1.78.26:6136#http://000.hfr1107.top/smt/migu_hd.php?id=783847495#http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/jiangxi.m3u8
 吉林卫视,http://183.162.205.235:4022/rtp/238.1.79.48:4496#http://000.hfr1107.top/smt/migu_hd.php?id=947472500#http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/jiling.m3u8
 内蒙古卫视,http://183.162.205.235:4022/rtp/238.1.78.103:6696#http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/neimenggu.m3u8#http://000.hfr1107.top/tvcs/ph/proxy.php?ua=okHttp%2FMod-1.0.0&url=https://mursor.ottiptv.cc/mcp/neimenggu.m3u
