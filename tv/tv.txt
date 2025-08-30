@@ -2,7 +2,7 @@
 CCTV1,http://000.hfr1107.top/smt/migu_hd.php?id=608807420
 CCTV2,http://000.hfr1107.top/smt/migu_hd.php?id=631780532
 CCTV3,http://000.hfr1107.top/smt/migu_hd.php?id=624878271
-CCTV4,http://000.hfr1107.top/smt/migu_hd.php?id=608807419#http://000.hfr1107.top/smt/migu_hd.php?id=608807416#http://000.hfr1107.top/smt/migu_hd.php?id=631780421
+CCTV4,http://000.hfr1107.top/smt/migu_hd.php?id=608807416#http://000.hfr1107.top/smt/migu_hd.php?id=631780421#http://000.hfr1107.top/smt/migu_hd.php?id=608807419
 CCTV5,http://000.hfr1107.top/smt/migu_hd.php?id=641886683
 CCTV5+,http://000.hfr1107.top/smt/migu_hd.php?id=641886773
 CCTV6,http://000.hfr1107.top/smt/migu_hd.php?id=624878396
@@ -13,7 +13,7 @@ CCTV10,http://000.hfr1107.top/smt/migu_hd.php?id=624878405
 CCTV11,http://000.hfr1107.top/smt/migu_hd.php?id=667987558
 CCTV13,http://000.hfr1107.top/smt/migu_hd.php?id=608807423
 CCTV14,http://000.hfr1107.top/smt/migu_hd.php?id=624878440
-CCTV15,http://000.hfr1107.top/smt/migu_hd.php?id=673168223#http://000.hfr1107.top/smt/migu_hd.php?id=67316822
+CCTV15,http://000.hfr1107.top/smt/migu_hd.php?id=67316822#http://000.hfr1107.top/smt/migu_hd.php?id=673168223
 CCTV16,http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mst/6000061.m3u8
 CCTV8K,http://000.hfr1107.top/smt/migu_mcp.php?url=https://mursor.ottiptv.cc/mcp/cctv8k.m3u8
 CETV1,http://000.hfr1107.top/smt/migu_hd.php?id=923287154
