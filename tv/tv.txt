@@ -143,7 +143,7 @@ CCTV-17农业,http://k.061899.xyz/m.php?id=cctv17
 西藏卫视,http://k.061899.xyz/m.php?id=xzws
 内蒙古卫视,http://m.061899.xyz/mg/nmgws
 
-港台频道,#genre#
+港台|IPV4,#genre#
 凤凰卫视中文,http://m.061899.xyz/mg/fhzw
 凤凰卫视资讯,http://m.061899.xyz/mg/fhzx
 凤凰香港,http://m.061899.xyz/mg/fhhk
@@ -170,7 +170,7 @@ RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
-数字频道,#genre#
+数字|IPV4,#genre#
 CHC影迷电影,http://m.061899.xyz/mg/ymdy
 CHC动作电影,http://m.061899.xyz/mg/dzdy
 CHC家庭影院,http://m.061899.xyz/mg/jtyy
@@ -182,7 +182,7 @@ CHC家庭影院,http://m.061899.xyz/mg/jtyy
 卡酷少儿,http://183.162.205.235:4022/rtp/238.1.78.97:6648
 嘉佳卡通,http://000.hfr1107.top/smt/migu_hd.php?id=614952364
 
-江苏地方频道,#genre#
+江苏|IPV4,#genre#
 江苏国际,http://000.hfr1107.top/smt/migu_hd.php?id=626064674
 江苏教育,http://000.hfr1107.top/smt/migu_hd.php?id=628008321
 东台综合,http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8
