@@ -47,7 +47,11 @@ CCTV-17农业,http://hui.guo.my/api.php?id=mmh38ZCTGY23nQpw55GT#http://go.bkpcp.
 宁夏卫视,http://m.061899.xyz/mg/nxws#http://t.061899.xyz/tl/tl.php?id=nxws
 西藏卫视,http://m.061899.xyz/mg/xzws#http://k.061899.xyz/m.php?id=xzws
 内蒙古卫视,http://m.061899.xyz/mg/nmgws
-港台频道,#genre#"																																										
+港台频道,#genre#
+凤凰卫视中文,http://m.061899.xyz/mg/fhzw
+凤凰卫视资讯,http://m.061899.xyz/mg/fhzx
+凤凰香港,http://m.061899.xyz/mg/fhhk
+香港卫视,https://migu.188766.xyz/?migutoken=9e4e5b255c0408d0eeb92cfe2b5d0c09&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
 中天新闻,http://t.061899.xyz/tl/js/js.php?id=ztxwt
 tvbs新闻,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt																											
 寰宇新闻,http://t.061899.xyz/tl/js/js.php?id=hyxwt
@@ -85,11 +89,6 @@ CHC家庭影院,http://m.061899.xyz/mg/jtyy
 金鹰纪实,http://183.162.205.235:4022/rtp/238.1.79.9:4184
 劲爆体育,http://m.061899.xyz/mg/jbty
 快乐垂钓,http://183.162.205.235:4022/rtp/238.1.79.31:4360
-港台频道,#genre#
-凤凰卫视中文,http://m.061899.xyz/mg/fhzw
-凤凰卫视资讯,http://m.061899.xyz/mg/fhzx
-凤凰香港,http://m.061899.xyz/mg/fhhk
-香港卫视,https://migu.188766.xyz/?migutoken=9e4e5b255c0408d0eeb92cfe2b5d0c09&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
 江苏地方频道,#genre#
 江苏国际,http://000.hfr1107.top/smt/migu_hd.php?id=626064674#http://000.hfr1107.top/smt/migu_hd.php?id=626064674
 江苏教育,http://000.hfr1107.top/smt/migu_hd.php?id=628008321#http://000.hfr1107.top/smt/migu_hd.php?id=628008321
